@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="objectives" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Specific Learning Objectives for Each Topic </title>
+    <introduction>
+        <p>
+            The objectives below are organized according to the sections of <em>Active Prelude to Calculus</em>, by Matthew Boelkins.  Note that italicized words and phrases are terminology that you are expected to know, understand, and be able to work with.
+        </p>
+    </introduction>
+
+    <subsection xml:id="chapter-1">
+        <title>Relating Changing Quantities (Chapter 1)</title>
+        <subsubsection xml:id="section-11">
+            <title>Changing in Tandem (Section 1.1)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Given two related quantities and appropriate information about the relationship between the quantities, describe how one quantity changes when the other changes.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Draw a rough graph of the relationship between two given variables.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+
+        <subsubsection xml:id="section-12">
+            <title>Functions: Modeling Relationships (Sections 1.2)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Explain how a <em>function</em> is a process that converts inputs into outputs.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain the definition of a function.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Determine whether or not a given <em>relation</em> is a function.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Determine the <em>domain</em>, <em>codomain</em>, and <em>range</em> of a given function.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            For an applied problem, determine the domain and range of a function that makes sense for the problem (e.g. if the input is distance, it cannot be a negative number).
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            For a function given as a relation, find the formula for the function.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+
+        <subsubsection xml:id="section-13">
+            <title>The Average Rate of Change of a Function (Section 1.3)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Given a function <m>f</m> and an interval <m>[a, b]</m> in the domain of <m>f</m>, compute the <em>average rate of change</em> over the interval (i.e. compute <m>\frac{f(b)-f(a)}{b-a}</m>).
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            In an applied problem, interpret what the average rate of change of the function means (e.g. if the input <m>x</m> is time and <m>f(x)</m> is the distance traveled at time <m>x</m>, then the average rate of change is velocity).
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            In an applied problem, identify the units of the average rate of change (e.g. if the input <m>x</m> is time given in minutes and the function <m>f(x)</m> is the temperature given in <m>^\circ</m>F of an object at time <m>x</m> minutes, then the units of the average rate of change is <m>^\circ</m>F per minute).
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the average rate of change to make predictions about the function.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Identify when a function is <em>increasing</em> and when it is <em>decreasing</em>.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+
+        <subsubsection xml:id="section-14">
+            <title>Linear Functions (Section 1.4)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Recognize the formula of a <em>linear function</em> (i.e. <m>f(x) = ax + b</m>, where <m>a</m> and <m>b</m> are constants).
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Interpret a linear function as a function where the average rate of change between every pair of points is the same.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given a point on a line and the <em>slope</em> of the line, determine a formula for the linear function.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given two points on a line, determine a formula for the linear function.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            For an applied problem involving a linear function, use your understanding of linear functions to interpret the function and make predictions.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+        
+        <subsubsection xml:id="section-15">
+            <title>Quadratic Functions (Section 1.5)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Recognize a <em>quadratic function</em> in both standard form and vertex form.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given a quadratic function in any form, determine the <em>vertex</em>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given a quadratic function in any form, determine at what values of <m>x</m> the function is zero. This includes factoring methods and the <em>quadratic formula</em>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given a quadratic function, determine whether it opens up or opens down.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given an applied problem involving a quadratic function, use your understanding of quadratic functions to interpret the function and make predictions.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use solution methods of quadratic equations to solve applied problems involving quadratic functions.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+
+        <subsubsection xml:id="section-16">
+            <title>Composite Functions (Section 1.6)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Given formulas for two functions <m>f</m> and <m>g</m>, determine a formula for the function <m>f \circ g</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given the graph of two functions <m>f</m> and <m>g</m>, compute <m>(f \circ g)(x)</m> for given values of <m>x</m>.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+
+        <subsubsection xml:id="section-17">
+            <title>Inverse Functions (Section 1.7)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Explain and use the definition of <em>inverse functions</em>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given the formula for a function <m>f</m>, determine the formula for the inverse function <m>f^{-1}</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given the graph of a function <m>f</m>, determine whether or not the inverse function <m>f^{-1}</m> exists.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given the graph of a function <m>f</m>, sketch the graph of <m>f^{-1}</m>.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+
+        <subsubsection xml:id="real-valued-functions">
+            <title>Combining Functions (Section 1.9)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Solve application problems where functions are created by adding, subtracting, multiplying, and dividing other functions.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Determine the formulas and input values for a piecewise defined function, given appropriate information about the function.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Sketch the graph of a piecewise defined function.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+    </subsection>
+
+    <subsection xml:id="chapter-3">
+        <title>Exponential and Logarithmic Functions (Chapter 3)</title>
+        <subsubsection xml:id="section-31">
+            <title>Exponential Growth and Decay (Section 3.1)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Explain how an <em>exponential function</em> describes a quantity that either increases or decreases by a fixed percentage over some constant change in the input values (e.g. a quantity that increases by 5% every 2 years).
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Determine the formula for an exponential function given information about the percent increase/decrease of the function and the value of the function at a given input.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Determine the formula for an exponential function given the values of the function at two given inputs.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use your understanding of exponential functions to solve application problems (e.g. interest rate [including compound interest] &amp; radioactive decay).
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+
+        <subsubsection xml:id="section-32">
+            <title>Modeling with Exponential Functions (Section 3.2)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Describe the end behavior of the function <m>f(x) = ab^x</m> for different values of <m>b</m> (i.e. what happens to the function as <m>x \rightarrow \infty</m> or <m>x \rightarrow \infty</m>).
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain why a vertical translation (and perhaps reflection) of an exponential function is appropriate for the temperature of an object over time.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given appropriate information about the temperature of an object and its environment, construct the formula for a function that models the temperature of the object.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+
+        <subsubsection xml:id="section-33">
+            <title>Compound Interest &amp; the Natural Exponential Function (Section 3.3)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Solve problems involving compound interest.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Know that the function <m>f(x) = e^x</m> is the <em>natural exponential function</em>.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+
+        <subsubsection xml:id="section-34">
+            <title>What a Logarithm Is (Section 3.4)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Explain why the function <m>f(x) = b^x</m> has an inverse when <m>b &gt; 0</m> and <m>b \ne 1</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Know that the inverse of <m>f(x)</m> in this case is <m>f^{-1}(x) = \log_b(x)</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the definition of the <em>logarithm functions</em> to compute <m>\log_b(x)</m> for certain values of <m>x</m> and <m>b</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use your understanding of logarithms to solve equations involving exponential and logarithm functions.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+
+        <subsubsection xml:id="section-35">
+            <title>Properties and Applications of Logarithmic Functions (Section 3.5)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Explain the properties <m>\log_b(xy) = \log_b(x) + \log_b(y)</m>, <m>\log_b \left( \frac{x}{y} \right)= \log_b(x) - \log_b(y)</m>, and <m>\log_b(x^r) = r \log_b(x)</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the above properties to solve equations involving variables in exponents.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the above properties to solve applied problems involving exponential functions.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Apply your understanding of exponential and logarithm functions to solve problems similar to half-life problems for exponential decay.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Apply your understanding of exponential and logarithm functions to solve problems similar to doubling time problems for exponential growth.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+
+        <subsubsection xml:id="section-36">
+            <title>Modeling Temperature and Population (Section 3.6)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Use your understanding of exponential functions and logarithm functions to solve applied problems involving temperature of objects in an environment of constant temperature.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use your understanding of exponential functions and logarithm functions to solve applied problems involving exponential and logistic population models.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+    </subsection>
+
+    <subsection xml:id="constructing-real-numbers">
+        <title>Data Analysis</title>
+        <subsubsection xml:id="regression">
+            <title>Regression Models</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Use Desmos or other technology to represent a given data set as points on a graph.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Determine from the graph of the data whether the relationship between the quantities given by your data set is linear, quadratic, exponential, logarithmic, vertically translated exponential (i.e. temperature model), or logistic.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use Desmos or other technology to find an appropriate regression model (i.e. function) on your data.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Analyze the value of <m>R^2</m> and the appearance of the graph of the regression model to determine how well your model fits the data.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use your regression model to make predictions about the quantities measured by your data set.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+    </subsection>
+
+    <subsection xml:id="chapter-5">
+        <title>Polynomial and Rational Functions (Chapter 5)</title>
+        <subsubsection xml:id="section-51-52">
+            <title>Power Functions &amp; Polynomials (Sections 5.1 &amp; 5.2)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            Recognize what a <em>polynomial function</em> <m>f(x)</m> approaches as <m>x \rightarrow \infty</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Recognize what a polynomial function <m>f(x)</m> approaches as <m>x \rightarrow -\infty</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Identify all <m>x</m>-intercepts of the graph of a polynomial expressed in factored form.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the factored form of a polynomial to determine how the graph of the function behaves around the <m>x</m>-intercepts of the graph of the polynomial (i.e. does the graph <q>touch</q> the <m>x</m>-axis or <q>cross</q> the <m>x</m>-axis).
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given the graph of a polynomial function, derive a plausible formula for the function.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+
+        <subsubsection xml:id="section-53">
+            <title>Modeling with Polynomial Functions (Section 5.3)</title>
+            <p>
+                You should be able to do the following:
+                <ul>
+                    <li>
+                        <p>
+                            For a quantity that depends on two variables and also has a constraint, express the quantity as a polynomial or <em>rational function</em> of one variable.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsubsection>
+    </subsection>
+</section>

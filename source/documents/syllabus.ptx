@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Syllabus for Math 122, Section 17</title>
+
+  <introduction>
+    <p>
+    </p>
+  </introduction>
+  <!-- Include chapters -->
+  <subsection xml:id="sec-course-info">
+    <title>General Course Information</title>
+    <p>
+      <dl>
+        <li>
+          <title>Course Title</title>
+          <p>
+            College Algebra
+          </p>
+        </li>
+        <li>
+          <title>Class Meets:</title>
+          <p>
+            MWF 10:00-10:50pm (MAK B-1-110)
+          </p>
+        </li>
+        <li>
+          <title>Blackboard Page Link</title>
+          <p>
+            <url href="https://lms.gvsu.edu/">lms.gvsu.edu</url>
+          </p>
+        </li>
+      </dl>
+    </p>
+  </subsection>
+
+  <subsection xml:id="office-hours">
+    <title>Drop-In Office Hours</title>
+    <p>
+      If you find yourself having trouble with any part of this course, please come to my drop-in office hours for help.  You should also feel welcome to set up appointments with me outside of office hours, including in the evening on Zoom if necessary.  My schedule is on Blackboard in the <term>Course Information &amp; Resources</term> document.
+    </p>
+      <tabular>
+        <row>
+          <cell>Monday</cell> <cell>2:00-3:00</cell>
+        </row>
+        <row>
+          <cell>Tuesday</cell> <cell>3:00-3:50</cell>
+        </row>
+        <row>
+          <cell>Wednesday</cell> <cell>12:00-12:50</cell>
+        </row>
+        <row>
+          <cell>Thursday</cell> <cell>3:00-3:50</cell>
+        </row>
+        <row>
+          <cell>Friday</cell> <cell>9:00-9:50</cell>
+        </row>
+      </tabular>
+    <p>
+      All drop-in office hours will be held in the Peer Collaboration Space (PCS), which is on the second floor of Mackinac Hall, Room A-2-610, across from the Math Center. Also, here is the <url href="https://gvsu-edu.zoom.us/j/97750195382?pwd=TFBDQjFPM2xnWVJiV2Iza0FvdnFyUT09">Zoom link for office hours</url>.
+    </p>
+  </subsection>
+
+  <subsection xml:id="instructor-info">
+    <title>Instructor Information</title>
+    <p>
+      <dl>
+        <li>
+          <title>Name</title>
+          <p>
+            Darren Parker
+          </p>
+        </li>
+        <li>
+          <title>Office</title>
+          <p>
+            MAK A-2-150
+          </p>
+        </li>
+        <li>
+          <title>E-Mail</title>
+          <p>
+            <url href="mailto:parkerda@gvsu.edu">parkerda@gvsu.edu</url>
+          </p>
+        </li>
+      </dl>
+    </p>
+  </subsection>
+
+  <subsection xml:id="course-content">
+    <title>Course Content</title>
+      <subsubsection xml:id="course-description">
+        <title>Course Description</title>
+        <p>
+          A culminating experience in algebra for conceptual understanding and application in other fields. Primary topics include families of functions (polynomial, rational, exponential, logarithmic, and their compositions), algebraic skills for making and using mathematical models, and multiple representations of algebraic relationships. Fulfills Foundations - Mathematical Sciences.
+        </p>
+      </subsubsection>
+      <subsubsection xml:id="prerequisite">
+        <title>Prerequisite</title>
+        <p>
+          MTH 110 or assignment through Grand Valley math placement.
+        </p>
+      </subsubsection>
+      <subsubsection>
+        <title>Course Objectives</title>
+        <p>
+          After successful completion of the course, students will be able to...
+        </p>
+        <p>
+          <ul>
+            <li>
+              <p>
+                Solve mathematical problems using their algebraic understanding
+              </p>
+            </li>
+            <li>
+              <p>
+                Model real world situations and make predictions
+              </p>
+            </li>
+            <li>
+              <p>
+                Synthesize different representations of mathematical structures
+              </p>
+            </li>
+            <li>
+              <p>
+                Write coherent mathematical justifications
+              </p>
+            </li>
+            <li>
+              <p>
+                Use appropriate technology to solve problems
+              </p>
+            </li>
+          </ul>
+        </p>
+      </subsubsection>
+  </subsection>
+  <subsection xml:id="course-resources">
+    <title>Course Resources</title>
+    <subsubsection xml:id="textbooks">
+      <title>Textbook</title>
+      <p>
+        <em>Active Prelude to Calculus</em>, by Matthew Boelkins, Chapters 1, 3, &amp; 5.  The textbook is available free as both a <url href="https://scholarworks.gvsu.edu/books/20/">PDF file</url> and an <url href="https://activecalculus.org/prelude/frontmatter.html">HTML link</url>.  Both of these are available at <url href="https://activecalculus.org/">activecalculus.org</url>, as well as the <term>Course Information &amp; Resources</term> learning module on Blackboard on the <term>Other Information &amp; Resources</term> page.  You may also order a hard copy version in paperback from Amazon for about $17.
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="zoom">
+      <title>Zoom</title>
+      <p>
+        I will have in-person drop-in office hours Monday through Friday. Every office hour can also be attended on Zoom. You can install Zoom from the link <url href="https://gvsu-edu.zoom.us/">gvsu-edu.zoom.us</url>.
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="pdf-scanner">
+      <title>PDF Scanner App</title>
+      <p>
+        While you are welcome to turn in your assignments in hard copy form, all assignments may also be turned in as PDF files on Blackboard. Any handwritten work must be scanned before it is submitted electronically. Some examples of PDF scanner apps are Google Drive, Abobe Scan, and Notebloc. Each of these can be downloaded from <url href="https://play.google.com">Google Play</url> or the <url href="https://apple.com/app-store/">App Store</url> for free.
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="adobe-reader">
+      <title>Adobe Acrobat Reader</title>
+      <p>
+        I will be grading all electronically submitted assignments using Adobe Acrobat Reader. To read my comments on your assignments, you need to install Adobe Acrobat Reader on your computer and/or phone. You can download it for free at <url href="https://get.adobe.com/reader/">get.adobe.com/reader</url>.
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="desmos">
+      <title>Desmos</title>
+      <p>
+        This is an online graphing and computational utility. It can be accessed online at <url href="https://www.desmos.com/">Desmos.com</url> and downloaded for free as an app for your phone.
+      </p>
+    </subsubsection>
+
+  </subsection>
+
+  <!-- Other subsections for larger dividers -->
+  <subsection xml:id="assessments-grades">
+    <title>Assessments and Grades</title>
+      <subsubsection xml:id="grading">
+        <title>Grading</title>
+        <p>
+          You will be graded on class activity quizzes, collaborative homework, three midterm exams, and a final exam.
+        </p>
+          <tabular>
+            <row>
+              <cell>Quizzes</cell> <cell>35%</cell>
+            </row>
+            <row>
+              <cell>Collaborative Homework</cell> <cell>15%</cell>
+            </row>
+            <row>
+              <cell>Exams</cell> <cell>40%</cell>
+            </row>
+            <row>
+              <cell>Final Exam</cell> <cell>10%</cell>
+            </row>
+          </tabular>
+        <p>
+          Grades cutoffs will generally be as follows: 92% for A; 90% for A-; 88% for B+; 82% for B; 80% for B-; 78% for C+; 72% for C; 70% for C-; 68% for D+; and 60% for D.
+        </p>
+      </subsubsection>
+      <subsubsection xml:id="quizzes">
+        <title>Class Activity Quizzes</title>
+        <p>
+          For each topic (which generally corresponds to one section of the textbook), there is a quiz for the content covered. Once we complete a topic, I will bring copies of that quiz to class for you to take. Here are the ground rules on quizzes.
+          <ul>
+            <li>
+              <p>
+                You may choose which day to take each quiz. It may either be taken after announcements &amp; questions during class or in person during drop-in office hours or an office appointment.
+              </p>
+            </li>
+            <li>
+              <p>
+                Each problem on a quiz comes directly from the activities we work on in class.
+              </p>
+            </li>
+            <li>
+              <p>
+                Quizzes generally take around 10 minutes if you are prepared.
+              </p>
+            </li>
+            <li>
+              <p>
+                You may not use any notes or technology on quizzes except a non-networked calculator and/or non-networked version of Desmos.
+              </p>
+            </li>
+            <li>
+              <p>
+                You will have the opportunity to re-take quizzes as many times as you want. I generally prepare two versions of each quiz, so if you re-take the quiz, you might have a different version than the first time you take it.
+              </p>
+            </li>
+            <li>
+              <p>
+                For each quiz, your final score is the highest score of all attempts. All versions of quizzes contain only problems from the in-class activities.
+              </p>
+            </li>
+          </ul>
+        </p>
+      </subsubsection>
+      <subsubsection xml:id="homework-assignments">
+        <title>Collaborative Homework Assignments</title>
+        <p>
+          This course satisfies the General Education requirement for Mathematical Sciences. Part of this requirement is taking part in collaboration with your classmates. This will be assessed on your weekly homework assignments, which you will complete as part of a group. Each week, I will assign some problems for homework. For each problem, you must explain your reasoning in complete sentences as well as computations. In addition, you will meet with your group to help each other with the assignments and write a brief reflection on your collaboration. Homework assignments will be posted in the <term>Homework Assignment</term> course module of Blackboard and will be due on Sundays. You will have the opportunity to resubmit each homework assignment once.
+        </p>
+      </subsubsection>
+      <subsubsection xml:id="exams">
+        <title>Exams</title>
+        <p>
+          There will be three exams and a final exam. All problems come from your homework assignments (except for the final exam). No notes or technology are allowed during any exams except a non-networked calculator and/or non-networked version of Desmos. <alert>Each exam (except the final exam) will be given during two class periods</alert>. In the first class period, you make as much progress as you can, and then you turn in the exam to me. Five days later, I will return your exam to you in class so that you can finish the exam. Between the first and second parts of the exam, the exam problems will be available to you so that you can study them and get help from me.
+          <dl>
+            <li>
+              <title>Exam 1</title>
+              <p>
+                Friday 10/2 and Wednesday 10/7
+              </p>
+            </li>
+            <li>
+              <title>Exam 2</title>
+              <p>
+                Friday 10/30 and Wednesday 11/4
+              </p>
+            </li>
+            <li>
+              <title>Exam 3</title>
+              <p>
+                Friday 12/4 and Wednesday 12/9
+              </p>
+            </li>
+          </dl>
+        </p>
+      </subsubsection>
+      <subsubsection xml:id="final-exam">
+        <title>Final Exam</title>
+        <p>
+          The final exam is Wednesday, December 16 at 8:00-9:50 am. The format will be a bit different than the other exams. On Monday the week before the exam, I will make available a few problems from the content not covered on the other exams. These will be the problems that will be on the final exam. On exam day, you will have the full exam time to work on these problems. If you finish early, you may do one or more of the following.
+          <ul>
+            <li>
+              <p>
+                You may work on any problems from previous exams. If you choose to do this, you must give me the graded version of your previous exam before you begin work on the exam problems.
+              </p>
+            </li>
+            <li>
+              <p>
+                You may re-take any quiz.
+              </p>
+            </li>
+          </ul>
+        </p>
+      </subsubsection>
+      <subsubsection xml:id="class-format">
+        <title>Class Format</title>
+        <p>
+          Our class meets three times each week. You will need to spend a significant amount of time preparing for each class. All preparation materials are found on the <term>Class Preparation Resources and Course Links</term> course module on Blackboard. There you will find a folder for every week of class, and each weekly folder has a document of course resources for each class meeting. There are also links to homework assignments, quiz problems, and information &amp; resources for exams that week. The document for each class meeting has the following.
+          <ul>
+            <li>
+              <p>
+                Links to videos explaining the content of the section. You are expected to watch these before class.
+              </p>
+            </li>
+            <li>
+              <p>
+                Along with each video, a link to a set of activities that you should work on before class. These are the problems that will be on the quizzes.
+              </p>
+            </li>
+            <li>
+              <p>
+                An optional reading from the textbook, in case you want to consult another source.
+              </p>
+            </li>
+          </ul>
+          Here is what a typical class period will be like.
+          <ul>
+            <li>
+              <p>
+                We will spend a short time on announcements and answering questions about that day's work.
+              </p>
+            </li>
+            <li>
+              <p>
+                You will then have an opportunity to take a quiz on any content previously covered in class. You may choose any quiz, which could mean re-taking a quiz you have already taken. See explanation of quizzes above for more information.
+              </p>
+            </li>
+            <li>
+              <p>
+                The bulk of class time will be for working in groups on the in-class activities. As noted above, all quiz problems come from these activities.
+              </p>
+            </li>
+            <li>
+              <p>
+                If there is time at the end, we may work on some of the problems from the in-class activities as a class.
+              </p>
+            </li>
+          </ul>
+        </p>
+      </subsubsection>
+      <subsubsection xml:id="course-policies">
+        <title>Course Policies</title>
+        <p>
+          <ul>
+            <li>
+              <p>
+                <alert>Absences:</alert> You are expected to attend class regularly unless you are ill or have some other emergency. You are responsible for being aware of any material covered and announcements made in class. The FigJam boards that have our notes from class will be available to you (links are on Blackboard), as well as any videos and class activities. I will be happy to help you on Zoom. Also, you may make an office appointment with me to make up any missed work.
+              </p>
+            </li>
+            <li>
+              <p>
+                <alert>Remote Classes:</alert> In the event that we are unable to meet in class (e.g. if I am ill or if there is a weather emergency), we will meet as a class on Zoom. The link for the class is available on Blackboard, and I will send out the link in an email before any online class session begins.
+              </p>
+            </li>
+            <li>
+              <p>
+                <alert>Late Assignments:</alert> If you are unable to turn in an assignment on time, I will generally allow you to turn in your assignment a little late. You should give me as much notice as you can and make arrangements with me to complete your assignment as early as possible. Note that this will likely cause your assignment to be graded later than those for the rest of the class.
+              </p>
+            </li>
+            <li>
+              <p>
+                <alert>University Course Policies:</alert> For information on policies that apply to all GVSU courses, please go to <url href="https://www.gvsu.edu/coursepolicies/">GVSU Course Policies Page</url>.
+              </p>
+            </li>
+            <li>
+              <p>
+                <alert>Academic Integrity:</alert> Everyone is expected to practice academic honesty at all times. This includes the following.
+                <ul>
+                  <li>
+                    <p>
+                      No student shall knowingly, without authorization, procure, provide, or accept any materials that contain questions or answers to any submitted work in the class.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      No student shall, without authorization, complete, in part or in total, any submitted work for another person.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      No student shall, without authorization, allow any submitted work to be completed, in part or in total, by another person.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      No student shall knowingly plagiarize or copy the work of another person and submit it as their own. This includes sentences, paragraphs or entire articles copied from books, periodicals, speeches, or the writing of other students. It also includes artificial intelligence tools.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      No student shall submit work that has been previously graded.
+                    </p>
+                  </li>
+                </ul>
+                Violations of these rules may result in failure of the assignment or failure of the course.
+              </p>
+            </li>
+            <li>
+              <p>
+                <alert>Use of Generative Artificial Intelligence:</alert> Generative AI tools may be used in limited circumstances in this course. I give some guidance below, but the main takeaway is that you may use AI to help you learn and understand the concepts we cover in class, but you may not use AI to do the thinking and explanations necessary to complete your work on assignments. In particular, you may not turn in an assignment in which you cannot explain the reasoning in your problem solutions. Acceptable uses include:
+                <ul>
+                  <li>
+                    <p>
+                      Generating problems of a certain type to practice problem-solving techniques.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Generating examples to better understand a concept.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Identifying errors in your computations or logic (but not correcting them).
+                    </p>
+                  </li>
+                </ul>
+                Unacceptable uses include:
+                <ul>
+                  <li>
+                    <p>
+                      Generating a solution to a problem on an assignment.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Writing explanations for your computations or proofs on an assignment.
+                    </p>
+                  </li>
+                </ul>
+                Violations of these rules may result in failure of the assignment or failure of the course.
+              </p>
+            </li>
+          </ul>
+        </p>
+      </subsubsection>
+      <subsubsection xml:id="other-info">
+        <title>Other Information</title>
+        <p>
+          <alert>Important Dates:</alert>
+          <ul>
+            <li>
+              <p>
+                August 31: Classes begin
+              </p>
+            </li>
+            <li>
+              <p>
+                September 4: 100% tuition refund deadline; last day to add a class (5:00 pm)
+              </p>
+            </li>
+            <li>
+              <p>
+                September 7: Labor Day (no classes)
+              </p>
+            </li>
+            <li>
+              <p>
+                September 25: 75% tuition refund deadline; last day for CR/NC changes (5:00 pm)
+              </p>
+            </li>
+            <li>
+              <p>
+                October 26-27: Fall Break (no classes)
+              </p>
+            </li>
+            <li>
+              <p>
+                November 13: Deadline for withdrawing from a class (5:00 pm)
+              </p>
+            </li>
+            <li>
+              <p>
+                November 25-29: Thanksgiving Break (no classes)
+              </p>
+            </li>
+            <li>
+              <p>
+                December 11: Classes end
+              </p>
+            </li>
+            <li>
+              <p>
+                December 12-19: Exam Week
+              </p>
+            </li>
+            <li>
+              <p>
+                December 24: Grades available to students
+              </p>
+            </li>
+          </ul>
+          <alert>Important Information:</alert>
+          <ul>
+            <li>
+              <p>
+                If you are in need of accommodations due to a learning, physical, or other disability you must have <url href="https://www.gvsu.edu/accessibility/">Student Accessibility Resources</url> (SAR) send me a memo indicating the existence of a disability and the suggested reasonable accommodations. If you have not already done so, please contact the Student Accessibility Resources office (215 The Blue Connection) by calling 616-331-2490 or email to <url href="mailto:access@gvsu.edu">access@gvsu.edu</url>. Please note that I cannot provide accommodations based upon disability until I have received a SAR issued memo. All discussions will remain confidential.
+              </p>
+            </li>
+            <li>
+              <p>
+                If you have a physical disability and think you will need assistance evacuating this classroom and/or building in an emergency situation, please make me aware so I can develop a plan to assist you.
+              </p>
+            </li>
+          </ul>
+          I reserve the right to adjust this syllabus as needed and will notify you of any changes through Blackboard.
+        </p>
+      </subsubsection>
+  </subsection>
+</section>
