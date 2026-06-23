@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="">
+  <title>Domain, Codomain, and Range of Functions</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      For the following functions, use your common sense to determine a reasonable domain, codomain, and range.  Use a graphing utility if necessary.
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>f(x)=\sqrt{x-2}</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>f(x) = \frac{2x-1}{x-3}</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Tabular here.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Image here.
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>

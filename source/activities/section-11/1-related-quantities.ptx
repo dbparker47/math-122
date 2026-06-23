@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="">
+  <title>Related Quantities</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      For each of the first three problems below, we have a container that is being filled with water.  For each problem, answer the following questions, and explain your answers.
+      <ul>
+        <li>
+            <p>
+                What are some quantities that are changing, and what are some quantities that are not changing?
+            </p>
+        </li>
+        <li>
+            <p>
+                What does a graph look like when the horizontal axis is time and the vertical axis is volume of water?
+            </p>
+        </li>
+        <li>
+            <p>
+                What does a graph look like when the horizontal axis is time and the vertical axis is the height of the water?
+            </p>
+        </li>
+      </ul>
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        The container is the shape of a cylinder, and the water is being pumped in at a rate of 2 ft<m>^3</m> per minute.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        The container is the shape of an inverted cone (i.e. pointy part down), and the water is being pumped in at a rate of 3 ft<m>^3</m> per minute.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+        <p>
+            The container is the shape of a hemisphere with the wide part on the bottom (i.e. a dome), and the water is being pumped in at a rate of 1.5 ft<m>^3</m> per minute.
+        </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+        <p>
+            You have a container where the graphs of volume and height are given below.  The horizontal axis is time for each graph.  Make a reasonable guess at the shape of the container.
+        </p>
+    </statement>
+  </exercise>
+
+</worksheet>

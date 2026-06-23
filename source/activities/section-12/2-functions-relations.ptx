@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="">
+  <title>Functions &amp; Relations</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      For each of the following relations, determine if it is a function.  Note that if the variables are <m>x</m> and <m>y</m>, then <m>x</m> is the input and <m>y</m> is the output.
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        Tabular here.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Tabular here.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>x+y^2=4</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>x^2+y=4</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Image here.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Image here.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        One of the relations in #3 and #4 is a function, and one is not a function.
+        <ol>
+            <li>
+                <p>
+                    For the relation that is a function, find a formula for the function.
+                </p>
+            </li>
+            <li>
+                <p>
+                    For the relation that is not a function, show how trying to solve for the formula of the function shows that it is not a function.
+                </p>
+            </li>
+        </ol>
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>

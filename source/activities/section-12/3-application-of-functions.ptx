@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="">
+  <title>Application of Functions</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      You begin a car trip 10 miles away from your home.  You drive away from your home for two hours.  For every mile you drive, two minutes elapse.  Let <m>d</m> be the function where, <m>t</m> minutes into your trip, <m>d(t)</m> is your distance from home.
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        Find the domain of <m>d</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Find a reasonable codomain for <m>d</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Find the range of <m>d</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Find a formula for <m>d(t)</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        At what time or times are you 50 miles away from your home?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Draw a graph of the function.
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>
