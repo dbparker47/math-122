@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Applying Linear Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Jojo is now selling commemorative plates.  Jojo's marketing analyst says that if Jojo sells the plates for $5 each, they can sell 200 plates, and if Jojo sells the plates for $20 each, they can sell 110 plates.  Suppose that if Jojo sells the plates at $p per plate, the amount sold is <m>d(p)</m>.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        What are <m>d(5)</m> and <m>d(20)</m>?
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,31 @@
   <exercise>
     <statement>
       <p>
-        
+        Suppose that the function <m>d</m> is a linear function of <m>p</m>.  What is the slope of <m>d</m>?  Include the units.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        What does the number you found in #2 tell us about what will happen if Jojo increases the price of the plates?  Or decreases the price of the plates?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Find a formula for <m>d(p)</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        How many plates will Jojo sell if the price is $10?
       </p>
     </statement>
   </exercise>

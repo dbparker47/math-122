@@ -2,19 +2,31 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Average Rate of Change (Interpretation)</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      The following problems are to help you understand increasing and decreasing functions better.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Let <m>t</m> be the time in days this year, where <m>t=1</m> is January 1 and <m>t=365</m> is December 31.  Let <m>D(t)</m> be the number of hours of daylight on day <m>t</m>.
+        <ol>
+          <li>
+            <p>
+              What is the domain of the function?  What would you expect the range to be approximately?
+            </p>
+          </li>
+          <li>
+            <p>
+              Describe when you would expect <m>D(t)</m> to be increasing and when it would be decreasing.  Use dates for <m>t</m> rather than the actual numbers if that makes your life easier.
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
@@ -22,7 +34,37 @@
   <exercise>
     <statement>
       <p>
-        
+        Suppose a business sells a product.  At price <m>p</m>, they sell <m>d(p)</m> units of the product.  Would you expect the function to be decreasing, increasing, sometimes decreasing and sometimes increasing, or neither increasing nor decreasing?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose you have a function <m>f</m> whose domain is <m>[2,9]</m> (i.e. all real numbers <m>x</m> with <m>2 \le x \le 9</m>).  Suppose also that <m>f(2)=3</m> and that the average rate of change of <m>f</m> between <m>x=2</m> and <m>x=9</m> is 2.
+        <ol>
+          <li>
+            <p>
+              Determine the point on the graph where <m>x=9</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw a possible graph where <m>f</m> is always increasing on <m>[2,9]</m>, or explain why that is not possible.
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw a possible graph where <m>f</m> is always decreasing on <m>[2,9]</m>, or explain why that is not possible.
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw a possible graph where <m>f</m> is sometimes decreasing and sometimes increasing on <m>[2,9]</m>, or explain why that is not possible.
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>

@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Computing Linear Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      In #1 and #2, find a formula for each of the following linear functions.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        The average rate of change (i.e. slope) is 4, and <m>(2,9)</m> is one of the points on the graph of the function.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,23 @@
   <exercise>
     <statement>
       <p>
-        
+        Two of the points on the graph of the function are <m>(4,3)</m> and <m>(7,-8)</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Based on the examples you have seen, what is the average rate of change (i.e. slope) for the function <m>f(x) = 14x-10</m>?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        (Not on quiz) Find the formula for the linear function whose graph includes the point <m>(3,1)</m> and is parallel to the graph of <m>3x+2y=3</m>.
       </p>
     </statement>
   </exercise>

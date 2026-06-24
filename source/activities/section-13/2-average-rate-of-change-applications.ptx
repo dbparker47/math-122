@@ -2,19 +2,36 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Average Rate of Change (Application)</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following average rate of change application problems.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Jojo has a business selling mood rings (they'll be making a comeback!).  Jojo's data analyst claims that if Jojo sells a box of mood rings for a price $<m>p</m>, then they will be able to sell <m>d(p) = p^2-100p+2400</m> boxes of mood rings when <m>p</m> has a value between $0 and $40.
+        <ol>
+          <li>
+            <p>
+              Determine the average rate of change of the number of boxes between the prices $10 and $30.  Make sure to include units in your answer.
+            </p>
+          </li>
+          <li>
+            <p>
+              What does the number you determined in (a) tell you about what will happen if Jojo changes their price?  Be as specific as you can.
+            </p>
+          </li>
+          <li>
+            <p>
+              What are the domain and range of the.function?
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
@@ -22,7 +39,32 @@
   <exercise>
     <statement>
       <p>
-        
+        Jojo has been suffering from stress because of the pressure of the mood ring business.  Jojo now wears a device that measures blood pressure every 10 minutes.  Here are the readings of systolic pressure (i.e. the upper number in blood pressure) measured in millimeters of mercury (mmHg).
+      </p>
+      Tabular here.
+      <p>
+        <ol>
+          <li>
+            <p>
+              What is the average rate of change of blood pressure with respect to time between the beginning and end of the readings? Include units.
+            </p>
+          </li>
+          <li>
+            <p>
+              What does the number you computed above tell you about Jojo's blood pressure.  Be as specific as possible.
+            </p>
+          </li>
+          <li>
+            <p>
+              Based on the number you computed in (a), what do you expect Jojo's blood pressure to be after 68 minutes?
+            </p>
+          </li>
+          <li>
+            <p>
+              Based on the number you computed in (a), when would you expect Jojo's blood pressure to reach 150 mmHg?
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>

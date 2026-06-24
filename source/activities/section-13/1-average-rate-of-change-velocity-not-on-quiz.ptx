@@ -2,19 +2,84 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Average Rate of Change (Velocity)</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Complete the following average velocity problems.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        As you walk, your friend with a stopwatch takes down the following data.
+      </p>
+      Put tabular here.
+      <p>
+      <ol>
+        <li>
+          <p>
+            If you had to describe the velocity between <m>t=3</m> and <m>t=5</m>, what would it be?  This is called the <em>average velocity</em>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Find the average velocity between <m>t=1</m> and <m>t=2.5</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Find the average velocity between <m>t=1</m> and <m>t=5.25</m>.
+          </p>
+        </li>
+      </ol>
+    </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Assume the relationship between the time <m>t</m> and distance <m>d(t)</m> is <m>d(t)=t^2</m>, where <m>t</m> is time in seconds. Determine the average velocity between <m>t=2</m> seconds and
+        <ol>
+          <li>
+            <p>
+              <m>t=4</m> sec
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>t=3</m> sec.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>t=2.1</m> sec.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>t=0.5</m> sec.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>t=1.5</m> sec.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>t=1.9</m> sec.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>t=b</m> sec.
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
@@ -22,7 +87,16 @@
   <exercise>
     <statement>
       <p>
-        
+        Suppose the graph below is of time <m>t</m> versus distance <m>d(t)</m>.  What is the average velocity between <m>t=4</m> and <m>t=12</m>?
+      </p>
+      Insert graph here.
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        If the distance traveled is <m>d(t)=t^2</m>, what is the average velocity between <m>t=a</m> and <m>t=b</m>?
       </p>
     </statement>
   </exercise>

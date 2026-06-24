@@ -2,19 +2,31 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Introduction to Linear Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      The following problems are to help you understand linear functions better.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Let <m>f</m> be a function such that <m>f(4)=7</m>, and the average rate of change between every pair of points is <m>\frac23</m>.
+        <ol>
+          <li>
+            <p>
+              Use the given information to find four points on the graph.
+            </p>
+          </li>
+          <li>
+            <p>
+              Plot the points carefully on paper (or on Desmos).  What does the graph look like?
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
@@ -22,7 +34,54 @@
   <exercise>
     <statement>
       <p>
-        
+        Consider the function <m>f</m> given by <m>f(x)=8x+3</m>.
+        <ol>
+          <li>
+            <p>
+              Find the average rate of change of <m>f</m> between <m>x=2</m> and <m>x=5</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Find the average rate of change between <m>x=a</m> and <m>x=b</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Graph the function on Desmos.  What shape is it?
+            </p>
+          </li>
+        </ol>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Look back at the function in #1 (i.e. <m>f(4)=7</m> and ARC of <m>\frac23</m>).  Recall that if <m>x</m> is the input of the function, then <m>f(x)</m> is the output.
+        <ol>
+          <li>
+            <p>
+              What is one way of writing the average rate of change between the inputs <m>x</m> and 4?
+            </p>
+          </li>
+          <li>
+            <p>
+              What is another way of writing the average rate of change between the inputs <m>x</m> and 4?
+            </p>
+          </li>
+          <li>
+            <p>
+              Use your answers to (a) and (b) to make an equation involving <m>x</m> and <m>f(x)</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Use your equation in (c) to find a formula for <m>f(x)</m>.
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
