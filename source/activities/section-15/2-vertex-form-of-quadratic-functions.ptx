@@ -2,19 +2,36 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Vertex Form of Quadratic Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following problems involving the vertex form of a quadratic function.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Consider the function <m>f(x) = 2x^2-8x+3</m>.
+        <ol>
+          <li>
+            <p>
+              Put <m>f</m> into vertex form (i.e. <m>f(x) = a(x-h)^2+k</m>).
+            </p>
+          </li>
+          <li>
+            <p>
+              Use the vertex form above to find the vertex.
+            </p>
+          </li>
+          <li>
+            <p>
+              Use the vertex form of the function to explain why the vertex is the lowest point on the graph.
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
@@ -22,7 +39,7 @@
   <exercise>
     <statement>
       <p>
-        
+        Do the same as above for the function <m>f(x) = -3x^2+24x+7</m>.
       </p>
     </statement>
   </exercise>

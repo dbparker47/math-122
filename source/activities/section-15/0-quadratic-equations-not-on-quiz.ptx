@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Quadratic Equations (Not on Quiz)</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      The following problems are meant to be a review of solving quadratic equations.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        <m>x^2+4x+3=0</m>
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,55 @@
   <exercise>
     <statement>
       <p>
-        
+        <m>x^2+2x-15=0</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>3x^2+7x+2=0</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>4x^2-7x=2</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose you are fencing in a rectangular region of area 100 square feet.  If the length is 21 feet longer than the width, find the dimensions of the fencing.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>2x^2+4x=13</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>3x^2+6x=-13</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        You stand on a ledge 10 ft above the ground and throw a ball up in the air.  The height of the ball at time <m>t</m> seconds is <m>h(t) = -16t^2+32t+10</m> feet. At what time does the ball hit the ground?
       </p>
     </statement>
   </exercise>

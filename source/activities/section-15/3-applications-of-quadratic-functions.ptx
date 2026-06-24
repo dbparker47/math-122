@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Applications of Quadratic Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      You stand on a ledge 10 ft above the ground and throw a ball up in the air.  The height of the ball at time <m>t</m> seconds is <m>h(t) = -16t^2+32t+10</m> feet.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        At what time does the ball hit the ground?
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,15 @@
   <exercise>
     <statement>
       <p>
-        
+        At what time does the ball reach its maximum height?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        What is the maximum height of the ball?
       </p>
     </statement>
   </exercise>

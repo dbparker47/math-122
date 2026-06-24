@@ -2,19 +2,36 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Introduction to Quadratic Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Each of the following has three points from the graph of a quadratic function.  For each problem, do the following.
+      <ul>
+        <li>
+          <p>
+            Determine if the graph opens up or down.
+          </p>
+        </li>
+        <li>
+          <p>
+            Guess how many <m>x</m>-intercepts the graph has.
+          </p>
+        </li>
+        <li>
+          <p>
+            Write the system of equations you would have to solve to write the quadratic function in the form <m>f(x) = ax^2+bx+c</m>.
+          </p>
+        </li>
+      </ul>
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Image here.
       </p>
     </statement>
   </exercise>
@@ -22,7 +39,23 @@
   <exercise>
     <statement>
       <p>
-        
+        Image here.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Image here.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Image here.
       </p>
     </statement>
   </exercise>
