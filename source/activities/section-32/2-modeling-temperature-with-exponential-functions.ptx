@@ -2,19 +2,31 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Modeling Temperature with Exponential Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following temperature problems.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        You bring a cup of cold water into a <m>68^\circ</m> room.  Initially, the water is <m>40^\circ</m>.  After 5 minutes, the water is <m>50^\circ</m>.
+        <ol>
+          <li>
+            <p>
+              If <m>W(t)</m> is the temperature of the water at time <m>t</m>, find a formula for <m>W(t)</m>.  Use the model <m>W(t)=a \cdot b^t+c</m> for appropriate constants <m>a</m>, <m>b</m>, and <m>c</m>. Hint: Determine <m>c</m> first.
+            </p>
+          </li>
+          <li>
+            <p>
+              What will the temperature of the water be after 10 minutes?
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
@@ -22,7 +34,19 @@
   <exercise>
     <statement>
       <p>
-        
+        After dinner, you put your leftovers in the refrigerator, which is <m>38^\circ</m>.  Before you store the food in the refrigerator, it is room temperature, which is <m>68^\circ</m>.  After 30 minutes, the food temperature is down to <m>55^\circ</m>.
+        <ol>
+          <li>
+            <p>
+              If <m>L(t)</m> is the temperature of the leftovers at time <m>t</m>, find a formula for <m>L(t)</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              What will the temperature of the leftovers be after 75 minutes?
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>

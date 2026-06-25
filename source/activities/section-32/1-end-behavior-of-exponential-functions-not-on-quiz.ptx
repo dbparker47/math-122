@@ -2,19 +2,36 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>End Behavior of Exponential Functions (Not on Quiz)</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      These problems are to help you understand the end behavior of exponential functions.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Let <m>f(x)=3^x</m>.
+        <ol>
+          <li>
+            <p>
+              Look at <m>f(1)</m>, <m>f(2)</m>, <m>f(3)</m>, <m>f(4)</m>, and <m>f(5)</m>.  What is happening to the outputs of the function as the inputs get bigger?
+            </p>
+          </li>
+          <li>
+            <p>
+              What happens to <m>f(x)</m> as <m>x</m> gets really big?
+            </p>
+          </li>
+          <li>
+            <p>
+              What happens to <m>f(x)</m> as <m>x</m> gets really negative?
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
@@ -22,7 +39,40 @@
   <exercise>
     <statement>
       <p>
-        
+        Let <m>f(x)=\left( \frac25 \right)^x</m>.
+        <ol>
+          <li>
+            <p>
+              Look at <m>f(1)</m>, <m>f(2)</m>, <m>f(3)</m>, <m>f(4)</m>, and <m>f(5)</m>.  What is happening to the outputs of the function as the inputs get bigger?
+            </p>
+          </li>
+          <li>
+            <p>
+              What happens to <m>f(x)</m> as <m>x</m> gets really big?
+            </p>
+          </li>
+          <li>
+            <p>
+              What happens to <m>f(x)</m> as <m>x</m> gets really negative?
+            </p>
+          </li>
+        </ol>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>f(x)=a \cdot b^x</m>.  What happens to <m>f(x)</m> as <m>x</m> gets really big or really negative?  Your answers will depend on the values of <m>a</m> and <m>b</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose we want to use the function <m>f(x)=2 \cdot \left( \frac13 \right)^x</m> to model a phenomenon, but we need a function that gets close to 20 as <m>x</m> gets really big.  How can we adjust <m>f(x)</m> to make this happen?
       </p>
     </statement>
   </exercise>

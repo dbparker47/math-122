@@ -2,19 +2,46 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Compound Interest (Not on Quiz)</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Suppose we have an account with an initial deposit of $500 and annual interest rate of 12%.  We explore what happens when we compute the interest more than once a year.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Suppose we compute interest twice per year.
+        <ol>
+          <li>
+            <p>
+              What interest rate should we use to compute the amount of money in our account after <m>\frac12</m> year?  What about when you compute interest again after 1 year?
+            </p>
+          </li>
+          <li>
+            <p>
+              Compute the amount of money in your account at <m>\frac12</m> year, 1 year, and <m>\frac32</m> year.
+            </p>
+          </li>
+          <li>
+            <p>
+              Suppose you have <m>A</m> dollars in your account at a certain time.  How much money will you have in <m>\frac12</m> year?
+            </p>
+          </li>
+          <li>
+            <p>
+              Use what you found in (c) to write your answers in part (a) in a different way.
+            </p>
+          </li>
+          <li>
+            <p>
+              Use what you found in part (c) to find a formula for the amount of money <m>A(t)</m> you have after <m>t</m> years.
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
@@ -22,7 +49,23 @@
   <exercise>
     <statement>
       <p>
-        
+        Go through the same process as in #1 to find a formula for <m>A(t)</m> if we compute interest 3 times per year.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Find a formula for <m>A(t)</m> if the annual interest rate is <m>r</m> and if we compound interest <m>n</m> times per year.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose you invest $1 at a 100% interest rate for one year.  How much money do you have at the end of the year when you compound it a huge number of times (try a few really big values of <m>n</m>)?
       </p>
     </statement>
   </exercise>
