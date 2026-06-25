@@ -2,19 +2,36 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Exponential Applications</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following application problems.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Suppose we invest money in an account with a fixed annual interest rate.  After two years, we have $250 and after five years we have $400.
+        <ol>
+          <li>
+            <p>
+              Find a formula for the amount <m>A(t)</m> that is in the account after <m>t</m> years.
+            </p>
+          </li>
+          <li>
+            <p>
+              What is the interest rate on the account?
+            </p>
+          </li>
+          <li>
+            <p>
+              How much money did we start out with?
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
@@ -22,7 +39,24 @@
   <exercise>
     <statement>
       <p>
-        
+        Suppose we own something that loses a fixed percentage of its value each year.  After 3 years, it is worth $300, and after 7 years, it is worth $200.
+        <ol>
+          <li>
+            <p>
+              Find a formula for the value <m>V(t)</m> that the item is worth after <m>t</m> years.
+            </p>
+          </li>
+          <li>
+            <p>
+              What is the annual percentage that the value drops?
+            </p>
+          </li>
+          <li>
+            <p>
+              What was it worth at the beginning?
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>

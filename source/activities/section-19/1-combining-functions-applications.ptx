@@ -2,19 +2,36 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Combining Functions (Applications)</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Create the following functions and solve the application problems.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Jojo is selling fancy chairs.  If the price is <m>p</m> dollars, Jojo can sell <m>d(p) = 900-3p</m> units.
+        <ol>
+          <li>
+            <p>
+              If Jojo sells their chairs for <m>p = $3</m>, what is the total revenue that Jojo takes in?  Do the same for <m>p=$10</m> and <m>p = $20</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Use the same reasoning as in (a) to find a formula for Jojo's total revenue when the price is <m>p</m>.  We will call the total revenue <m>R(p)</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              What are the domain and range of <m>R(p)</m>?
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
@@ -22,7 +39,29 @@
   <exercise>
     <statement>
       <p>
-        
+        You are building a rectangular fenced-in space for your dog right next to your home with 100 feet of fencing.  One of the sides of the area is the side of your home.
+        <ol>
+          <li>
+            <p>
+              If <m>x</m> is the length of one of the sides of the fence that is attached to your home, and if <m>y</m> is the length of the side not attached to your home, what is the area of the fenced-in space?
+            </p>
+          </li>
+          <li>
+            <p>
+              If the length of one of the sides of the fence that is attached to your home is <m>x</m>, what is the area <m>A(x)</m> of the fenced-in space?  Hint:  Let <m>y</m> be the length of the side not attached to your home, and solve for <m>y</m> in terms of <m>x</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              If the length of the side of the fence not touching your home is <m>y</m>, what is the area <m>a(y)</m> of the fenced in space?
+            </p>
+          </li>
+          <li>
+            <p>
+              What are the domain and range of the above functions?
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>

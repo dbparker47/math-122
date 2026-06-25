@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Advanced Inverse Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      For each of the following, compute <m>f^{-1}(x)</m>.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        <m>f(x)=x^3-1</m>
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,15 @@
   <exercise>
     <statement>
       <p>
-        
+        <m>f(x)=\frac{2x+1}{3x+4}</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>f(x)=\sqrt{x}</m>
       </p>
     </statement>
   </exercise>

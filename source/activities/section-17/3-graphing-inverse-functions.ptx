@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Graphing Inverse Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Graph the inverses of the following functions.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Image here.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,15 @@
   <exercise>
     <statement>
       <p>
-        
+        Image here.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Image here.
       </p>
     </statement>
   </exercise>

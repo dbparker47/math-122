@@ -2,19 +2,41 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Introduction to Exponential Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      The following problems are to help you understand exponential functions.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        You deposit $1000 in an account earning an annual interest rate of 5%.  Interest is re-computed every year.
+        <ol>
+          <li>
+            <p>
+              How much money is in the account at the end of each of the first three years?  
+            </p>
+          </li>
+          <li>
+            <p>
+              If you have $<m>A</m> in the account one year, how much money do you have in the account one year later?
+            </p>
+          </li>
+          <li>
+            <p>
+              Use what you found in (b) to write your answers in part (a) in a different way.
+            </p>
+          </li>
+          <li>
+            <p>
+              Use what you found in part (c) to find a formula for the amount of money <m>A(t)</m> you have after <m>t</m> years.
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
@@ -22,7 +44,35 @@
   <exercise>
     <statement>
       <p>
-        
+        You are storing 100 lbs. of radioactive material in which 25% of the material decays every year.
+        <ol>
+          <li>
+            <p>
+              How much material is left at the end of each of the first three years?
+            </p>
+          </li>
+          <li>
+            <p>
+              Find a formula for the amount of radioactive material <m>M(t)</m> that is left after <m>t</m> years.  Try using a similar process as we used in #1.
+            </p>
+          </li>
+        </ol> 
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose you have some quantity that <em>increases</em> by a factor of <m>r</m> each year (for instance, if <m>r=0.05</m>, then the quantity increases by 5% each year).  If you start out with quantity <m>A_0</m> at <m>t=0</m>, how much quantity <m>A(t)</m> do you have at time <m>t</m>?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose you have some quantity that <em>decreases</em> by a factor of <m>r</m> each year.  If you start out with quantity <m>A_0</m> at <m>t=0</m>, how much quantity <m>A(t)</m> do you have at time <m>t</m>?
       </p>
     </statement>
   </exercise>

@@ -2,19 +2,20 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Piecewise Defined Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Consider the functions below.  The middle part of the second graph is a parabola.
+      Image here.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Determine the formula(s) for each function above.  For the parabola, I suggest using the vertex form of the formula.
       </p>
     </statement>
   </exercise>
@@ -22,7 +23,20 @@
   <exercise>
     <statement>
       <p>
-        
+        Consider the following piecewise defined function.
+        <md>f(x) = \left\{ \begin{matrix} 2x+3 &amp; x < 1 \\ (x-2)^2+1 &amp; 1 \le x \le 3 \\ -x+5 &amp; x>3 \end{matrix} \right.</md>
+        <ol>
+          <li>
+            <p>
+              Compute <m>f(-2)</m>, <m>f(2)</m>, and <m>f(5)</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Sketch a graph of <m>f</m>.
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
