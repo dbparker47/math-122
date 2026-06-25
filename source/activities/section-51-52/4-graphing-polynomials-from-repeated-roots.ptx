@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Graphing Polynomials from Repeated Roots</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following problems on graphing polynomial functions.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        (Not on quiz) Use Desmos or a calculator to sketch <m>f(x)=2(x-1)(x-2)^k(x-3)</m> for <m>k=1,2,3,4</m>.  Do you notice any patterns?
       </p>
     </statement>
   </exercise>
@@ -22,8 +22,17 @@
   <exercise>
     <statement>
       <p>
-        
+        Based on what you found in #1, sketch the graph of <m>f(x)=k(x-a)^3(x-b)^6(x-c)^2(x-d)</m>, where <m>a &lt; b &lt; c &lt; d</m> and <m>k &gt; 0</m>.
       </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Give a possible formula for the function whose graph is the following.
+      </p>
+      Image here.
     </statement>
   </exercise>
 

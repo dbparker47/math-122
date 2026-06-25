@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Exploring Polynomial Roots and Graphs (Not on Quiz)</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Plug the following functions into Desmos, making a slider for each coefficient (i.e. <m>a</m>, <m>b</m>, <m>c</m>, etc).  Play with different values of the coefficients to see the minimum and maximum number of <m>x</m>-intercepts of the function (i.e. values of <m>x</m> where the function has an output of 0).
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        <m>f(x)=ax+b</m>, <m>a \ne 0</m>
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,23 @@
   <exercise>
     <statement>
       <p>
-        
+        <m>f(x) = cx^2+dx+e$, $c \ne 0</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>f(x) = gx^3+hx^2+ix+j</m>, <m>g \ne 0</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>f(x) = kx^4+\ell x^3 + mx^2+nx+p</m>, <m>k \ne 0</m>
       </p>
     </statement>
   </exercise>

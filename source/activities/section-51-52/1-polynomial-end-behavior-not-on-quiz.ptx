@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Polynomial End Behavior (Not on Quiz)</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      For each of the following, determine what happens to the function as <m>x \rightarrow \infty</m> and as <m>x \rightarrow -\infty</m>.  Explain what this means about what the graph looks like.  Note that <m>a</m>, <m>b</m>, <m>c</m>, and <m>d</m> are all constants.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        <m>f(x)=ax^2+bx+c</m>.  Hint:  The answer will depend on $a$.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,31 @@
   <exercise>
     <statement>
       <p>
-        
+        <m>f(x) = ax^3+bx^2+cx+d</m>.  Hint:  Factor out $x^3$ from every term.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>f(x) = ax^4+bx^3+cx^2+dx+e</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>f(x) = ax^5+bx^4+cx^3+dx^2+ex+f</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Use your observations above to determine the end behavior of <m>f(x) = -2(x-a)(x-b)(x-c)</m>.
       </p>
     </statement>
   </exercise>

@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Graphing Polynomials from Roots</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following problems on the graphs of polynomial functions.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Let <m>f(x)=2x^2-5x+3</m>.  Factor <m>f</m> and use this to sketch a graph of <m>f</m>.
       </p>
     </statement>
   </exercise>
@@ -22,8 +22,25 @@
   <exercise>
     <statement>
       <p>
-        
+        Let <m>f(x)=-3(x-1)(x-3)(x-4)</m>.  Use the roots of <m>f</m> along with the coefficient <m>-3</m> to sketch the graph of <m>f</m>.
       </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>f(x) = k(x-a)(x-b)(x-c)(x-d)</m> with <m>a &lt; b &lt; c &lt; d</m> and <m>k &gt; 0</m>.  Sketch the graph of <m>f</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Give a possible formula for the function whose graph is the following.
+      </p>
+      Image here.
     </statement>
   </exercise>
 
