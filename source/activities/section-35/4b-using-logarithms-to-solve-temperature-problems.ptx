@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Using Logarithms to Solve Temperature Problems</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      You put a warm object into a <m>40^\circ</m> refrigerator.  Initially, the object has a temperature of <m>75^\circ</m>.  After 10 minutes, the temperature has dropped to <m>60^\circ</m>.  For the following,  justify any formulas you use that are not covered in class.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Find a formula for the temperature <m>T(t)</m> of the object at time <m>t</m>.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,15 @@
   <exercise>
     <statement>
       <p>
-        
+        What is the temperature of the object after 20 minutes?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        How long will it take for the object to reach <m>47^\circ</m>?
       </p>
     </statement>
   </exercise>

@@ -2,19 +2,31 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Half-Life and Related Problems</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      For the following, justify any formulas you use that are not covered in class.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        An account with a fixed annual interest rate takes 25 years to triple in value.
+        <ol>
+          <li>
+            <p>
+              How long does it take for the account to double in value?
+            </p>
+          </li>
+          <li>
+            <p>
+              What is the annual interest rate?
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
@@ -22,7 +34,24 @@
   <exercise>
     <statement>
       <p>
-        
+        A radioactive material decays 30% in 5 years.
+        <ol>
+          <li>
+            <p>
+              What percent of the material decays after 12 years?
+            </p>
+          </li>
+          <li>
+            <p>
+              What percent of the material decays each year?
+            </p>
+          </li>
+          <li>
+            <p>
+              How long will it take for 95% of the material to decay?
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>

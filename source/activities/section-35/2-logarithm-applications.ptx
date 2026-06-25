@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Logarithm Applications</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      For the following, justify any formulas you use that are not covered in class.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        You invest $400 in an account that earns 4% interest annually.  How long does it take for your account to be $1000?
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,7 @@
   <exercise>
     <statement>
       <p>
-        
+        When you inject a certain drug, it takes 25 hours for the concentration of the drug in the bloodstream to decrease by half.  How long does it take for the concentration to decrease to 10% of its initial concentration?
       </p>
     </statement>
   </exercise>

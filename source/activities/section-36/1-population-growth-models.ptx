@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Population Growth Models</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      For the following, justify any formulas you use that are not covered in class.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        A population of fish in a very large body of water with no predators grows exponentially.  Suppose you start with 100 fish and the doubling time of the population is 2 years.  How long will it take for the population to reach 5000 fish?
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,7 @@
   <exercise>
     <statement>
       <p>
-        
+        Suppose the same type of fish is in an environment that can only support 1000 fish.  If you start with 100 and it takes 2 years to double this population, how long will it take to reach 900 fish?
       </p>
     </statement>
   </exercise>

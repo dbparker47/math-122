@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Logarithm Properties and Natural Logarithm (Not on Quiz)</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following equations using either <m>\ln</m> or <m>\log_{10}</m>.  Use it to give a decimal approximation for your answer.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        <m>5^{6x}=3</m>
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,15 @@
   <exercise>
     <statement>
       <p>
-        
+        <m>20 \cdot 6^{2x}-1=15</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>2 \cdot 1.5^{3t} = 10</m>
       </p>
     </statement>
   </exercise>

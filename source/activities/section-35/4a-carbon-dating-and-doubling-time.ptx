@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Carbon Dating and Doubling Time</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      For the following, justify any formulas you use that are not covered in class.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        The half-life for carbon-14 is 5730 years.  A piece of once-living tissue is found to have 15% of its original carbon-14.  How long ago did the tissue die?
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,15 @@
   <exercise>
     <statement>
       <p>
-        
+        A population of insects grows exponentially.  Its doubling time is 15 days.  How long does it take for the population to quadruple?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        In the tissue from #1, the same tissue had another isotope that is radioactive and had decayed to 40% of its original amount.  What is the half-life of the isotope?
       </p>
     </statement>
   </exercise>
