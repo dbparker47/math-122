@@ -1,29 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="intro-regression">
+  <title>Introduction to Regression</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following regression problems.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Consider the following data set:
       </p>
+      Tabular here.
+      <p>
+        <ol>
+          <li>
+            <p>
+              Plot the above data on Desmos.
+            </p>
+          </li>
+          <li>
+            <p>
+              Use the plot to determine what kind of model works best for the data.
+            </p>
+          </li>
+          <li>
+            <p>
+              Use Desmos to find a best fit model for the data.
+            </p>
+          </li>
+          <li>
+            <p>
+              Use the value of <m>R^2</m> to explain why your model is a good fit for the data.
+            </p>
+          </li>
+        </ol>
+      </p>
+    </statement>
+  </exercise>
+
+  <p>
+    Do the same as in #1 for the following data sets.
+  </p>
+
+  <exercise>
+    <statement>
+      Tabular here.
     </statement>
   </exercise>
 
   <exercise>
     <statement>
-      <p>
-        
-      </p>
+      Tabular here.
     </statement>
   </exercise>
 

@@ -2,19 +2,19 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="">
-  <title></title>
+  <title>Recognizing Function Types (Not on Quiz)</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      The following problems ask you to draw as many different <q>types</q> of certain kinds of graphs as possible.  Do your best, keeping in mind that how you categorize different <q>types</q> is somewhat subjective.  Remember that this exercise is designed to help you fit models to data sets.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Draw as many types of graphs of linear functions as possible.  Each type should look significantly different than the others.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,39 @@
   <exercise>
     <statement>
       <p>
-        
+        Draw as many types of graphs of quadratic functions as possible.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Draw as many types of graphs of exponential functions as possible.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Draw as many types of graphs of logarithmic functions as possible.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Draw as many types of graphs of logistic functions as possible.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Draw as many types of <q>vertically translated</q> exponential graphs (i.e. graphs like the temperature models we studied with exponential functions).
       </p>
     </statement>
   </exercise>
