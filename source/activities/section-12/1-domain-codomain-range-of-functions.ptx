@@ -29,9 +29,28 @@
 
   <exercise>
     <statement>
-      <p>
-        Tabular here.
-      </p>
+      <tabular halign="right">
+        <row>
+          <cell bottom="minor" right="minor"><m>x</m></cell>
+          <cell bottom="minor" right="minor"><m>1</m></cell>
+          <cell bottom="minor" right="minor">2</cell>
+          <cell bottom="minor" right="minor">3</cell>
+          <cell bottom="minor" right="minor">4</cell>
+          <cell bottom="minor" right="minor">5</cell>
+          <cell bottom="minor" right="minor">6</cell>
+          <cell bottom="minor">7</cell>
+        </row>
+        <row>
+          <cell right="minor"><m>f(x)</m></cell>
+          <cell right="minor"><m>-2</m></cell>
+          <cell right="minor">5</cell>
+          <cell right="minor"><m>-1</m></cell>
+          <cell right="minor">0</cell>
+          <cell right="minor">3</cell>
+          <cell right="minor">5</cell>
+          <cell>1</cell>
+        </row>
+      </tabular>
     </statement>
   </exercise>
 

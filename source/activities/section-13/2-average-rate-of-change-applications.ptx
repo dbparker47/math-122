@@ -41,7 +41,28 @@
       <p>
         Jojo has been suffering from stress because of the pressure of the mood ring business.  Jojo now wears a device that measures blood pressure every 10 minutes.  Here are the readings of systolic pressure (i.e. the upper number in blood pressure) measured in millimeters of mercury (mmHg).
       </p>
-      Tabular here.
+      <tabular halign="right">
+        <row>
+          <cell bottom="minor" right="minor">Time (minutes)</cell>
+          <cell bottom="minor" right="minor"><m>0</m></cell>
+          <cell bottom="minor" right="minor">10</cell>
+          <cell bottom="minor" right="minor">20</cell>
+          <cell bottom="minor" right="minor">30</cell>
+          <cell bottom="minor" right="minor">40</cell>
+          <cell bottom="minor" right="minor">50</cell>
+          <cell bottom="minor">60</cell>
+        </row>
+        <row>
+          <cell right="minor">BP (mmHg)</cell>
+          <cell right="minor"><m>105</m></cell>
+          <cell right="minor">112</cell>
+          <cell right="minor">116</cell>
+          <cell right="minor">122</cell>
+          <cell right="minor">125</cell>
+          <cell right="minor">129</cell>
+          <cell>135</cell>
+        </row>
+      </tabular>
       <p>
         <ol>
           <li>

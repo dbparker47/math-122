@@ -16,7 +16,24 @@
       <p>
         As you walk, your friend with a stopwatch takes down the following data.
       </p>
-      Put tabular here.
+      <tabular halign="right">
+        <row>
+          <cell bottom="minor" right="minor">Time (seconds)</cell>
+          <cell bottom="minor" right="minor"><m>1</m></cell>
+          <cell bottom="minor" right="minor">2.5</cell>
+          <cell bottom="minor" right="minor">3</cell>
+          <cell bottom="minor" right="minor">5</cell>
+          <cell bottom="minor">5.25</cell>
+        </row>
+        <row>
+          <cell right="minor">Distance (feet)</cell>
+          <cell right="minor"><m>-4</m></cell>
+          <cell right="minor">9</cell>
+          <cell right="minor">16</cell>
+          <cell right="minor">30</cell>
+          <cell>40</cell>
+        </row>
+      </tabular>
       <p>
       <ol>
         <li>
@@ -89,7 +106,7 @@
       <p>
         Suppose the graph below is of time <m>t</m> versus distance <m>d(t)</m>.  What is the average velocity between <m>t=4</m> and <m>t=12</m>?
       </p>
-      Insert graph here.
+      <p>Insert image here.</p>
     </statement>
   </exercise>
 

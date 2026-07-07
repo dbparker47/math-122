@@ -16,7 +16,28 @@
       <p>
         Consider the following data set:
       </p>
-      Tabular here.
+      <tabular halign="right">
+        <row>
+          <cell bottom="minor" right="minor"><m>x</m></cell>
+          <cell bottom="minor" right="minor">2</cell>
+          <cell bottom="minor" right="minor">4</cell>
+          <cell bottom="minor" right="minor">5</cell>
+          <cell bottom="minor" right="minor">7</cell>
+          <cell bottom="minor" right="minor">9</cell>
+          <cell bottom="minor" right="minor">10</cell>
+          <cell bottom="minor">13</cell>
+        </row>
+        <row>
+          <cell right="minor"><m>y</m></cell>
+          <cell right="minor">15</cell>
+          <cell right="minor">23</cell>
+          <cell right="minor">27</cell>
+          <cell right="minor">35</cell>
+          <cell right="minor">43</cell>
+          <cell right="minor">47</cell>
+          <cell>59</cell>
+        </row>
+      </tabular>
       <p>
         <ol>
           <li>
@@ -50,13 +71,63 @@
 
   <exercise>
     <statement>
-      Tabular here.
+      <tabular halign="right">
+        <row>
+          <cell bottom="minor" right="minor"><m>v</m></cell>
+          <cell bottom="minor" right="minor">1</cell>
+          <cell bottom="minor" right="minor">2</cell>
+          <cell bottom="minor" right="minor">4</cell>
+          <cell bottom="minor" right="minor">5</cell>
+          <cell bottom="minor" right="minor">8</cell>
+          <cell bottom="minor" right="minor">10</cell>
+          <cell bottom="minor">14</cell>
+        </row>
+        <row>
+          <cell right="minor"><m>w</m></cell>
+          <cell right="minor">5</cell>
+          <cell right="minor"><m>-3</m></cell>
+          <cell right="minor"><m>-12</m></cell>
+          <cell right="minor"><m>-11</m></cell>
+          <cell right="minor">17</cell>
+          <cell right="minor">55</cell>
+          <cell>190</cell>
+        </row>
+      </tabular>
     </statement>
   </exercise>
 
   <exercise>
     <statement>
-      Tabular here.
+      <tabular halign="right">
+        <row>
+          <cell bottom="minor" right="minor"><m>t</m></cell>
+          <cell bottom="minor" right="minor">1</cell>
+          <cell bottom="minor" right="minor">3</cell>
+          <cell bottom="minor" right="minor">4</cell>
+          <cell bottom="minor" right="minor">6</cell>
+          <cell bottom="minor" right="minor">9</cell>
+          <cell bottom="minor" right="minor">10</cell>
+          <cell bottom="minor" right="minor">12</cell>
+          <cell bottom="minor" right="minor">15</cell>
+          <cell bottom="minor" right="minor">18</cell>
+          <cell bottom="minor" right="minor">19</cell>
+          <cell bottom="minor">20</cell>
+        </row>
+        <row>
+          <cell right="minor"><m>s</m></cell>
+          <cell right="minor">3</cell>
+          <cell right="minor">10</cell>
+          <cell right="minor">15</cell>
+          <cell right="minor">20</cell>
+          <cell right="minor">90</cell>
+          <cell right="minor">127</cell>
+          <cell right="minor">238</cell>
+          <cell right="minor">900</cell>
+          <cell right="minor">3000</cell>
+          <cell right="minor">4405</cell>
+          <cell>6609</cell>
+        </row>
+      </tabular>
     </statement>
   </exercise>
 

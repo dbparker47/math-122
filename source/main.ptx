@@ -41,9 +41,9 @@
       <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
     </chapter>
 
-    <chapter xml:id="in-class-11">
-      <title>In-Class Activities: Section 1.1</title>
-      <!--<xi:include href="./homework/homework01.ptx"/>-->
+    <chapter xml:id="in-class-12">
+      <title>In-Class Activities: Section 1.2</title>
+      <xi:include href="./activities/section-11/1-related-quantities.ptx" />
     </chapter>
 
     <!-- Include additional chapters for other categories -->

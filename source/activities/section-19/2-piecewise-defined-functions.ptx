@@ -24,7 +24,7 @@
     <statement>
       <p>
         Consider the following piecewise defined function.
-        <md>f(x) = \left\{ \begin{matrix} 2x+3 &amp; x < 1 \\ (x-2)^2+1 &amp; 1 \le x \le 3 \\ -x+5 &amp; x>3 \end{matrix} \right.</md>
+        <md>f(x) = \left\{ \begin{matrix} 2x+3 &amp; x &lt; 1 \\ (x-2)^2+1 &amp; 1 \le x \le 3 \\ -x+5 &amp; x>3 \end{matrix} \right.</md>
         <ol>
           <li>
             <p>
