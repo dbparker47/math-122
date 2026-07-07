@@ -12,25 +12,39 @@
   </introduction>
 
   <exercise>
-    <statement>
-      <p>
-        Image here.
-      </p>
-    </statement>
+    <image>
+  	  <prefigure xmlns="https://prefigure.org" label="inverse-graph-1">
+	      <diagram dimensions="(300,300)" margins="5">
+			    <definition>f(x)= 2*sqrt(2)^x-4</definition>
+    		  <coordinates bbox="(-4,-4,4,4)">
+		  		  <axes xlabel="x" ylabel="y"/>
+			      <graph function="f" />
+  			  </coordinates>
+	      </diagram>
+    	</prefigure>
+    </image>
+  </exercise>
+
+  <exercise>
+    <image>
+	    <prefigure xmlns="https://prefigure.org" label="inverse-graph-2">
+		    <diagram dimensions="(300,300)" margins="5">
+      		<definition>f(x)= -2*sqrt(-x-4)+2</definition>
+			    <definition>g(x)= 2*sqrt(x+4)+2</definition>
+      		<coordinates bbox="(-10,-10,10,10)">
+			      <axes xlabel="x" ylabel="y" hticks="(-10,1,10)" vticks="(-10,1,10)" />
+    				<graph function="f" domain="(-10,-4)"/>
+		      	<graph function="g" domain="(-4,10)"/>
+    			</coordinates>
+    		</diagram>
+	    </prefigure>
+    </image>
   </exercise>
 
   <exercise>
     <statement>
       <p>
-        Image here.
-      </p>
-    </statement>
-  </exercise>
-
-  <exercise>
-    <statement>
-      <p>
-        Image here.
+        <m>y=x^2</m> (Try)
       </p>
     </statement>
   </exercise>

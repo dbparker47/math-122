@@ -14,7 +14,7 @@
   <exercise>
     <statement>
       <p>
-        <m>f(x)=ax^2+bx+c</m>.  Hint:  The answer will depend on $a$.
+        <m>f(x)=ax^2+bx+c</m>.  Hint:  The answer will depend on <m>a</m>.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,7 @@
   <exercise>
     <statement>
       <p>
-        <m>f(x) = ax^3+bx^2+cx+d</m>.  Hint:  Factor out $x^3$ from every term.
+        <m>f(x) = ax^3+bx^2+cx+d</m>.  Hint:  Factor out <m>x^3</m> from every term.
       </p>
     </statement>
   </exercise>

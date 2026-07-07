@@ -82,19 +82,49 @@
   </exercise>
 
   <exercise>
-    <statement>
-      <p>
-        Image here.
-      </p>
-    </statement>
+    <image>
+    	<prefigure xmlns="https://prefigure.org" label="relation-function-1">
+        <diagram dimensions="(300, 300)" margins="5">
+          <definition>f(x)=(1/tan(1.5*pi/4))*tan(pi*(x+2.5)/4)</definition>
+          <definition>g(x)=pi/(3*sqrt(2))*(x+1)^2-3*pi/(4*sqrt(2))-sqrt(2)+2</definition>
+          <definition>h(x)=-sec(pi*(x-1)/2)+2</definition>
+          <definition>k(x)=1/(x-2)</definition>
+          <coordinates bbox="(-5,-3,6,5)">
+            <grid-axes xlabel="x" ylabel="y"/>
+            <graph function="f" domain="(-4,-1)"/>
+            <graph function="g" domain="(-1,0.5)"/>
+            <graph function="h" domain="(0.5,2)"/>
+            <graph function="k" domain="(2,5)"/>
+            <line endpoints="((2,-3),(2,5))" infinite="yes" dash="8 8" stroke="black" />
+            <point p="(-4,-1)" stroke="blue" fill="blue" />
+            <point p="(-1,1)" stroke="blue" fill="white" />
+            <point p="(-1,g(-1))" stroke="blue" fill="white" />
+            <point p="(5,k(5))" stroke="blue" fill="blue" />
+          </coordinates>
+        </diagram>
+      </prefigure>
+    </image>
   </exercise>
 
   <exercise>
-    <statement>
-      <p>
-        Image here.
-      </p>
-    </statement>
+    <image>
+    	<prefigure xmlns="https://prefigure.org" label="relation-function-2">
+        <diagram dimensions="(300, 300)" margins="5">
+          <definition>f(x)=sqrt(x+2)</definition>
+          <definition>g(x)=-sqrt(x+2)</definition>
+          <definition>h(x)=sqrt(-x+2)+2*sqrt(2)</definition>
+          <definition>k(x)=-sqrt(-x+2)+2*sqrt(2)</definition>
+          <definition></definition>
+          <coordinates bbox="(-8,-5,8,6)">
+            <grid-axes xlabel="x" ylabel="y"/>
+            <graph function="f" domain="(-8,0)"/>
+            <graph function="g" />
+            <graph function="h" />
+            <graph function="k" domain="(0,2)"/>
+          </coordinates>
+        </diagram>
+      </prefigure>
+    </image>
   </exercise>
 
   <exercise>

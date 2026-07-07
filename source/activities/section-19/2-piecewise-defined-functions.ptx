@@ -8,9 +8,48 @@
   <introduction>
     <p>
       Consider the functions below.  The middle part of the second graph is a parabola.
-      Image here.
     </p>
   </introduction>
+
+  <sidebyside widths="45% 45%">
+    <image>
+    	<prefigure xmlns="https://prefigure.org" label="piecewise-graph-1">
+		    <diagram dimensions="(300,300)" margins="5">
+			    <definition>f(x)= -2*(x+4)+1</definition>
+    			<definition>g(x)=(1/3)*(x-4)+1</definition>
+		    	<coordinates bbox="(-5,-4,5,2)">
+				    <axes xlabel="x" ylabel="y"/>
+    				<graph function="f" domain="(-4,-2)"/>
+		    		<graph function="g" domain="(-2,4)"/>
+				    <point p="(-4,1)" fill="blue" stroke="blue"> <m>(-4,1)</m> </point>
+    				<point p="(-2,-3)" fill="blue" stroke="blue" alignment="s"> <m>(-2,-3)</m> </point>
+        		<point p="(-2,-1)" fill="white" stroke="blue" alignment="s"> <m>(-2,-1)</m> </point>
+		    		<point p="(4,1)" fill="blue" stroke="blue" alignment="nw"> <m>(4,1)</m> </point>
+			    </coordinates>
+		    </diagram>
+	    </prefigure>
+    </image>
+    <image>
+	    <prefigure xmlns="https://prefigure.org" label="piecewise-graph-2">
+    		<diagram dimensions="(300,300)" margins="5">
+		    	<definition>f(x)= -3*(x+3)+4</definition>
+			    <definition>g(x)=-1.5*(x-1)^2+4</definition>
+    			<definition>h(x)= 0.5*(x-5)+4</definition>
+		    	<coordinates bbox="(-4,-3,6,5)">
+				    <axes xlabel="x" ylabel="y"/>
+    				<graph function="f" domain="(-3,-1)"/>
+		    		<graph function="g" domain="(-1,2)"/>
+				    <graph function="h" domain="(2,5)" />
+    				<point p="(-3,4)"> <m>(-3,4)</m> </point>
+		    		<point p="(-1,-2)" alignment="nw"> <m>(-1,-2)</m> </point>
+				    <point p="(1,4)" alignment="ne"> <m>(1,4)</m> </point>
+    				<point p="(2,2.5)" alignment="s"> <m>(2,2.5)</m> </point>
+		    		<point p="(5,4)" alignment="n"> <m>(5,4)</m> </point>
+			    </coordinates>
+		    </diagram>
+	    </prefigure>
+    </image>
+  </sidebyside>
 
   <exercise>
     <statement>

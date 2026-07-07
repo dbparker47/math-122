@@ -55,11 +55,23 @@
   </exercise>
 
   <exercise>
-    <statement>
-      <p>
-        Image here.
-      </p>
-    </statement>
+    <image>
+    	<prefigure xmlns="https://prefigure.org" label="domain-range-graph">
+        <diagram dimensions="(300, 300)" margins="5">
+          <definition>f(x)=cos(3*(x+2)/pi)+2</definition>
+          <definition>g(x)=-0.25*x^2+4.25</definition>
+          <coordinates bbox="(-3,-3,6,5)">
+            <grid-axes xlabel="x" ylabel="y"/>
+            <graph function="f" domain="(-2,1)"/>
+            <graph function="g" domain="(1,5)"/>
+            <point p="(-2,3)" stroke="blue" fill="white" />
+            <point p="(1,1)" stroke="blue" fill="white" />
+            <point p="(1,4)" stroke="blue" fill="blue" />
+            <point p="(5,-2)" stroke="blue" fill="blue" />
+          </coordinates>
+        </diagram>
+      </prefigure>
+    </image>
   </exercise>
 
 </worksheet>

@@ -40,7 +40,22 @@
       <p>
         Give a possible formula for the function whose graph is the following.
       </p>
-      <p>Image here.</p>
+      <image>
+      	<prefigure xmlns="https://prefigure.org" label="poly-no-repeat">
+          <diagram dimensions="(300, 300)" margins="5">
+            <definition>f(x)=0.2*(x+1)*(x-3)*(x-5)</definition>
+            <coordinates bbox="(-3,-5,8,5)">
+              <axes xlabel="x" ylabel="y" hticks="(-4,1,7)" vticks="no" vlabels="no" hlabels="(-3,1,7)" />
+              <graph function="f" />
+              <graph function="g" domain="(-1,1)" />
+              <graph function="h" domain="(1,4)" />
+              <graph function="k" domain="(-4,-1)" stroke="green" />
+              <graph function="m" domain="(-1,1)" stroke="green" />
+              <graph function="n" domain="(1,4)" stroke="green" />
+            </coordinates>
+          </diagram>
+        </prefigure>
+      </image>
     </statement>
   </exercise>
 

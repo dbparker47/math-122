@@ -61,7 +61,29 @@
       <p>
         Consider the graphs for functions <m>p</m> and <m>q</m>.
       </p>
-      <p>Image here.</p>
+      <image>
+	      <prefigure xmlns="https://prefigure.org" label="composition-graph">
+          <diagram dimensions="(300, 300)" margins="5">
+            <definition>f(x)=-2*x-3</definition>
+            <definition>g(x)=0.5*(x+1)-1</definition>
+            <definition>h(x)=2*(x-1)</definition>
+            <definition>k(x)=3*(x+1)+2</definition>
+            <definition>m(x)=2</definition>
+            <definition>n(x)=-x+3</definition>
+            <coordinates bbox="(-4,-4,4,4)">
+              <grid-axes xlabel="x" ylabel="y" hticks="(-1,1,5)" vticks="(-1,1,5)" spacings="((-4,0.5,4),(-4,0.5,4))" />
+              <graph function="f" domain="(-4,-1)" />
+              <graph function="g" domain="(-1,1)" />
+              <graph function="h" domain="(1,4)" />
+              <graph function="k" domain="(-4,-1)" stroke="green" />
+              <graph function="m" domain="(-1,1)" stroke="green" />
+              <graph function="n" domain="(1,4)" stroke="green" />
+              <label anchor="(-3,3)" alignment="ne"> <m>p</m> </label>
+              <label anchor="(-2.5,-2.5)" alignment="nw"> <m>q</m> </label>
+            </coordinates>
+          </diagram>
+        </prefigure>
+      </image>
       <p>
         <ol>
           <li>
