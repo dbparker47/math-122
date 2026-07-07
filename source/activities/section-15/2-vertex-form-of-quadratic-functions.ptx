@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
+<worksheet xml:id="vertex-quadratic">
   <title>Vertex Form of Quadratic Functions</title>
 
   <!-- Optional introduction -->

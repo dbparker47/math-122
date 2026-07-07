@@ -41,9 +41,119 @@
       <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
     </chapter>
 
+    <chapter xml:id="in-class-11">
+      <title>In-Class Activities: Section 1.1</title>
+      <xi:include href="./activities/section-11/1-related-quantities.ptx" />
+    </chapter>
+
     <chapter xml:id="in-class-12">
       <title>In-Class Activities: Section 1.2</title>
-      <xi:include href="./activities/section-11/1-related-quantities.ptx" />
+      <xi:include href="./activities/section-12/1-domain-codomain-range-of-functions.ptx" />
+      <xi:include href="./activities/section-12/2-functions-relations.ptx" />
+      <xi:include href="./activities/section-12/3-application-of-functions.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-13">
+      <title>In-Class Activities: Section 1.3</title>
+      <xi:include href="./activities/section-13/1-average-rate-of-change-velocity-not-on-quiz.ptx" />
+      <xi:include href="./activities/section-13/2-average-rate-of-change-applications.ptx" />
+      <xi:include href="./activities/section-13/3-average-rate-of-change-interpretation-not-on-quiz.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-14">
+      <title>In-Class Activities: Section 1.4</title>
+      <xi:include href="./activities/section-14/1a-introduction-to-linear-functions-not-on-quiz.ptx" />
+      <xi:include href="./activities/section-14/1b-computing-linear-functions.ptx" />
+      <xi:include href="./activities/section-14/2-applying-linear-functions.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-15">
+      <title>In-Class Activities: Section 1.5</title>
+      <xi:include href="./activities/section-15/0-quadratic-equations-not-on-quiz.ptx" />
+      <xi:include href="./activities/section-15/1-introduction-to-quadratic-functions.ptx" />
+      <xi:include href="./activities/section-15/2-vertex-form-of-quadratic-functions.ptx" />
+      <xi:include href="./activities/section-15/3-applications-of-quadratic-functions.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-16">
+      <title>In-Class Activities: Section 1.6</title>
+      <xi:include href="./activities/section-16/1-composition-of-functions.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-17">
+      <title>In-Class Activities: Section 1.7</title>
+      <xi:include href="./activities/section-17/1-introduction-to-inverse-functions.ptx" />
+      <xi:include href="./activities/section-17/2-advanced-inverse-functions.ptx" />
+      <xi:include href="./activities/section-17/3-graphing-inverse-functions.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-19">
+      <title>In-Class Activities: Section 1.9</title>
+      <xi:include href="./activities/section-19/1-combining-functions-applications.ptx" />
+      <xi:include href="./activities/section-19/2-piecewise-defined-functions.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-31">
+      <title>In-Class Activities: Section 3.1</title>
+      <xi:include href="./activities/section-31/1-introduction-to-exponential-functions.ptx" />
+      <xi:include href="./activities/section-31/2-exponential-applications.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-32">
+      <title>In-Class Activities: Section 3.2</title>
+      <xi:include href="./activities/section-32/1-end-behavior-of-exponential-functions-not-on-quiz.ptx" />
+      <xi:include href="./activities/section-32/2-modeling-temperature-with-exponential-functions.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-33">
+      <title>In-Class Activities: Section 3.3</title>
+      <xi:include href="./activities/section-33/1a-compound-interest-not-on-quiz.ptx" />
+      <xi:include href="./activities/section-33/1b-more-compound-interest.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-34">
+      <title>In-Class Activities: Section 3.4</title>
+      <xi:include href="./activities/section-34/1-introduction-to-logarithms.ptx" />
+      <xi:include href="./activities/section-34/2-solving-logarithm-equations.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-35">
+      <title>In-Class Activities: Section 3.5</title>
+      <xi:include href="./activities/section-35/1-logarithm-properties-and-natural-logarithm-not-on-quiz.ptx" />
+      <xi:include href="./activities/section-35/2-logarithm-applications.ptx" />
+      <xi:include href="./activities/section-35/3-half-life-and-related-problems.ptx" />
+      <xi:include href="./activities/section-35/4a-carbon-dating-and-doubling-time.ptx" />
+      <xi:include href="./activities/section-35/4b-using-logarithms-to-solve-temperature-problems.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-36">
+      <title>In-Class Activities: Section 3.6</title>
+      <xi:include href="./activities/section-36/1-population-growth-models.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-51">
+      <title>In-Class Activities: Section 5.1</title>
+      <xi:include href="./activities/section-51-52/0-power-function-end-behavior-not-on-quiz.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-52">
+      <title>In-Class Activities: Section 5.1</title>
+      <xi:include href="./activities/section-51-52/1-polynomial-end-behavior-not-on-quiz.ptx" />
+      <xi:include href="./activities/section-51-52/2-exploring-polynomial-roots-and-graphs-not-on-quiz.ptx" />
+      <xi:include href="./activities/section-51-52/3-graphing-polynomials-from-roots.ptx" />
+      <xi:include href="./activities/section-51-52/4-graphing-polynomials-from-repeated-roots.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-53">
+      <title>In-Class Activities: Section 5.3</title>
+      <xi:include href="./activities/section-53/1-polynomial-models.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-regression">
+      <title>In-Class Activities: Regression</title>
+      <xi:include href="./activities/section-regression/1-introduction-to-regression.ptx" />
+      <xi:include href="./activities/section-regression/2a-recognizing-function-types-not-on-quiz.ptx" />
+      <xi:include href="./activities/section-regression/2b-choosing-models-and-making-predictions.ptx" />
     </chapter>
 
     <!-- Include additional chapters for other categories -->
