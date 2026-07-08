@@ -35,17 +35,59 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Combining Functions (Applications)</title>
+      <p>
+        Create the following functions and solve the application problems.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Jojo is selling fancy chairs.  If the price is <m>p</m> dollars, Jojo can sell <m>d(p) = 900-3p</m> units.
+              <ol>
+                <li>
+                  <p>
+                    If Jojo sells their chairs for <m>p = $3</m>, what is the total revenue that Jojo takes in?  Do the same for <m>p=$10</m> and <m>p = $20</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Use the same reasoning as in (a) to find a formula for Jojo's total revenue when the price is <m>p</m>.  We will call the total revenue <m>R(p)</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What are the domain and range of <m>R(p)</m>?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              You are building a rectangular fenced-in space for your dog right next to your home with 100 feet of fencing.  One of the sides of the area is the side of your home.
+              <ol>
+                <li>
+                  <p>
+                    If <m>x</m> is the length of one of the sides of the fence that is attached to your home, and if <m>y</m> is the length of the side not attached to your home, what is the area of the fenced-in space?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    If the length of one of the sides of the fence that is attached to your home is <m>x</m>, what is the area <m>A(x)</m> of the fenced-in space?  Hint:  Let <m>y</m> be the length of the side not attached to your home, and solve for <m>y</m> in terms of <m>x</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    If the length of the side of the fence not touching your home is <m>y</m>, what is the area <m>a(y)</m> of the fenced in space?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What are the domain and range of the above functions?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
         </ol>
@@ -65,17 +107,72 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Piecewise Defined Functions</title>
+      <p>
+        Consider the functions below.  The middle part of the second graph is a parabola.
+      </p>
+      <sidebyside widths="45% 45%">
+        <image>
+        	<prefigure xmlns="https://prefigure.org" label="piecewise-graph-prep-1">
+		        <diagram dimensions="(300,300)" margins="5">
+			        <definition>f(x)= -2*(x+4)+1</definition>
+        			<definition>g(x)=(1/3)*(x-4)+1</definition>
+		        	<coordinates bbox="(-5,-4,5,2)">
+				        <axes xlabel="x" ylabel="y"/>
+    				    <graph function="f" domain="(-4,-2)"/>
+    		    		<graph function="g" domain="(-2,4)"/>
+    				    <point p="(-4,1)" fill="blue" stroke="blue"> <m>(-4,1)</m> </point>
+        				<point p="(-2,-3)" fill="blue" stroke="blue" alignment="s"> <m>(-2,-3)</m> </point>
+            		<point p="(-2,-1)" fill="white" stroke="blue" alignment="s"> <m>(-2,-1)</m> </point>
+    		    		<point p="(4,1)" fill="blue" stroke="blue" alignment="nw"> <m>(4,1)</m> </point>
+    			    </coordinates>
+    		    </diagram>
+    	    </prefigure>
+        </image>
+        <image>
+    	    <prefigure xmlns="https://prefigure.org" label="piecewise-graph-prep-2">
+        		<diagram dimensions="(300,300)" margins="5">
+    		    	<definition>f(x)= -3*(x+3)+4</definition>
+    			    <definition>g(x)=-1.5*(x-1)^2+4</definition>
+        			<definition>h(x)= 0.5*(x-5)+4</definition>
+    		    	<coordinates bbox="(-4,-3,6,5)">
+    				    <axes xlabel="x" ylabel="y"/>
+        				<graph function="f" domain="(-3,-1)"/>
+    		    		<graph function="g" domain="(-1,2)"/>
+    				    <graph function="h" domain="(2,5)" />
+        				<point p="(-3,4)"> <m>(-3,4)</m> </point>
+    		    		<point p="(-1,-2)" alignment="nw"> <m>(-1,-2)</m> </point>
+    				    <point p="(1,4)" alignment="ne"> <m>(1,4)</m> </point>
+        				<point p="(2,2.5)" alignment="s"> <m>(2,2.5)</m> </point>
+    		    		<point p="(5,4)" alignment="n"> <m>(5,4)</m> </point>
+    			    </coordinates>
+    		    </diagram>
+    	    </prefigure>
+        </image>
+      </sidebyside>
       <p>
         <ol>
           <li>
             <p>
-              
+              Determine the formula(s) for each function above.  For the parabola, I suggest using the vertex form of the formula.
             </p>
           </li>
           <li>
             <p>
-              
+              Consider the following piecewise defined function.
+        <md>f(x) = \left\{ \begin{matrix} 2x+3 &amp; x &lt; 1 \\ (x-2)^2+1 &amp; 1 \le x \le 3 \\ -x+5 &amp; x>3 \end{matrix} \right.</md>
+        <ol>
+          <li>
+            <p>
+              Compute <m>f(-2)</m>, <m>f(2)</m>, and <m>f(5)</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Sketch a graph of <m>f</m>.
+            </p>
+          </li>
+        </ol>
             </p>
           </li>
         </ol>

@@ -40,17 +40,64 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Introduction to Exponential Functions</title>
+      <p>
+        The following problems are to help you understand exponential functions.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              You deposit $1000 in an account earning an annual interest rate of 5%.  Interest is re-computed every year.
+              <ol>
+                <li>
+                  <p>
+                    How much money is in the account at the end of each of the first three years?  
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    If you have $<m>A</m> in the account one year, how much money do you have in the account one year later?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Use what you found in (b) to write your answers in part (a) in a different way.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Use what you found in part (c) to find a formula for the amount of money <m>A(t)</m> you have after <m>t</m> years.
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              You are storing 100 lbs. of radioactive material in which 25% of the material decays every year.
+              <ol>
+                <li>
+                  <p>
+                    How much material is left at the end of each of the first three years?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Find a formula for the amount of radioactive material <m>M(t)</m> that is left after <m>t</m> years.  Try using a similar process as we used in #1.
+                  </p>
+                </li>
+              </ol> 
+            </p>
+          </li>
+          <li>
+            <p>
+              Suppose you have some quantity that <em>increases</em> by a factor of <m>r</m> each year (for instance, if <m>r=0.05</m>, then the quantity increases by 5% each year).  If you start out with quantity <m>A_0</m> at <m>t=0</m>, how much quantity <m>A(t)</m> do you have at time <m>t</m>?
+            </p>
+          </li>
+          <li>
+            <p>
+              Suppose you have some quantity that <em>decreases</em> by a factor of <m>r</m> each year.  If you start out with quantity <m>A_0</m> at <m>t=0</m>, how much quantity <m>A(t)</m> do you have at time <m>t</m>?
             </p>
           </li>
         </ol>
@@ -70,17 +117,54 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Exponential Applications</title>
+      <p>
+        Solve the following application problems.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Suppose we invest money in an account with a fixed annual interest rate.  After two years, we have $250 and after five years we have $400.
+              <ol>
+                <li>
+                  <p>
+                    Find a formula for the amount <m>A(t)</m> that is in the account after <m>t</m> years.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What is the interest rate on the account?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    How much money did we start out with?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              Suppose we own something that loses a fixed percentage of its value each year.  After 3 years, it is worth $300, and after 7 years, it is worth $200.
+              <ol>
+                <li>
+                  <p>
+                    Find a formula for the value <m>V(t)</m> that the item is worth after <m>t</m> years.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What is the annual percentage that the value drops?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What was it worth at the beginning?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
         </ol>

@@ -40,17 +40,54 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Exponential Applications</title>
+      <p>
+        Solve the following application problems.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Suppose we invest money in an account with a fixed annual interest rate.  After two years, we have $250 and after five years we have $400.
+              <ol>
+                <li>
+                  <p>
+                    Find a formula for the amount <m>A(t)</m> that is in the account after <m>t</m> years.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What is the interest rate on the account?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    How much money did we start out with?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              Suppose we own something that loses a fixed percentage of its value each year.  After 3 years, it is worth $300, and after 7 years, it is worth $200.
+              <ol>
+                <li>
+                  <p>
+                    Find a formula for the value <m>V(t)</m> that the item is worth after <m>t</m> years.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What is the annual percentage that the value drops?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What was it worth at the beginning?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
         </ol>
@@ -70,17 +107,64 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>End Behavior of Exponential Functions (Not on Quiz)</title>
+      <p>
+        These problems are to help you understand the end behavior of exponential functions.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Let <m>f(x)=3^x</m>.
+              <ol>
+                <li>
+                  <p>
+                    Look at <m>f(1)</m>, <m>f(2)</m>, <m>f(3)</m>, <m>f(4)</m>, and <m>f(5)</m>.  What is happening to the outputs of the function as the inputs get bigger?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What happens to <m>f(x)</m> as <m>x</m> gets really big?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What happens to <m>f(x)</m> as <m>x</m> gets really negative?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              Let <m>f(x)=\left( \frac25 \right)^x</m>.
+              <ol>
+                <li>
+                  <p>
+                    Look at <m>f(1)</m>, <m>f(2)</m>, <m>f(3)</m>, <m>f(4)</m>, and <m>f(5)</m>.  What is happening to the outputs of the function as the inputs get bigger?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What happens to <m>f(x)</m> as <m>x</m> gets really big?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What happens to <m>f(x)</m> as <m>x</m> gets really negative?
+                  </p>
+                </li>
+              </ol>
+            </p>
+          </li>
+          <li>
+            <p>
+              Let <m>f(x)=a \cdot b^x</m>.  What happens to <m>f(x)</m> as <m>x</m> gets really big or really negative?  Your answers will depend on the values of <m>a</m> and <m>b</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Suppose we want to use the function <m>f(x)=2 \cdot \left( \frac13 \right)^x</m> to model a phenomenon, but we need a function that gets close to 20 as <m>x</m> gets really big.  How can we adjust <m>f(x)</m> to make this happen?
             </p>
           </li>
         </ol>
@@ -100,17 +184,44 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Modeling Temperature with Exponential Functions</title>
+      <p>
+        Solve the following temperature problems.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              You bring a cup of cold water into a <m>68^\circ</m> room.  Initially, the water is <m>40^\circ</m>.  After 5 minutes, the water is <m>50^\circ</m>.
+              <ol>
+                <li>
+                  <p>
+                    If <m>W(t)</m> is the temperature of the water at time <m>t</m>, find a formula for <m>W(t)</m>.  Use the model <m>W(t)=a \cdot b^t+c</m> for appropriate constants <m>a</m>, <m>b</m>, and <m>c</m>. Hint: Determine <m>c</m> first.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What will the temperature of the water be after 10 minutes?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              After dinner, you put your leftovers in the refrigerator, which is <m>38^\circ</m>.  Before you store the food in the refrigerator, it is room temperature, which is <m>68^\circ</m>.  After 30 minutes, the food temperature is down to <m>55^\circ</m>.
+              <ol>
+                <li>
+                  <p>
+                    If <m>L(t)</m> is the temperature of the leftovers at time <m>t</m>, find a formula for <m>L(t)</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What will the temperature of the leftovers be after 75 minutes?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
         </ol>
