@@ -45,17 +45,25 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Applications of Quadratic Functions</title>
+      <p>
+        You stand on a ledge 10 ft above the ground and throw a ball up in the air.  The height of the ball at time <m>t</m> seconds is <m>h(t) = -16t^2+32t+10</m> feet.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              At what time does the ball hit the ground?
             </p>
           </li>
           <li>
             <p>
-              
+              At what time does the ball reach its maximum height?
+            </p>
+          </li>
+          <li>
+            <p>
+              What is the maximum height of the ball?
             </p>
           </li>
         </ol>

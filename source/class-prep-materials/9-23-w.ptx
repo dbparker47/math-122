@@ -35,18 +35,96 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Introduction to Quadratic Functions</title>
       <p>
-        <ol>
+        Each of the following has three points from the graph of a quadratic function.  For each problem, do the following.
+        <ul>
           <li>
             <p>
-              
+              Determine if the graph opens up or down.
             </p>
           </li>
           <li>
             <p>
-              
+              Guess how many <m>x</m>-intercepts the graph has.
             </p>
+          </li>
+          <li>
+            <p>
+              Write the system of equations you would have to solve to write the quadratic function in the form <m>f(x) = ax^2+bx+c</m>.
+            </p>
+          </li>
+        </ul>
+      </p>
+      <p>
+        <ol>
+          <li>
+            <image>
+	            <prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-1">
+                <diagram dimensions="(300, 300)" margins="5">
+                  <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
+                  <definition>g(x)=(3/16)*(x-6)^2+2.25</definition>
+                  <definition></definition>
+                  <coordinates bbox="(-1,-1,9,12)">
+                    <axes xlabel="x" ylabel="y" hticks="(0,1,8)" vticks="(0,1,11)" />
+                    <point p="(1,4)"> <m>(1,4)</m> </point>
+                    <point p="(3,2)"> <m>(3,2)</m> </point>
+                    <point p="(7,10)"> <m>(7,10)</m> </point>
+                  </coordinates>
+                </diagram>
+              </prefigure>
+            </image>
+          </li>
+          <li>
+            <image>
+            	<prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-2">
+                <diagram dimensions="(300, 300)" margins="5">
+                  <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
+                  <definition>g(x)=(3/16)*(x-6)^2+2.25</definition>
+                  <definition></definition>
+                  <coordinates bbox="(-5,-15,5,5)">
+                    <axes xlabel="x" ylabel="y" hticks="(-5,1,5)" vticks="(-15,1,5)" />
+                    <point p="(-3,-3)" alignment="sw"> <m>(-3,-3)</m> </point>
+                    <point p="(-2,3)" alignment="nw"> <m>(-2,3)</m> </point>
+                    <point p="(2,-13)"> <m>(2,-13)</m> </point>
+                  </coordinates>
+                </diagram>
+              </prefigure>
+            </image>
+          </li>
+          <li>
+            <image>
+            	<prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-3">
+                <diagram dimensions="(300, 300)" margins="5">
+                  <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
+                  <definition>g(x)=(3/16)*(x-6)^2+2.25</definition>
+                  <definition></definition>
+                  <coordinates bbox="(-1,-1,6,5)">
+                    <axes xlabel="x" ylabel="y" hticks="(-5,1,5)" vticks="(-15,1,5)" />
+                    <point p="(1,0)"> <m>(1,0)</m> </point>
+                    <point p="(2,2)"> <m>(2,2)</m> </point>
+                    <point p="(4,3)"> <m>(4,3)</m> </point>
+                  </coordinates>
+                </diagram>
+              </prefigure>
+            </image>
+          </li>
+          <li>
+            <image>
+            	<prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-4">
+                <diagram dimensions="(300, 300)" margins="5">
+                  <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
+                  <definition>g(x)=(3/16)*(x-6)^2+2.25</definition>
+                  <definition></definition>
+                  <coordinates bbox="(-1,-1,5,6)">
+                    <axes xlabel="x" ylabel="y" hticks="(-1,1,5)" vticks="(-1,1,5)" />
+                    <point p="(1,2)" alignment="s"> <m>(1,2)</m> </point>
+                    <point p="(2,3)" alignment="s"> <m>(2,3)</m> </point>
+                    <point p="(3,4)" alignment="s"> <m>(3,4)</m> </point>
+                  </coordinates>
+                </diagram>
+              </prefigure>
+            </image>
           </li>
         </ol>
       </p>
@@ -65,17 +143,37 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Vertex Form of Quadratic Functions</title>
+      <p>
+        Solve the following problems involving the vertex form of a quadratic function.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Consider the function <m>f(x) = 2x^2-8x+3</m>.
+              <ol>
+                <li>
+                  <p>
+                    Put <m>f</m> into vertex form (i.e. <m>f(x) = a(x-h)^2+k</m>).
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Use the vertex form above to find the vertex.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Use the vertex form of the function to explain why the vertex is the lowest point on the graph.
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              Do the same as above for the function <m>f(x) = -3x^2+24x+7</m>.
             </p>
           </li>
         </ol>
