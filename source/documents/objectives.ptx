@@ -386,6 +386,11 @@
                             Apply your understanding of exponential and logarithm functions to solve problems similar to doubling time problems for exponential growth.
                         </p>
                     </li>
+                    <li>
+                        <p>
+                            Use your understanding of exponential functions and logarithm functions to solve applied problems involving temperature of objects in an environment of constant temperature.
+                        </p>
+                    </li>
                 </ul>
             </p>
         </subsubsection>
@@ -397,11 +402,6 @@
                 <ul>
                     <li>
                         <p>
-                            Use your understanding of exponential functions and logarithm functions to solve applied problems involving temperature of objects in an environment of constant temperature.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
                             Use your understanding of exponential functions and logarithm functions to solve applied problems involving exponential and logistic population models.
                         </p>
                     </li>
@@ -410,7 +410,7 @@
         </subsubsection>
     </subsection>
 
-    <subsection xml:id="constructing-real-numbers">
+    <subsection xml:id="data-analysis">
         <title>Data Analysis</title>
         <subsubsection xml:id="regression">
             <title>Regression Models</title>

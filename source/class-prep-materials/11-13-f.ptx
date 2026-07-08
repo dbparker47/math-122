@@ -10,17 +10,27 @@
     <ul>
       <li>
         <p>
-          
+          Use Desmos or other technology to represent a given data set as points on a graph.
         </p>
       </li>
       <li>
         <p>
-          
+          Determine from the graph of the data whether the relationship between the quantities given by your data set is linear, quadratic, exponential, logarithmic, vertically translated exponential (i.e. temperature model), or logistic.
         </p>
       </li>
       <li>
         <p>
-          
+          Use Desmos or other technology to find an appropriate regression model (i.e. function) on your data.
+        </p>
+      </li>
+      <li>
+        <p>
+          Analyze the value of <m>R^2</m> and the appearance of the graph of the regression model to determine how well your model fits the data.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use your regression model to make predictions about the quantities measured by your data set.
         </p>
       </li>
     </ul>

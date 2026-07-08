@@ -10,17 +10,22 @@
     <ul>
       <li>
         <p>
-          
+          Explain why the function <m>f(x) = b^x</m> has an inverse when <m>b &gt; 0</m> and <m>b \ne 1</m>.
         </p>
       </li>
       <li>
         <p>
-          
+          Know that the inverse of <m>f(x)</m> in this case is <m>f^{-1}(x) = \log_b(x)</m>.
         </p>
       </li>
       <li>
         <p>
-          
+          Use the definition of the <em>logarithm functions</em> to compute <m>\log_b(x)</m> for certain values of <m>x</m> and <m>b</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use your understanding of logarithms to solve equations involving exponential and logarithm functions.
         </p>
       </li>
     </ul>

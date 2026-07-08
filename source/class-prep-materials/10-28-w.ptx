@@ -10,17 +10,17 @@
     <ul>
       <li>
         <p>
-          
+          Explain the properties <m>\log_b(xy) = \log_b(x) + \log_b(y)</m>, <m>\log_b \left( \frac{x}{y} \right)= \log_b(x) - \log_b(y)</m>, and <m>\log_b(x^r) = r \log_b(x)</m>.
         </p>
       </li>
       <li>
         <p>
-          
+          Use the above properties to solve equations involving variables in exponents.
         </p>
       </li>
       <li>
         <p>
-          
+          Use the above properties to solve applied problems involving exponential functions.
         </p>
       </li>
     </ul>
