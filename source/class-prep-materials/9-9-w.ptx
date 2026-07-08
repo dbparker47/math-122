@@ -35,17 +35,40 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Application of Functions</title>
+      <p>
+      You begin a car trip 10 miles away from your home.  You drive away from your home for two hours.  For every mile you drive, two minutes elapse.  Let <m>d</m> be the function where, <m>t</m> minutes into your trip, <m>d(t)</m> is your distance from home.
+    </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Find the domain of <m>d</m>.
             </p>
           </li>
           <li>
             <p>
-              
+              Find a reasonable codomain for <m>d</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Find the range of <m>d</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Find a formula for <m>d(t)</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              At what time or times are you 50 miles away from your home?
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw a graph of the function.
             </p>
           </li>
         </ol>
@@ -65,17 +88,124 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Average Rate of Change (Velocity, Not on Quiz)</title>
+      <p>
+        Complete the following average velocity problems.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              As you walk, your friend with a stopwatch takes down the following data.
+            </p>
+            <tabular halign="right">
+              <row>
+                <cell bottom="minor" right="minor">Time (seconds)</cell>
+                <cell bottom="minor" right="minor"><m>1</m></cell>
+                <cell bottom="minor" right="minor">2.5</cell>
+                <cell bottom="minor" right="minor">3</cell>
+                <cell bottom="minor" right="minor">5</cell>
+                <cell bottom="minor">5.25</cell>
+              </row>
+              <row>
+                <cell right="minor">Distance (feet)</cell>
+                <cell right="minor"><m>-4</m></cell>
+                <cell right="minor">9</cell>
+                <cell right="minor">16</cell>
+                <cell right="minor">30</cell>
+                <cell>40</cell>
+              </row>
+            </tabular>
+            <p>
+              <ol>
+                <li>
+                  <p>
+                    If you had to describe the velocity between <m>t=3</m> and <m>t=5</m>, what would it be?  This is called the <em>average velocity</em>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Find the average velocity between <m>t=1</m> and <m>t=2.5</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Find the average velocity between <m>t=1</m> and <m>t=5.25</m>.
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              Assume the relationship between the time <m>t</m> and distance <m>d(t)</m> is <m>d(t)=t^2</m>, where <m>t</m> is time in seconds. Determine the average velocity between <m>t=2</m> seconds and
+              <ol>
+                <li>
+                  <p>
+                    <m>t=4</m> sec
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    <m>t=3</m> sec.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    <m>t=2.1</m> sec.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    <m>t=0.5</m> sec.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    <m>t=1.5</m> sec.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    <m>t=1.9</m> sec.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    <m>t=b</m> sec.
+                  </p>
+                </li>
+              </ol>
+            </p>
+          </li>
+          <li>
+            <p>
+              Suppose the graph below is of time <m>t</m> versus distance <m>d(t)</m>.  What is the average velocity between <m>t=4</m> and <m>t=12</m>?
+            </p>
+            <image>
+	            <prefigure xmlns="https://prefigure.org" label="velocity-graph-prep">
+                <diagram dimensions="(300, 300)" margins="5">
+                  <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
+                  <definition>g(x)=(3/16)*(x-6)^2+2.25</definition>
+                  <definition></definition>
+                  <coordinates bbox="(-2,-1,15,12)">
+                    <axes xlabel="t" ylabel="d(t)" hticks="(0,1,15)" vticks="(0,1,10)" />
+                    <graph function="f" domain="(0,4)"/>
+                    <graph function="g" domain="(4,15)" />
+                    <line endpoints="((4,0),(4,3))" dash="8 8" />
+                    <line endpoints="((0,3),(4,3))" dash="8 8" />
+                    <line endpoints="((12,0),(12,9))" dash="8 8" />
+                    <line endpoints="((0,9),(12,9))" dash="8 8" />
+                    <point p="(4,3)" />
+                    <point p="(12,9)" />
+                  </coordinates>
+                </diagram>
+              </prefigure>
+            </image>
+          </li>
+          <li>
+            <p>
+              If the distance traveled is <m>d(t)=t^2</m>, what is the average velocity between <m>t=a</m> and <m>t=b</m>?
             </p>
           </li>
         </ol>

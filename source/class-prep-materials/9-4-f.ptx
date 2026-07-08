@@ -53,18 +53,64 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Domain, Codomain, and Range of Functions</title>
+      <p>
+        For the following functions, use your common sense to determine a reasonable domain, codomain, and range.  Use a graphing utility if necessary.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              <m>f(x)=\sqrt{x-2}</m>
             </p>
           </li>
           <li>
             <p>
-              
+              <m>f(x) = \frac{2x-1}{x-3}</m>
             </p>
+          </li>
+          <li>
+            <tabular halign="right">
+              <row>
+                <cell bottom="minor" right="minor"><m>x</m></cell>
+                <cell bottom="minor" right="minor"><m>1</m></cell>
+                <cell bottom="minor" right="minor">2</cell>
+                <cell bottom="minor" right="minor">3</cell>
+                <cell bottom="minor" right="minor">4</cell>
+                <cell bottom="minor" right="minor">5</cell>
+                <cell bottom="minor" right="minor">6</cell>
+                <cell bottom="minor">7</cell>
+              </row>
+              <row>
+                <cell right="minor"><m>f(x)</m></cell>
+                <cell right="minor"><m>-2</m></cell>
+                <cell right="minor">5</cell>
+                <cell right="minor"><m>-1</m></cell>
+                <cell right="minor">0</cell>
+                <cell right="minor">3</cell>
+                <cell right="minor">5</cell>
+                <cell>1</cell>
+              </row>
+            </tabular>
+          </li>
+          <li>
+            <image>
+            	<prefigure xmlns="https://prefigure.org" label="domain-range-graph-prep">
+                <diagram dimensions="(300, 300)" margins="5">
+                  <definition>f(x)=cos(3*(x+2)/pi)+2</definition>
+                  <definition>g(x)=-0.25*x^2+4.25</definition>
+                  <coordinates bbox="(-3,-3,6,5)">
+                    <grid-axes xlabel="x" ylabel="y"/>
+                    <graph function="f" domain="(-2,1)"/>
+                    <graph function="g" domain="(1,5)"/>
+                    <point p="(-2,3)" stroke="blue" fill="white" />
+                    <point p="(1,1)" stroke="blue" fill="white" />
+                    <point p="(1,4)" stroke="blue" fill="blue" />
+                    <point p="(5,-2)" stroke="blue" fill="blue" />
+                  </coordinates>
+                </diagram>
+              </prefigure>
+            </image>
           </li>
         </ol>
       </p>
@@ -83,17 +129,129 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Functions &amp; Relations</title>
+      <p>
+        For each of the following relations, determine if it is a function.  Note that if the variables are <m>x</m> and <m>y</m>, then <m>x</m> is the input and <m>y</m> is the output.
+      </p>
       <p>
         <ol>
           <li>
+            <tabular halign="right">
+              <row>
+                <cell bottom="minor" right="minor"><m>x</m></cell>
+                <cell bottom="minor" right="minor"><m>1</m></cell>
+                <cell bottom="minor" right="minor">2</cell>
+                <cell bottom="minor" right="minor">3</cell>
+                <cell bottom="minor" right="minor">4</cell>
+                <cell bottom="minor" right="minor">5</cell>
+                <cell bottom="minor" right="minor">6</cell>
+                <cell bottom="minor">7</cell>
+              </row>
+              <row>
+                <cell right="minor"><m>f(x)</m></cell>
+                <cell right="minor"><m>-2</m></cell>
+                <cell right="minor">5</cell>
+                <cell right="minor"><m>-1</m></cell>
+                <cell right="minor">0</cell>
+                <cell right="minor">3</cell>
+                <cell right="minor">5</cell>
+                <cell>1</cell>
+              </row>
+            </tabular>
+          </li>
+          <li>
+            <tabular halign="right">
+              <row>
+                <cell bottom="minor" right="minor"><m>x</m></cell>
+                <cell bottom="minor" right="minor"><m>1</m></cell>
+                <cell bottom="minor" right="minor">2</cell>
+                <cell bottom="minor" right="minor">3</cell>
+                <cell bottom="minor" right="minor">4</cell>
+                <cell bottom="minor" right="minor">2</cell>
+                <cell bottom="minor" right="minor">6</cell>
+                <cell bottom="minor">7</cell>
+              </row>
+              <row>
+                <cell right="minor"><m>f(x)</m></cell>
+                <cell right="minor"><m>-2</m></cell>
+                <cell right="minor">5</cell>
+                <cell right="minor"><m>-1</m></cell>
+                <cell right="minor">0</cell>
+                <cell right="minor">3</cell>
+                <cell right="minor">4</cell>
+                <cell>1</cell>
+              </row>
+            </tabular>
+          </li>
+          <li>
             <p>
-              
+              <m>x+y^2=4</m>
             </p>
           </li>
           <li>
             <p>
-              
+              <m>x^2+y=4</m>
+            </p>
+          </li>
+          <li>
+            <image>
+            	<prefigure xmlns="https://prefigure.org" label="relation-function-1-prep">
+                <diagram dimensions="(300, 300)" margins="5">
+                  <definition>f(x)=(1/tan(1.5*pi/4))*tan(pi*(x+2.5)/4)</definition>
+                  <definition>g(x)=pi/(3*sqrt(2))*(x+1)^2-3*pi/(4*sqrt(2))-sqrt(2)+2</definition>
+                  <definition>h(x)=-sec(pi*(x-1)/2)+2</definition>
+                  <definition>k(x)=1/(x-2)</definition>
+                  <coordinates bbox="(-5,-3,6,5)">
+                    <grid-axes xlabel="x" ylabel="y"/>
+                    <graph function="f" domain="(-4,-1)"/>
+                    <graph function="g" domain="(-1,0.5)"/>
+                    <graph function="h" domain="(0.5,2)"/>
+                    <graph function="k" domain="(2,5)"/>
+                    <line endpoints="((2,-3),(2,5))" infinite="yes" dash="8 8" stroke="black" />
+                    <point p="(-4,-1)" stroke="blue" fill="blue" />
+                    <point p="(-1,1)" stroke="blue" fill="white" />
+                    <point p="(-1,g(-1))" stroke="blue" fill="white" />
+                    <point p="(5,k(5))" stroke="blue" fill="blue" />
+                  </coordinates>
+                </diagram>
+              </prefigure>
+            </image>
+          </li>
+          <li>
+            <image>
+            	<prefigure xmlns="https://prefigure.org" label="relation-function-2-prep">
+                <diagram dimensions="(300, 300)" margins="5">
+                  <definition>f(x)=sqrt(x+2)</definition>
+                  <definition>g(x)=-sqrt(x+2)</definition>
+                  <definition>h(x)=sqrt(-x+2)+2*sqrt(2)</definition>
+                  <definition>k(x)=-sqrt(-x+2)+2*sqrt(2)</definition>
+                  <definition></definition>
+                  <coordinates bbox="(-8,-5,8,6)">
+                    <grid-axes xlabel="x" ylabel="y"/>
+                    <graph function="f" domain="(-8,0)"/>
+                    <graph function="g" />
+                    <graph function="h" />
+                    <graph function="k" domain="(0,2)"/>
+                  </coordinates>
+                </diagram>
+              </prefigure>
+            </image>
+          </li>
+          <li>
+            <p>
+              One of the relations in #3 and #4 is a function, and one is not a function.
+              <ol>
+                <li>
+                  <p>
+                    For the relation that is a function, find a formula for the function.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    For the relation that is not a function, show how trying to solve for the formula of the function shows that it is not a function.
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
         </ol>
