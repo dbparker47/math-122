@@ -15,7 +15,6 @@
 
     <chapter xml:id="course-documents">
       <title>Course Documents</title>
-
       <!-- Course syllabus -->
       <xi:include href="./documents/syllabus.ptx" />
       <xi:include href="./documents/objectives.ptx" />
@@ -23,7 +22,6 @@
 
     <chapter xml:id="exam">
       <title>Exams</title>
-
       <xi:include href="./notes/week01.ptx"/>
       <xi:include href="./notes/week02.ptx"/>
       <!-- etc. -->
@@ -37,8 +35,40 @@
 
     <chapter xml:id="class-prep">
       <title>Class Preparation Materials</title>
-      <!-- Include handouts -->
-      <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
+      <xi:include href="./class-prep-materials/8-31-m.ptx" />
+      <xi:include href="./class-prep-materials/9-2-w.ptx" />
+      <xi:include href="./class-prep-materials/9-4-f.ptx" />
+      <xi:include href="./class-prep-materials/9-9-w.ptx" />
+      <xi:include href="./class-prep-materials/9-11-f.ptx" />
+      <xi:include href="./class-prep-materials/9-14-m.ptx" />
+      <xi:include href="./class-prep-materials/9-16-w.ptx" />
+      <xi:include href="./class-prep-materials/9-18-f.ptx" />
+      <xi:include href="./class-prep-materials/9-21-m.ptx" />
+      <xi:include href="./class-prep-materials/9-23-w.ptx" />
+      <xi:include href="./class-prep-materials/9-25-f.ptx" />
+      <xi:include href="./class-prep-materials/9-28-m.ptx" />
+      <xi:include href="./class-prep-materials/9-30-w.ptx" />
+      <xi:include href="./class-prep-materials/10-5-m.ptx" />
+      <xi:include href="./class-prep-materials/10-9-f.ptx" />
+      <xi:include href="./class-prep-materials/10-12-m.ptx" />
+      <xi:include href="./class-prep-materials/10-14-w.ptx" />
+      <xi:include href="./class-prep-materials/10-16-f.ptx" />
+      <xi:include href="./class-prep-materials/10-19-m.ptx" />
+      <xi:include href="./class-prep-materials/10-21-w.ptx" />
+      <xi:include href="./class-prep-materials/10-23-f.ptx" />
+      <xi:include href="./class-prep-materials/10-28-w.ptx" />
+      <xi:include href="./class-prep-materials/11-2-m.ptx" />
+      <xi:include href="./class-prep-materials/11-6-f.ptx" />
+      <xi:include href="./class-prep-materials/11-9-m.ptx" />
+      <xi:include href="./class-prep-materials/11-11-w.ptx" />
+      <xi:include href="./class-prep-materials/11-13-f.ptx" />
+      <xi:include href="./class-prep-materials/11-16-m.ptx" />
+      <xi:include href="./class-prep-materials/11-18-w.ptx" />
+      <xi:include href="./class-prep-materials/11-20-f.ptx" />
+      <xi:include href="./class-prep-materials/11-23-m.ptx" />
+      <xi:include href="./class-prep-materials/11-30-m.ptx" />
+      <xi:include href="./class-prep-materials/12-2-w.ptx" />
+      <xi:include href="./class-prep-materials/12-7-m.ptx" />
     </chapter>
 
     <chapter xml:id="in-class-11">
