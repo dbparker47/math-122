@@ -21,10 +21,40 @@
     </ul>
   </objectives>
 
-  <subsection xml:id="video-activity-irrational-number">
-    <title>Video &amp; Activities for Irrational Numbers</title>
+  <subsection xml:id="video-activity-graph-inverse">
+    <title>Video &amp; Activities for Graphing Inverse Functions</title>
     <p>
-      Below is a YouTube video on <em></em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below is a YouTube video on <em>graphing inverse functions</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    </p>
+
+    <video youtube="IZzOgiYB4o4" />
+
+    <example>
+      <title></title>
+      <p>
+        <ol>
+          <li>
+            <p>
+              
+            </p>
+          </li>
+          <li>
+            <p>
+              
+            </p>
+          </li>
+        </ol>
+      </p>
+    </example>
+    <p>
+      Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-combining-applications">
+    <title>Video &amp; Activities for Applications of Combining Functions</title>
+    <p>
+      Below is a YouTube video on <em>combining functions in applications</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="IZzOgiYB4o4" />

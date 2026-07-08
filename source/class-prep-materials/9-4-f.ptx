@@ -31,10 +31,53 @@
     </ul>
   </objectives>
 
-  <subsection xml:id="video-activity-irrational-number">
-    <title>Video &amp; Activities for Irrational Numbers</title>
+  <subsection xml:id="video-activity-intro-functions">
+    <title>Video for Introduction to Functions</title>
     <p>
-      Below is a YouTube video on <em></em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below is a YouTube video on <em></em>. Please watch the video and then go on to the next video and activities below.
+    </p>
+
+    <video youtube="IZzOgiYB4o4" />
+
+    <p>
+      Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-domain-codomain-range">
+    <title>Video &amp; Activities for Domain, Codomain, &amp; Range</title>
+    <p>
+      Below is a YouTube video on the <em>domain, codomain, &amp; range</em> of a function. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    </p>
+
+    <video youtube="IZzOgiYB4o4" />
+
+    <example>
+      <title></title>
+      <p>
+        <ol>
+          <li>
+            <p>
+              
+            </p>
+          </li>
+          <li>
+            <p>
+              
+            </p>
+          </li>
+        </ol>
+      </p>
+    </example>
+    <p>
+      Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-functions-relations">
+    <title>Video &amp; Activities for Functions &amp; Relations</title>
+    <p>
+      Below is a YouTube video on the distinction between <em>functions &amp; relations</em> of a function. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="IZzOgiYB4o4" />
