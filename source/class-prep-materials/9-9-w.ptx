@@ -10,17 +10,17 @@
     <ul>
       <li>
         <p>
-          
+          For an applied problem, determine the domain and range of a function that makes sense for the problem (e.g. if the input is distance, it cannot be a negative number).
         </p>
       </li>
       <li>
         <p>
-          
+          For a function given as a relation, find the formula for the function.
         </p>
       </li>
       <li>
         <p>
-          
+          Given a function <m>f</m> and an interval <m>[a, b]</m> in the domain of <m>f</m>, compute the <em>average rate of change</em> over the interval (i.e. compute <m>\frac{f(b)-f(a)}{b-a}</m>).
         </p>
       </li>
     </ul>

@@ -10,17 +10,22 @@
     <ul>
       <li>
         <p>
-          
+          Given formulas for two functions <m>f</m> and <m>g</m>, determine a formula for the function <m>f \circ g</m>.
         </p>
       </li>
       <li>
         <p>
-          
+          Given the graph of two functions <m>f</m> and <m>g</m>, compute <m>(f \circ g)(x)</m> for given values of <m>x</m>.
         </p>
       </li>
       <li>
         <p>
-          
+          Explain and use the definition of <em>inverse functions</em>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Given the formula for a function <m>f</m>, determine the formula for the inverse function <m>f^{-1}</m>.
         </p>
       </li>
     </ul>

@@ -10,17 +10,22 @@
     <ul>
       <li>
         <p>
-          
+          Recognize the formula of a <em>linear function</em> (i.e. <m>f(x) = ax + b</m>, where <m>a</m> and <m>b</m> are constants).
         </p>
       </li>
       <li>
         <p>
-          
+          Interpret a linear function as a function where the average rate of change between every pair of points is the same.
         </p>
       </li>
       <li>
         <p>
-          
+          Given a point on a line and the <em>slope</em> of the line, determine a formula for the linear function.
+        </p>
+      </li>
+      <li>
+        <p>
+          Given two points on a line, determine a formula for the linear function.
         </p>
       </li>
     </ul>

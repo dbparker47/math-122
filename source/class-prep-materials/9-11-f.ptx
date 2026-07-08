@@ -10,17 +10,22 @@
     <ul>
       <li>
         <p>
-          
+          Given a function <m>f</m> and an interval <m>[a, b]</m> in the domain of <m>f</m>, compute the <em>average rate of change</em> over the interval (i.e. compute <m>\frac{f(b)-f(a)}{b-a}</m>).
         </p>
       </li>
       <li>
         <p>
-          
+          In an applied problem, interpret what the average rate of change of the function means (e.g. if the input <m>x</m> is time and <m>f(x)</m> is the distance traveled at time <m>x</m>, then the average rate of change is velocity).
         </p>
       </li>
       <li>
         <p>
-          
+          In an applied problem, identify the units of the average rate of change (e.g. if the input <m>x</m> is time given in minutes and the function <m>f(x)</m> is the temperature given in <m>^\circ</m>F of an object at time <m>x</m> minutes, then the units of the average rate of change is <m>^\circ</m>F per minute).
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the average rate of change to make predictions about the function.
         </p>
       </li>
     </ul>

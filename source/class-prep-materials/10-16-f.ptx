@@ -10,17 +10,22 @@
     <ul>
       <li>
         <p>
-          
+          Use your understanding of exponential functions to solve application problems (e.g. interest rate [including compound interest] &amp; radioactive decay).
         </p>
       </li>
       <li>
         <p>
-          
+          Describe the end behavior of the function <m>f(x) = ab^x</m> for different values of <m>b</m> (i.e. what happens to the function as <m>x \rightarrow \infty</m> or <m>x \rightarrow \infty</m>).
         </p>
       </li>
       <li>
         <p>
-          
+          Explain why a vertical translation (and perhaps reflection) of an exponential function is appropriate for the temperature of an object over time.
+        </p>
+      </li>
+      <li>
+        <p>
+          Given appropriate information about the temperature of an object and its environment, construct the formula for a function that models the temperature of the object.
         </p>
       </li>
     </ul>
