@@ -55,7 +55,7 @@
   </exercise>
 
   <exercise>
-    <image>
+    <image width="60%">
     	<prefigure xmlns="https://prefigure.org" label="domain-range-graph">
         <diagram dimensions="(300, 300)" margins="5">
           <definition>f(x)=cos(3*(x+2)/pi)+2</definition>

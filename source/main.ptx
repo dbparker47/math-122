@@ -30,7 +30,15 @@
 
     <chapter xml:id="homework">
       <title>Homework Assignments</title>
-
+      <xi:include href="./homework/homework-1.ptx" />
+      <xi:include href="./homework/homework-2.ptx" />
+      <xi:include href="./homework/homework-3.ptx" />
+      <xi:include href="./homework/homework-4.ptx" />
+      <xi:include href="./homework/homework-5.ptx" />
+      <xi:include href="./homework/homework-6.ptx" />
+      <xi:include href="./homework/homework-7.ptx" />
+      <xi:include href="./homework/homework-8.ptx" />
+      <xi:include href="./homework/homework-9.ptx" />
     </chapter>
 
     <chapter xml:id="class-prep">

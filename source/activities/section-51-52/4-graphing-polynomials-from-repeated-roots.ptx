@@ -32,7 +32,7 @@
       <p>
         Give a possible formula for the function whose graph is the following.
       </p>
-      <image>
+      <image width="60%">
       	<prefigure xmlns="https://prefigure.org" label="poly-repeat">
           <diagram dimensions="(300, 300)" margins="5">
             <definition>f(x)=-0.025*(x+3)*(x-1)*(x-5)*(x-3)^2</definition>

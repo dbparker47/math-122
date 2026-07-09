@@ -12,7 +12,7 @@
   </introduction>
 
   <exercise>
-    <image>
+    <image width="50%">
   	  <prefigure xmlns="https://prefigure.org" label="inverse-graph-1">
 	      <diagram dimensions="(300,300)" margins="5">
 			    <definition>f(x)= 2*sqrt(2)^x-4</definition>
@@ -26,7 +26,7 @@
   </exercise>
 
   <exercise>
-    <image>
+    <image width="50%">
 	    <prefigure xmlns="https://prefigure.org" label="inverse-graph-2">
 		    <diagram dimensions="(300,300)" margins="5">
       		<definition>f(x)= -2*sqrt(-x-4)+2</definition>

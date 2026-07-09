@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 122</title>
+  <title>Homework Assignment #4 - Math 122</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
+      <alert>Due Sunday, 10/11</alert>
     </p>
     <p>
       These are the requirements for all homework assignments.
@@ -42,11 +42,33 @@
   <exercise>
     <statement>
       <p>
-        Section  (pp.  in the PDF file; at the end of the section in the HTML version)
+        Section 1.5 (pp. 59-60 in the PDF file; at the end of the section in the HTML version)
         <ul>
           <li>
             <p>
-              ( pts.) Do problem #.
+              (28 pts.) Do problem #6. In finding the equations for the functions in parts (a) and (b), only use the red dots given in the graph.  In particular, for (b) you may not use the vertex.
+            </p>
+          </li>
+          <li>
+            <p>
+              (23 pts.) Do problem #8.  A couple notes.
+              <ul>
+                <li>
+                    <p>
+                        You will need the height formula <m>h(t) = -16t^2+v_0t+h_0</m> from subsection 1.5.3 (Modeling falling objects), where <m>v_0</m> is the initial velocity and <m>h_0</m> is the initial height.  Do not use calculus to solve any of this problem.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Even though part (d) is the last part of the problem, I suggest either doing it first or right after you do part (a).
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Do <em>not</em> assume each story of the building has the same height.  That will lead you to an incorrect answer.
+                    </p>
+                </li>
+              </ul>
             </p>
           </li>
         </ul>

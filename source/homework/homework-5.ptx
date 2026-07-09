@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 122</title>
+  <title>Homework Assignment #5 - Math 122</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
+      <alert>Due Sunday, 10/18</alert>
     </p>
     <p>
       These are the requirements for all homework assignments.
@@ -42,11 +42,26 @@
   <exercise>
     <statement>
       <p>
-        Section  (pp.  in the PDF file; at the end of the section in the HTML version)
+        Section 1.6 (pp. 69-70 in the PDF file; at the end of the section in the HTML version)
         <ul>
           <li>
             <p>
-              ( pts.) Do problem #.
+              (39 pts.) Do problem #8 in the textbook.  For part (e), you do <em>not</em> need to simplify your expressions (and I would suggest that you do not simplify them).
+            </p>
+          </li>
+        </ul>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Section 1.7 (pp. 82-83 in the PDF file; at the end of the section in the HTML version)
+        <ul>
+          <li>
+            <p>
+              (22 pts.) Do problem #7 in the textbook.  The wording in part (b) is a little confusing.  Just make sure that you have six points on the graph of <m>p^{-1}</m>, which are the three points you get from part (a) and three additional points of your choice.
             </p>
           </li>
         </ul>

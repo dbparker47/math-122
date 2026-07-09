@@ -82,7 +82,7 @@
   </exercise>
 
   <exercise>
-    <image>
+    <image width="50%">
     	<prefigure xmlns="https://prefigure.org" label="relation-function-1">
         <diagram dimensions="(300, 300)" margins="5">
           <definition>f(x)=(1/tan(1.5*pi/4))*tan(pi*(x+2.5)/4)</definition>
@@ -107,7 +107,7 @@
   </exercise>
 
   <exercise>
-    <image>
+    <image width="50%">
     	<prefigure xmlns="https://prefigure.org" label="relation-function-2">
         <diagram dimensions="(300, 300)" margins="5">
           <definition>f(x)=sqrt(x+2)</definition>

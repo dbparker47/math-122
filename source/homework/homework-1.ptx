@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 122</title>
+  <title>Homework Assignment #1 - Math 122</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
+      <alert>Due Sunday, 9/13</alert>
     </p>
     <p>
       These are the requirements for all homework assignments.
@@ -36,17 +36,22 @@
   </introduction>
 
   <p>
-    Here are the problems for this assignment.  You can find them at the end of Section  of our textbook.  You may use the PDF version of the book, which can be found on Blackboard under <q>Course Information &amp; Resources</q>, or you may use the online version by clicking on on <url href="">this link</url> and scrolling down to the bottom of the page.
+    Here are the problems for this assignment.  You can find them at the end of Section 1.1 of our textbook.  You may use the PDF version of the book, which can be found on Blackboard under <q>Course Information &amp; Resources</q>, or you may use the online version by clicking on on <url href="">this link</url> and scrolling down to the bottom of the page.
   </p>
 
   <exercise>
     <statement>
       <p>
-        Section  (pp.  in the PDF file; at the end of the section in the HTML version)
+        Section 1.1 (pp. 9-11 in the PDF file; at the end of the section in the HTML version)
         <ul>
           <li>
             <p>
-              ( pts.) Do problem #.
+              (42 pts.) Do problem #3.  Note that you will need the formula for the volume of a sphere, which is <m>V = \frac{4}{3} \pi r^3</m>, where <m>r</m> is the radius of the sphere.  Also, for part (c), make sure to draw graphs for both the height and volume.
+            </p>
+          </li>
+          <li>
+            <p>
+              (24 pts.) Do problem #4, parts (b), (c), and (d).  In other words, do the entire problem except part (a).
             </p>
           </li>
         </ul>

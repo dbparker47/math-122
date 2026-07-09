@@ -29,7 +29,7 @@
   </introduction>
 
   <exercise>
-    <image>
+    <image width="50%">
 	    <prefigure xmlns="https://prefigure.org" label="quadratic-points-1">
         <diagram dimensions="(300, 300)" margins="5">
           <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
@@ -47,7 +47,7 @@
   </exercise>
 
   <exercise>
-    <image>
+    <image width="50%">
     	<prefigure xmlns="https://prefigure.org" label="quadratic-points-2">
         <diagram dimensions="(300, 300)" margins="5">
           <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
@@ -65,7 +65,7 @@
   </exercise>
 
   <exercise>
-    <image>
+    <image width="50%">
     	<prefigure xmlns="https://prefigure.org" label="quadratic-points-3">
         <diagram dimensions="(300, 300)" margins="5">
           <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
@@ -83,7 +83,7 @@
   </exercise>
 
   <exercise>
-    <image>
+    <image width="50%">
     	<prefigure xmlns="https://prefigure.org" label="quadratic-points-4">
         <diagram dimensions="(300, 300)" margins="5">
           <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>

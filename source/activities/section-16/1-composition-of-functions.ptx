@@ -61,7 +61,7 @@
       <p>
         Consider the graphs for functions <m>p</m> and <m>q</m>.
       </p>
-      <image>
+      <image width="60%">
 	      <prefigure xmlns="https://prefigure.org" label="composition-graph">
           <diagram dimensions="(300, 300)" margins="5">
             <definition>f(x)=-2*x-3</definition>

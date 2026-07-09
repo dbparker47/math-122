@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 122</title>
+  <title>Homework Assignment #3 - Math 122</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
+      <alert>Due Sunday, 9/27</alert>
     </p>
     <p>
       These are the requirements for all homework assignments.
@@ -42,11 +42,16 @@
   <exercise>
     <statement>
       <p>
-        Section  (pp.  in the PDF file; at the end of the section in the HTML version)
+        Section 1.4 (pp. 24-25 in the PDF file; at the end of the section in the HTML version)
         <ul>
           <li>
             <p>
-              ( pts.) Do problem #.
+              (29 pts.) Do problem #7. Note that the output of the function is velocity, not distance.  So your analysis of this problem will be different than the motion problems we have been doing in class.
+            </p>
+          </li>
+          <li>
+            <p>
+              (26 pts.) Do problem #8.  Note that you will need the formula for the volume of a cone, which is <m>V = \frac{\pi r^2h}{3}</m>, where <m>r</m> is the radius of the top of the cone, and <m>h</m> is the height of the cone.
             </p>
           </li>
         </ul>
