@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 122</title>
+  <title>Homework Assignment #6 - Math 122</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
+      <alert>Due Sunday, 10/25</alert>
     </p>
     <p>
       These are the requirements for all homework assignments.
@@ -42,14 +42,137 @@
   <exercise>
     <statement>
       <p>
-        Section  (pp.  in the PDF file; at the end of the section in the HTML version)
+        Section 3.1 (p. 162 in the PDF file; at the end of the section in the HTML version)
         <ul>
           <li>
             <p>
-              ( pts.) Do problem #.
+              (20 pts.) Do problem #8, parts (a), (b), (c), and (d) in the textbook.  In other words, do all of #8 except part (e).  For part (a), you do not have to define and graph your function in Desmos unless you find it useful to work on the problem.
             </p>
           </li>
         </ul>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        (50 pts.) In our second problem, Jojo is competing in an Ironman triathlon, which consists of a 2.4-mile swim, a 112-mile bike, and a 26.2-mile run.  Our goal in this problem is to model Jojo's position <m>s(t)</m> (i.e. the distance from the start line of the race) as a function of time.  Ultimately, you will express <m>s(t)</m> as both a piecewise function and a graph.  The time <m>t</m> is given in hours, and the position <m>s(t)</m> is given in miles.  Here is a description of the different stages of Jojo's race.
+        <ul>
+          <li>
+            <p>
+              Jojo swims at a rate of 2.5 miles per hour for all of the swim.
+            </p>
+          </li>
+          <li>
+            <p>
+              After leaving the water, Jojo takes 0.05 hours (3 minutes) to transition between the swim and the bike.  No distance is traveled during this time.
+            </p>
+          </li>
+          <li>
+            <p>
+              Jojo bikes at a rate of 21 miles per hour for all of the biking portion.
+            </p>
+          </li>
+          <li>
+            <p>
+              After finishing the biking portion, Jojo takes 0.03 hours (just a bit over 2 minutes) to transition between the bike and the run.  No distance is traveled during this time.
+            </p>
+          </li>
+          <li>
+            <p>
+              Jojo runs at a rate of 8.5 miles per hour for all of the run.
+            </p>
+          </li>
+        </ul>
+        We begin by understanding each portion of the race, and then put them together in one function.
+        <ol>
+          <li>
+            <p>
+              Determine the time and position at both the beginning of the swim and the end of the swim.
+            </p>
+          </li>
+          <li>
+            <p>
+              Find a formula for Jojo's position <m>s(t)</m> during the swim.
+            </p>
+          </li>
+          <li>
+            <p>
+              Sketch a graph of <m>s(t)</m> during the swim portion.  Label the points at the beginning and end.
+            </p>
+          </li>
+          <li>
+            <p>
+              Determine the time and position at both the beginning of the transition between the swim and the bike and the end of the transition.  Keep in mind that Jojo does the transition at the end of the swim, not at the start.
+            </p>
+          </li>
+          <li>
+            <p>
+              Find a formula for Jojo's position <m>s(t)</m> during the transition between the swim and the bike.
+            </p>
+          </li>
+          <li>
+            <p>
+              Sketch a graph of <m>s(t)</m> during the transition between the swim and the bike.  Label the points at the beginning and end.
+            </p>
+          </li>
+          <li>
+            <p>
+              Determine the time and position at both the beginning of the bike and the end of the bike.
+            </p>
+          </li>
+          <li>
+            <p>
+              Find a formula for Jojo's position <m>s(t)</m> during the bike portion.
+            </p>
+          </li>
+          <li>
+            <p>
+              Sketch a graph of <m>s(t)</m> during the bike portion.  Label the points at the beginning and end.
+            </p>
+          </li>
+          <li>
+            <p>
+              Determine the time and position at both the beginning of the transition between the bike and run and the end of the transition.
+            </p>
+          </li>
+          <li>
+            <p>
+              Find a formula for Jojo's position $s(t)$ during the transition between the bike and the run.
+            </p>
+          </li>
+          <li>
+            <p>
+              Sketch a graph of <m>s(t)</m> during the transition between the bike and the run.  Label the points at the beginning and end.
+            </p>
+          </li>
+          <li>
+            <p>
+              Determine the time and position at both the beginning of the run and the end of the run.
+            </p>
+          </li>
+          <li>
+            <p>
+              Find a formula for Jojo's position <m>s(t)</m> during the run.
+            </p>
+          </li>
+          <li>
+            <p>
+              Sketch a graph of <m>s(t)</m> during the run.  Label the points at the beginning and end.
+            </p>
+          </li>
+          <li>
+            <p>
+              Use your work above to express <m>s(t)</m> for the entire race as a piecewise function.
+            </p>
+          </li>
+          <li>
+            <p>
+              Use the graphs you created to sketch a graph of <m>s(t)</m> for the entire race.  Label all points that you labeled in your graphs above, and draw the graph roughly to scale.
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>
