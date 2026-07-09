@@ -27,7 +27,7 @@
       Below is a YouTube video on <em>graphing inverse functions</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
-    <video youtube="IZzOgiYB4o4" />
+    <video youtube="auoBd-Rkqxo" />
 
     <example>
       <title>Graphing Inverse Functions</title>
@@ -37,7 +37,8 @@
       <p>
         <ol>
           <li>
-            <image>
+            <p>First graph</p>
+            <image width="50%">
           	  <prefigure xmlns="https://prefigure.org" label="inverse-graph-prep-1">
 	              <diagram dimensions="(300,300)" margins="5">
         			    <definition>f(x)= 2*sqrt(2)^x-4</definition>
@@ -50,7 +51,8 @@
             </image>
           </li>
           <li>
-            <image>
+            <p>Second graph</p>
+            <image width="50%">
         	    <prefigure xmlns="https://prefigure.org" label="inverse-graph-prep-2">
 		            <diagram dimensions="(300,300)" margins="5">
               		<definition>f(x)= -2*sqrt(-x-4)+2</definition>
@@ -83,7 +85,7 @@
       Below is a YouTube video on <em>combining functions in applications</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
-    <video youtube="IZzOgiYB4o4" />
+    <video youtube="mQKiX9OGViY" />
 
     <example>
       <title>Combining Functions (Applications)</title>

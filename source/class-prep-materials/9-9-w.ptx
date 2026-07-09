@@ -32,8 +32,6 @@
       Below is a set of activities on <em>applications of functions</em> that we will be working on in class. Please do as many of the activities as you can before class.
     </p>
 
-    <video youtube="IZzOgiYB4o4" />
-
     <example>
       <title>Application of Functions</title>
       <p>
@@ -85,7 +83,7 @@
       Below is a YouTube video on <em>average rate of change</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
-    <video youtube="IZzOgiYB4o4" />
+    <video youtube="oFEmXq3kcr0" />
 
     <example>
       <title>Average Rate of Change (Velocity, Not on Quiz)</title>
@@ -182,7 +180,7 @@
             <p>
               Suppose the graph below is of time <m>t</m> versus distance <m>d(t)</m>.  What is the average velocity between <m>t=4</m> and <m>t=12</m>?
             </p>
-            <image>
+            <image width="60%">
 	            <prefigure xmlns="https://prefigure.org" label="velocity-graph-prep">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>

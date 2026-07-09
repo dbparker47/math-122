@@ -32,7 +32,7 @@
       Below is a YouTube video on using <em>sliders</em> in Desmos to help us understand roots of polynomials. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
-    <video youtube="IZzOgiYB4o4" />
+    <video youtube="38a__ucpIX0" />
 
     <example>
       <title>Exploring Polynomial Roots and Graphs (Not on Quiz)</title>
@@ -72,10 +72,10 @@
   <subsection xml:id="video-activity-poly-graph-roots">
     <title>Video &amp; Activities for Graphing Polynomials from Roots</title>
     <p>
-      Below is a YouTube video on <em></em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below is a YouTube video on <em>using the roots of polynomials to sketch their graphs</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
-    <video youtube="IZzOgiYB4o4" />
+    <video youtube="HLI_l0cFgOY" />
 
     <example>
       <title>Graphing Polynomials from Roots</title>
@@ -103,8 +103,8 @@
             <p>
               Give a possible formula for the function whose graph is the following.
             </p>
-            <image>
-            	<prefigure xmlns="https://prefigure.org" label="poly-no-repeat">
+            <image width="60%">
+            	<prefigure xmlns="https://prefigure.org" label="poly-no-repeat-prep">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=0.2*(x+1)*(x-3)*(x-5)</definition>
                   <coordinates bbox="(-3,-5,8,5)">

@@ -37,12 +37,12 @@
   </objectives>
 
   <subsection xml:id="video-activity-function-models-2">
-    <title>Video &amp; Activities for Recognizing Function Models (Continued from Last Class)</title>
+    <title>Video &amp; Activities for Recognizing Function Models  and Choosing Models &amp; Making Predictions</title>
     <p>
-      Below is a YouTube video on recognizing the graphs of different <em>function models</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below is a YouTube video on <em>choosing appropriate function models for regression</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
-    <video youtube="IZzOgiYB4o4" />
+    <video youtube="bm91Xf4L2Tk" />
 
     <example>
       <title>Recognizing Function Types (Not on Quiz)</title>
@@ -84,19 +84,6 @@
         </ol>
       </p>
     </example>
-    <p>
-      Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
-    </p>
-  </subsection>
-
-  <subsection xml:id="video-activity-choose-model-prediction">
-    <title>Video &amp; Activities for Choosing Models and Making Predictions</title>
-    <p>
-      Below is a YouTube video on choosing an appropriate model for a data set and using the model to make predictions about the data. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
-    </p>
-
-    <video youtube="IZzOgiYB4o4" />
-
     <example>
       <title>Choosing Models and Making Predictions</title>
       <p>

@@ -32,7 +32,7 @@
       Below is a YouTube video introducing <em>quadratic functions</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
-    <video youtube="IZzOgiYB4o4" />
+    <video youtube="BvzeX-BNX9o" />
 
     <example>
       <title>Introduction to Quadratic Functions</title>
@@ -59,7 +59,8 @@
       <p>
         <ol>
           <li>
-            <image>
+            <p>First graph</p>
+            <image width="50%">
 	            <prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-1">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
@@ -76,7 +77,8 @@
             </image>
           </li>
           <li>
-            <image>
+            <p>Second graph</p>
+            <image width="50%">
             	<prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-2">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
@@ -93,7 +95,8 @@
             </image>
           </li>
           <li>
-            <image>
+            <p>Third graph</p>
+            <image width="50%">
             	<prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-3">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
@@ -110,7 +113,8 @@
             </image>
           </li>
           <li>
-            <image>
+            <p>Fourth graph</p>
+            <image width="50%">
             	<prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-4">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
@@ -140,7 +144,7 @@
       Below is a YouTube video on the <em>vertex form of a quadratic function</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
-    <video youtube="IZzOgiYB4o4" />
+    <video youtube="YYOgwf1EC18" />
 
     <example>
       <title>Vertex Form of Quadratic Functions</title>

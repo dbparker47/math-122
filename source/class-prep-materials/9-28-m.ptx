@@ -37,7 +37,7 @@
       Below is a YouTube video on <em>composition of functions</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
-    <video youtube="IZzOgiYB4o4" />
+    <video youtube="JWw_wuxT7o0" />
 
     <example>
       <title>Composition of Functions</title>
@@ -89,7 +89,7 @@
             <p>
               Consider the graphs for functions <m>p</m> and <m>q</m>.
             </p>
-            <image>
+            <image width="60%">
       	      <prefigure xmlns="https://prefigure.org" label="composition-graph-prep">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=-2*x-3</definition>
@@ -146,7 +146,7 @@
       Below is a YouTube video introducing <em>inverse functions</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
-    <video youtube="IZzOgiYB4o4" />
+    <video youtube="px0-Wo2QVrk" />
 
     <example>
       <title>Introduction to Inverse Functions</title>
