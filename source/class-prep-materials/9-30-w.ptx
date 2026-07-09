@@ -34,7 +34,7 @@
 
     <video youtube="px0-Wo2QVrk" />
 
-    <example>
+    <problem>
       <title>Introduction to Inverse Functions</title>
       <p>
         Solve the following introductory inverse function problems.
@@ -73,7 +73,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>
@@ -87,7 +87,7 @@
 
     <video youtube="wDAUo4rEzFU" />
 
-    <example>
+    <problem>
       <title>Advanced Inverse Functions</title>
       <p>
         For each of the following, compute <m>f^{-1}(x)</m>.
@@ -111,7 +111,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>

@@ -44,7 +44,7 @@
 
     <video youtube="NCIzbXO0Z7w" />
 
-    <example>
+    <problem>
       <title>Applications of Quadratic Functions</title>
       <p>
         You stand on a ledge 10 ft above the ground and throw a ball up in the air.  The height of the ball at time <m>t</m> seconds is <m>h(t) = -16t^2+32t+10</m> feet.
@@ -68,7 +68,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>

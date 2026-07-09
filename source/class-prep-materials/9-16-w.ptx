@@ -39,7 +39,7 @@
 
     <video youtube="NrnYUrKXxF8" />
 
-    <example>
+    <problem>
       <title>Introduction to Linear Functions (Not on Quiz)</title>
       <p>
         The following problems are to help you understand linear functions better.
@@ -114,8 +114,8 @@
           </li>
         </ol>
       </p>
-    </example>
-    <example>
+    </problem>
+    <problem>
       <title>Computing Linear Functions</title>
       <p>
         In #1 and #2, find a formula for each of the following linear functions.
@@ -144,7 +144,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>

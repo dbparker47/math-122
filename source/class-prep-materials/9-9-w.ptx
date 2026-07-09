@@ -32,7 +32,7 @@
       Below is a set of activities on <em>applications of functions</em> that we will be working on in class. Please do as many of the activities as you can before class.
     </p>
 
-    <example>
+    <problem>
       <title>Application of Functions</title>
       <p>
       You begin a car trip 10 miles away from your home.  You drive away from your home for two hours.  For every mile you drive, two minutes elapse.  Let <m>d</m> be the function where, <m>t</m> minutes into your trip, <m>d(t)</m> is your distance from home.
@@ -71,7 +71,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>
@@ -85,7 +85,7 @@
 
     <video youtube="oFEmXq3kcr0" />
 
-    <example>
+    <problem>
       <title>Average Rate of Change (Velocity, Not on Quiz)</title>
       <p>
         Complete the following average velocity problems.
@@ -208,7 +208,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>
