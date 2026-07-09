@@ -34,7 +34,7 @@
 
     <video youtube="38a__ucpIX0" />
 
-    <example>
+    <problem>
       <title>Exploring Polynomial Roots and Graphs (Not on Quiz)</title>
       <p>
         Plug the following functions into Desmos, making a slider for each coefficient (i.e. <m>a</m>, <m>b</m>, <m>c</m>, etc).  Play with different values of the coefficients to see the minimum and maximum number of <m>x</m>-intercepts of the function (i.e. values of <m>x</m> where the function has an output of 0).
@@ -63,7 +63,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>
@@ -77,7 +77,7 @@
 
     <video youtube="HLI_l0cFgOY" />
 
-    <example>
+    <problem>
       <title>Graphing Polynomials from Roots</title>
       <p>
         Solve the following problems on the graphs of polynomial functions.
@@ -122,7 +122,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>

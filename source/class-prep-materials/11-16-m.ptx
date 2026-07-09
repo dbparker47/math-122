@@ -44,7 +44,7 @@
 
     <video youtube="bm91Xf4L2Tk" />
 
-    <example>
+    <problem>
       <title>Recognizing Function Types (Not on Quiz)</title>
       <p>
         The following problems ask you to draw as many different <q>types</q> of certain kinds of graphs as possible.  Do your best, keeping in mind that how you categorize different <q>types</q> is somewhat subjective.  Remember that this exercise is designed to help you fit models to data sets.
@@ -83,8 +83,8 @@
           </li>
         </ol>
       </p>
-    </example>
-    <example>
+    </problem>
+    <problem>
       <title>Choosing Models and Making Predictions</title>
       <p>
         Plot the following on Desmos to determine the best available model for describing the relationship between the variables.  Use an appropriate regression to make the predictions.
@@ -256,7 +256,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>

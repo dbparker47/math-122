@@ -29,7 +29,7 @@
 
     <video youtube="rytHtIJpbCc" />
 
-    <example>
+    <problem>
       <title>Compound Interest (Not on Quiz)</title>
       <p>
         Suppose we have an account with an initial deposit of $500 and annual interest rate of 12%.  We explore what happens when we compute the interest more than once a year.
@@ -85,8 +85,8 @@
           </li>
         </ol>
       </p>
-    </example>
-    <example>
+    </problem>
+    <problem>
       <title>More Compound Interest</title>
       <p>
         Solve the following compound interest problems.
@@ -154,7 +154,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>

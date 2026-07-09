@@ -34,7 +34,7 @@
 
     <video youtube="7HI-K7weJQs" />
 
-    <example>
+    <problem>
       <title>Polynomial End Behavior (Not on Quiz)</title>
       <p>
         For each of the following, determine what happens to the function as <m>x \rightarrow \infty</m> and as <m>x \rightarrow -\infty</m>.  Explain what this means about what the graph looks like.  Note that <m>a</m>, <m>b</m>, <m>c</m>, and <m>d</m> are all constants.
@@ -68,7 +68,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>
@@ -82,7 +82,7 @@
 
     <video youtube="38a__ucpIX0" />
 
-    <example>
+    <problem>
       <title>Exploring Polynomial Roots and Graphs (Not on Quiz)</title>
       <p>
         Plug the following functions into Desmos, making a slider for each coefficient (i.e. <m>a</m>, <m>b</m>, <m>c</m>, etc).  Play with different values of the coefficients to see the minimum and maximum number of <m>x</m>-intercepts of the function (i.e. values of <m>x</m> where the function has an output of 0).
@@ -111,7 +111,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>

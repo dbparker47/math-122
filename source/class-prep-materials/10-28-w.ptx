@@ -34,7 +34,7 @@
 
     <video youtube="EZi7ST1k70w" />
 
-    <example>
+    <problem>
       <title>Logarithm Properties and Natural Logarithm (Not on Quiz)</title>
       <p>
         Solve the following equations using either <m>\ln</m> or <m>\log_{10}</m>.  Use it to give a decimal approximation for your answer.
@@ -58,7 +58,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>
@@ -72,7 +72,7 @@
 
     <video youtube="xawMyQexzKs" />
 
-    <example>
+    <problem>
       <title>Logarithm Applications</title>
       <p>
         For the following, justify any formulas you use that are not covered in class.
@@ -91,7 +91,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="">FigJam board</url> for the next class.
     </p>
