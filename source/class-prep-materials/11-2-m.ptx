@@ -35,17 +35,20 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Logarithm Applications</title>
+      <p>
+        For the following, justify any formulas you use that are not covered in class.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              You invest $400 in an account that earns 4% interest annually.  How long does it take for your account to be $1000?
             </p>
           </li>
           <li>
             <p>
-              
+              When you inject a certain drug, it takes 25 hours for the concentration of the drug in the bloodstream to decrease by half.  How long does it take for the concentration to decrease to 10% of its initial concentration?
             </p>
           </li>
         </ol>
@@ -65,17 +68,49 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Half-Life and Related Problems</title>
+      <p>
+        For the following, justify any formulas you use that are not covered in class.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              An account with a fixed annual interest rate takes 25 years to triple in value.
+              <ol>
+                <li>
+                  <p>
+                    How long does it take for the account to double in value?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What is the annual interest rate?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              A radioactive material decays 30% in 5 years.
+              <ol>
+                <li>
+                  <p>
+                    What percent of the material decays after 12 years?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What percent of the material decays each year?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    How long will it take for 95% of the material to decay?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
         </ol>

@@ -45,17 +45,124 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Introduction to Regression</title>
+      <p>
+        Solve the following regression problems.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Consider the following data set:
+            </p>
+            <tabular halign="right">
+              <row>
+                <cell bottom="minor" right="minor"><m>x</m></cell>
+                <cell bottom="minor" right="minor">2</cell>
+                <cell bottom="minor" right="minor">4</cell>
+                <cell bottom="minor" right="minor">5</cell>
+                <cell bottom="minor" right="minor">7</cell>
+                <cell bottom="minor" right="minor">9</cell>
+                <cell bottom="minor" right="minor">10</cell>
+                <cell bottom="minor">13</cell>
+              </row>
+              <row>
+                <cell right="minor"><m>y</m></cell>
+                <cell right="minor">15</cell>
+                <cell right="minor">23</cell>
+                <cell right="minor">27</cell>
+                <cell right="minor">35</cell>
+                <cell right="minor">43</cell>
+                <cell right="minor">47</cell>
+                <cell>59</cell>
+              </row>
+            </tabular>
+            <p>
+              <ol>
+                <li>
+                  <p>
+                    Plot the above data on Desmos.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Use the plot to determine what kind of model works best for the data.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Use Desmos to find a best fit model for the data.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Use the value of <m>R^2</m> to explain why your model is a good fit for the data.
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              Do the same as in #1 for the following data sets.
+              <ol>
+                <li>
+                  <tabular halign="right">
+                    <row>
+                      <cell bottom="minor" right="minor"><m>v</m></cell>
+                      <cell bottom="minor" right="minor">1</cell>
+                      <cell bottom="minor" right="minor">2</cell>
+                      <cell bottom="minor" right="minor">4</cell>
+                      <cell bottom="minor" right="minor">5</cell>
+                      <cell bottom="minor" right="minor">8</cell>
+                      <cell bottom="minor" right="minor">10</cell>
+                      <cell bottom="minor">14</cell>
+                    </row>
+                    <row>
+                      <cell right="minor"><m>w</m></cell>
+                      <cell right="minor">5</cell>
+                      <cell right="minor"><m>-3</m></cell>
+                      <cell right="minor"><m>-12</m></cell>
+                      <cell right="minor"><m>-11</m></cell>
+                      <cell right="minor">17</cell>
+                      <cell right="minor">55</cell>
+                      <cell>190</cell>
+                    </row>
+                  </tabular>
+                </li>
+                <li>
+                  <tabular halign="right">
+                    <row>
+                      <cell bottom="minor" right="minor"><m>t</m></cell>
+                      <cell bottom="minor" right="minor">1</cell>
+                      <cell bottom="minor" right="minor">3</cell>
+                      <cell bottom="minor" right="minor">4</cell>
+                      <cell bottom="minor" right="minor">6</cell>
+                      <cell bottom="minor" right="minor">9</cell>
+                      <cell bottom="minor" right="minor">10</cell>
+                      <cell bottom="minor" right="minor">12</cell>
+                      <cell bottom="minor" right="minor">15</cell>
+                      <cell bottom="minor" right="minor">18</cell>
+                      <cell bottom="minor" right="minor">19</cell>
+                      <cell bottom="minor">20</cell>
+                    </row>
+                    <row>
+                      <cell right="minor"><m>s</m></cell>
+                      <cell right="minor">3</cell>
+                      <cell right="minor">10</cell>
+                      <cell right="minor">15</cell>
+                      <cell right="minor">20</cell>
+                      <cell right="minor">90</cell>
+                      <cell right="minor">127</cell>
+                      <cell right="minor">238</cell>
+                      <cell right="minor">900</cell>
+                      <cell right="minor">3000</cell>
+                      <cell right="minor">4405</cell>
+                      <cell>6609</cell>
+                    </row>
+                  </tabular>
+                </li>
+              </ol>
             </p>
           </li>
         </ol>
@@ -75,17 +182,40 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Recognizing Function Types (Not on Quiz)</title>
+      <p>
+        The following problems ask you to draw as many different <q>types</q> of certain kinds of graphs as possible.  Do your best, keeping in mind that how you categorize different <q>types</q> is somewhat subjective.  Remember that this exercise is designed to help you fit models to data sets.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Draw as many types of graphs of linear functions as possible.  Each type should look significantly different than the others.
             </p>
           </li>
           <li>
             <p>
-              
+              Draw as many types of graphs of quadratic functions as possible.
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw as many types of graphs of exponential functions as possible.
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw as many types of graphs of logarithmic functions as possible.
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw as many types of graphs of logistic functions as possible.
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw as many types of <q>vertically translated</q> exponential graphs (i.e. graphs like the temperature models we studied with exponential functions).
             </p>
           </li>
         </ol>

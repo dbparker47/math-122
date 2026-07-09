@@ -25,17 +25,69 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Polynomial Models</title>
+      <p>
+        Find formulas for the following functions.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Suppose we have a box with length <m>\ell</m>, width <m>w</m>, and height <m>h</m>.
+              <ol>
+                <li>
+                  <p>
+                    Find a formula for the volume of the box.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Find a formula for the surface area of the box.  Hint:  Find the area of each side.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Suppose the box has a square bottom and a surface area of 36 ft<m>^2</m>.  Find a formula for the volume in terms of one variable.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Suppose the box has a square bottom and has a volume of 20 ft<m>^3</m>.  Find a formula for the surface area.
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              Suppose we have a cylindrical can of radius <m>r</m> and height <m>h</m>.  Note that the area of a circle is given by <m>\pi r^2</m> and the circumference of a circle is given by <m>2 \pi r</m>. 
+              <ol>
+                <li>
+                  <p>
+                    Find a formula for the volume of the can.  Hint:  Find the area of the base first.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Find a formula for the surface area of the can:  Hint: Find the area of the top, bottom, and side of the can.  For the side, imagine what it looks like if you make a vertical cut and unroll it.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Suppose the can has a surface area of 16 in<m>^2</m>.  Find a formula for the volume.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Suppose the can has volume 20 in<m>^3</m>.  Find a formula for the surface area.
+                  </p>
+                </li>
+              </ol>
+            </p>
+          </li>
+          <li>
+            <p>
+              Do #1 when the box has an open top.
             </p>
           </li>
         </ol>

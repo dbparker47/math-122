@@ -40,17 +40,47 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Introduction to Logarithms</title>
+      <p>
+        In the first three problems, compute the given quantity.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              <m>\log_3(27)</m>
             </p>
           </li>
           <li>
             <p>
-              
+              <m>\log_2(64)</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\log_{11}(121)</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              Suppose <m>\log_a(x)=3</m> and <m>\log_a(y)=5</m>.
+             <ol>
+                <li>
+                  <p>
+                    Find an expression for <m>x</m> and <m>y</m> in terms of <m>a</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Use what you found in (a) to compute both <m>\log_a(xy)</m> and <m>\log_a \left( \frac{x}{y} \right)</m>
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Compute <m>\log_a \left( x^6 \right)</m> and <m>\log_a(y^4)</m>.
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
         </ol>
@@ -70,17 +100,35 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Solving Logarithm Equations</title>
+      <p>
+        Solve the following equations/problems.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              <m>3\log_4(x) = 18</m>
             </p>
           </li>
           <li>
             <p>
-              
+              <m>5^{6x}=3</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>20 \cdot 6^{2x}-1=15</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              (Not on quiz) Use the graph of <m>y=\left( \frac12 \right)^x</m> to draw the graph of <m>y=\log_{\frac12}(x)</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              (Not on quiz) Use the graph of <m>y=e^x</m> to draw the graph of <m>y=\ln(x)</m>.
             </p>
           </li>
         </ol>

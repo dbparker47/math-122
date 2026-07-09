@@ -29,23 +29,31 @@
   <subsection xml:id="video-activity-logarithm-properties">
     <title>Video &amp; Activities for Logarithm Properties and Natural Logarithm</title>
     <p>
-      Below is a YouTube video on the <em>properties of logarithms</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below is a YouTube video on using the <em>natural logarithm</em> to solve equations. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Logarithm Properties and Natural Logarithm (Not on Quiz)</title>
+      <p>
+        Solve the following equations using either <m>\ln</m> or <m>\log_{10}</m>.  Use it to give a decimal approximation for your answer.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              <m>5^{6x}=3</m>
             </p>
           </li>
           <li>
             <p>
-              
+              <m>20 \cdot 6^{2x}-1=15</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>2 \cdot 1.5^{3t} = 10</m>
             </p>
           </li>
         </ol>
@@ -65,17 +73,20 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Logarithm Applications</title>
+      <p>
+        For the following, justify any formulas you use that are not covered in class.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              You invest $400 in an account that earns 4% interest annually.  How long does it take for your account to be $1000?
             </p>
           </li>
           <li>
             <p>
-              
+              When you inject a certain drug, it takes 25 hours for the concentration of the drug in the bloodstream to decrease by half.  How long does it take for the concentration to decrease to 10% of its initial concentration?
             </p>
           </li>
         </ol>

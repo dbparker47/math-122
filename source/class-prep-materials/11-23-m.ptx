@@ -35,17 +35,30 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Exploring Polynomial Roots and Graphs (Not on Quiz)</title>
+      <p>
+        Plug the following functions into Desmos, making a slider for each coefficient (i.e. <m>a</m>, <m>b</m>, <m>c</m>, etc).  Play with different values of the coefficients to see the minimum and maximum number of <m>x</m>-intercepts of the function (i.e. values of <m>x</m> where the function has an output of 0).
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              <m>f(x)=ax+b</m>, <m>a \ne 0</m>
             </p>
           </li>
           <li>
             <p>
-              
+              <m>f(x) = cx^2+dx+e</m>, <m>c \ne 0</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>f(x) = gx^3+hx^2+ix+j</m>, <m>g \ne 0</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>f(x) = kx^4+\ell x^3 + mx^2+nx+p</m>, <m>k \ne 0</m>
             </p>
           </li>
         </ol>
@@ -65,18 +78,47 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Graphing Polynomials from Roots</title>
+      <p>
+        Solve the following problems on the graphs of polynomial functions.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Let <m>f(x)=2x^2-5x+3</m>.  Factor <m>f</m> and use this to sketch a graph of <m>f</m>.
             </p>
           </li>
           <li>
             <p>
-              
+               Let <m>f(x)=-3(x-1)(x-3)(x-4)</m>.  Use the roots of <m>f</m> along with the coefficient <m>-3</m> to sketch the graph of <m>f</m>.
             </p>
+          </li>
+          <li>
+            <p>
+              Let <m>f(x) = k(x-a)(x-b)(x-c)(x-d)</m> with <m>a &lt; b &lt; c &lt; d</m> and <m>k &gt; 0</m>.  Sketch the graph of <m>f</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Give a possible formula for the function whose graph is the following.
+            </p>
+            <image>
+            	<prefigure xmlns="https://prefigure.org" label="poly-no-repeat">
+                <diagram dimensions="(300, 300)" margins="5">
+                  <definition>f(x)=0.2*(x+1)*(x-3)*(x-5)</definition>
+                  <coordinates bbox="(-3,-5,8,5)">
+                    <axes xlabel="x" ylabel="y" hticks="(-4,1,7)" vticks="no" vlabels="no" hlabels="(-3,1,7)" />
+                    <graph function="f" />
+                    <graph function="g" domain="(-1,1)" />
+                    <graph function="h" domain="(1,4)" />
+                    <graph function="k" domain="(-4,-1)" stroke="green" />
+                    <graph function="m" domain="(-1,1)" stroke="green" />
+                    <graph function="n" domain="(1,4)" stroke="green" />
+                  </coordinates>
+                </diagram>
+              </prefigure>
+            </image>
           </li>
         </ol>
       </p>

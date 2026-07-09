@@ -40,18 +40,42 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Graphing Polynomials from Repeated Roots</title>
+      <p>
+        Solve the following problems on graphing polynomial functions.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              (Not on quiz) Use Desmos or a calculator to sketch <m>f(x)=2(x-1)(x-2)^k(x-3)</m> for <m>k=1,2,3,4</m>.  Do you notice any patterns?
             </p>
           </li>
           <li>
             <p>
-              
+              Based on what you found in #1, sketch the graph of <m>f(x)=k(x-a)^3(x-b)^6(x-c)^2(x-d)</m>, where <m>a &lt; b &lt; c &lt; d</m> and <m>k &gt; 0</m>.
             </p>
+          </li>
+          <li>
+            <p>
+              Give a possible formula for the function whose graph is the following.
+            </p>
+            <image>
+            	<prefigure xmlns="https://prefigure.org" label="poly-repeat">
+                <diagram dimensions="(300, 300)" margins="5">
+                  <definition>f(x)=-0.025*(x+3)*(x-1)*(x-5)*(x-3)^2</definition>
+                  <coordinates bbox="(-5,-14,8,4)">
+                      <axes xlabel="x" ylabel="y" hticks="(-4,1,7)" vticks="no" vlabels="no" hlabels="(-4,1,7)" />
+                      <graph function="f" />
+                      <graph function="g" domain="(-1,1)" />
+                      <graph function="h" domain="(1,4)" />
+                      <graph function="k" domain="(-4,-1)" stroke="green" />
+                      <graph function="m" domain="(-1,1)" stroke="green" />
+                      <graph function="n" domain="(1,4)" stroke="green" />
+                  </coordinates>
+                </diagram>
+              </prefigure>
+            </image>
           </li>
         </ol>
       </p>
@@ -70,17 +94,69 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Polynomial Models</title>
+      <p>
+        Find formulas for the following functions.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Suppose we have a box with length <m>\ell</m>, width <m>w</m>, and height <m>h</m>.
+              <ol>
+                <li>
+                  <p>
+                    Find a formula for the volume of the box.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Find a formula for the surface area of the box.  Hint:  Find the area of each side.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Suppose the box has a square bottom and a surface area of 36 ft<m>^2</m>.  Find a formula for the volume in terms of one variable.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Suppose the box has a square bottom and has a volume of 20 ft<m>^3</m>.  Find a formula for the surface area.
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              Suppose we have a cylindrical can of radius <m>r</m> and height <m>h</m>.  Note that the area of a circle is given by <m>\pi r^2</m> and the circumference of a circle is given by <m>2 \pi r</m>. 
+              <ol>
+                <li>
+                  <p>
+                    Find a formula for the volume of the can.  Hint:  Find the area of the base first.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Find a formula for the surface area of the can:  Hint: Find the area of the top, bottom, and side of the can.  For the side, imagine what it looks like if you make a vertical cut and unroll it.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Suppose the can has a surface area of 16 in<m>^2</m>.  Find a formula for the volume.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Suppose the can has volume 20 in<m>^3</m>.  Find a formula for the surface area.
+                  </p>
+                </li>
+              </ol>
+            </p>
+          </li>
+          <li>
+            <p>
+              Do #1 when the box has an open top.
             </p>
           </li>
         </ol>

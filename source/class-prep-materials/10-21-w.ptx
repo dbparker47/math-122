@@ -45,17 +45,69 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>More Compound Interest</title>
+      <p>
+        Solve the following compound interest problems.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Suppose that you put $150 into an account with a 10% annual interest rate that is compounded 8 times per year.
+              <ol>
+                <li>
+                  <p>
+                    After 5 years, how many times has the interest been computed and added to your total?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What interest rate is used for each interest computation?
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    What is the total in your account after 5 years?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              
+              Suppose you put money into an account with an annual interest rate of 9% and that is compounded every two months.  After 20 months, you have $800 in your account.  How much was your initial deposit?
+            </p>
+          </li>
+          <li>
+            <p>
+              Suppose you invest $1 in an interest-bearing account.
+              <ol>
+                <li>
+                  <p>
+                    If your money earns a 100% annual interest rate, how much money do you have at the end of the year when you compound it a huge number of times (try a few really big values of <m>n</m>)?  Call this number <m>e</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Do the same as in (a) except with a 50% annual interest rate.  Compare this number with <m>e^{0.5} = \sqrt{e}</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Do the same as in (a) except with a 25% annual interest rate.  Compare this number with <m>e^{0.25} = \sqrt[4]{e}</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Do the same as in (a) except with a 20% annual interest rate.  Compare this number with <m>e^{0.2} = \sqrt[5]{e}</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    If you do the same as above with an annual interest rate of <m>r</m>, what do you expect the result to be?
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
         </ol>
@@ -75,17 +127,47 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Introduction to Logarithms</title>
+      <p>
+        In the first three problems, compute the given quantity.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              <m>\log_3(27)</m>
             </p>
           </li>
           <li>
             <p>
-              
+              <m>\log_2(64)</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\log_{11}(121)</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              Suppose <m>\log_a(x)=3</m> and <m>\log_a(y)=5</m>.
+             <ol>
+                <li>
+                  <p>
+                    Find an expression for <m>x</m> and <m>y</m> in terms of <m>a</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Use what you found in (a) to compute both <m>\log_a(xy)</m> and <m>\log_a \left( \frac{x}{y} \right)</m>
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Compute <m>\log_a \left( x^6 \right)</m> and <m>\log_a(y^4)</m>.
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
         </ol>

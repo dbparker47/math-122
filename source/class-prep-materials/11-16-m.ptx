@@ -45,17 +45,40 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Recognizing Function Types (Not on Quiz)</title>
+      <p>
+        The following problems ask you to draw as many different <q>types</q> of certain kinds of graphs as possible.  Do your best, keeping in mind that how you categorize different <q>types</q> is somewhat subjective.  Remember that this exercise is designed to help you fit models to data sets.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              
+              Draw as many types of graphs of linear functions as possible.  Each type should look significantly different than the others.
             </p>
           </li>
           <li>
             <p>
-              
+              Draw as many types of graphs of quadratic functions as possible.
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw as many types of graphs of exponential functions as possible.
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw as many types of graphs of logarithmic functions as possible.
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw as many types of graphs of logistic functions as possible.
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw as many types of <q>vertically translated</q> exponential graphs (i.e. graphs like the temperature models we studied with exponential functions).
             </p>
           </li>
         </ol>
@@ -75,17 +98,173 @@
     <video youtube="IZzOgiYB4o4" />
 
     <example>
-      <title></title>
+      <title>Choosing Models and Making Predictions</title>
+      <p>
+        Plot the following on Desmos to determine the best available model for describing the relationship between the variables.  Use an appropriate regression to make the predictions.
+      </p>
       <p>
         <ol>
           <li>
+            <tabular halign="right">
+              <row>
+                <cell bottom="minor" right="minor"><m>p</m></cell>
+                <cell bottom="minor" right="minor">0.1</cell>
+                <cell bottom="minor" right="minor">0.3</cell>
+                <cell bottom="minor" right="minor">0.8</cell>
+                <cell bottom="minor" right="minor">2</cell>
+                <cell bottom="minor" right="minor">5</cell>
+                <cell bottom="minor" right="minor">10</cell>
+                <cell bottom="minor" right="minor">14</cell>
+                <cell bottom="minor" right="minor">19</cell>
+                <cell bottom="minor" right="minor">25</cell>
+                <cell bottom="minor" right="minor">31</cell>
+                <cell bottom="minor">35</cell>
+              </row>
+              <row>
+                <cell right="minor"><m>q</m></cell>
+                <cell right="minor"><m>-16</m></cell>
+                <cell right="minor"><m>-6</m></cell>
+                <cell right="minor">3</cell>
+                <cell right="minor">11</cell>
+                <cell right="minor">19</cell>
+                <cell right="minor">26</cell>
+                <cell right="minor">28</cell>
+                <cell right="minor">32</cell>
+                <cell right="minor">33</cell>
+                <cell right="minor">36</cell>
+                <cell>37</cell>
+              </row>
+            </tabular>
             <p>
-              
+              Predict <m>q</m> when <m>p=38</m>.
             </p>
           </li>
           <li>
+            <tabular halign="right">
+              <row>
+                <cell bottom="minor" right="minor"><m>r</m></cell>
+                <cell bottom="minor" right="minor">0.2</cell>
+                <cell bottom="minor" right="minor">5</cell>
+                <cell bottom="minor" right="minor">10</cell>
+                <cell bottom="minor" right="minor">19</cell>
+                <cell bottom="minor" right="minor">23</cell>
+                <cell bottom="minor" right="minor">29</cell>
+                <cell bottom="minor" right="minor">35</cell>
+                <cell bottom="minor" right="minor">38</cell>
+                <cell bottom="minor" right="minor">42</cell>
+                <cell bottom="minor">50</cell>
+              </row>
+              <row>
+                <cell right="minor"><m>s</m></cell>
+                <cell right="minor">6</cell>
+                <cell right="minor">3</cell>
+                <cell right="minor"><m>-1</m></cell>
+                <cell right="minor"><m>-7</m></cell>
+                <cell right="minor"><m>-10</m></cell>
+                <cell right="minor"><m>-14</m></cell>
+                <cell right="minor"><m>-19</m></cell>
+                <cell right="minor"><m>-21</m></cell>
+                <cell right="minor"><m>-24</m></cell>
+                <cell><m>-30</m></cell>
+              </row>
+            </tabular>
             <p>
-              
+              Predict <m>s</m> when <m>r=15</m>.
+            </p>
+          </li>
+          <li>
+            <tabular halign="right">
+              <row>
+                <cell bottom="minor" right="minor"><m>t</m></cell>
+                <cell bottom="minor" right="minor">0.2</cell>
+                <cell bottom="minor" right="minor">5</cell>
+                <cell bottom="minor" right="minor">10</cell>
+                <cell bottom="minor" right="minor">19</cell>
+                <cell bottom="minor" right="minor">23</cell>
+                <cell bottom="minor" right="minor">29</cell>
+                <cell bottom="minor" right="minor">35</cell>
+                <cell bottom="minor" right="minor">38</cell>
+                <cell bottom="minor" right="minor">42</cell>
+                <cell bottom="minor">50</cell>
+              </row>
+              <row>
+                <cell right="minor"><m>u</m></cell>
+                <cell right="minor">2</cell>
+                <cell right="minor">11</cell>
+                <cell right="minor">41</cell>
+                <cell right="minor">95</cell>
+                <cell right="minor">98</cell>
+                <cell right="minor">99</cell>
+                <cell right="minor">99.5</cell>
+                <cell right="minor">99.9</cell>
+                <cell right="minor">99.999</cell>
+                <cell>99.9999</cell>
+              </row>
+            </tabular>
+            <p>
+              Predict <m>u</m> when <m>t=25</m>.
+            </p>
+          </li>
+          <li>
+            <tabular halign="right">
+              <row>
+                <cell bottom="minor" right="minor"><m>v</m></cell>
+                <cell bottom="minor" right="minor">2</cell>
+                <cell bottom="minor" right="minor">4</cell>
+                <cell bottom="minor" right="minor">8</cell>
+                <cell bottom="minor" right="minor">9</cell>
+                <cell bottom="minor" right="minor">12</cell>
+                <cell bottom="minor" right="minor">14</cell>
+                <cell bottom="minor" right="minor">18</cell>
+                <cell bottom="minor" right="minor">20</cell>
+                <cell bottom="minor">23</cell>
+              </row>
+              <row>
+                <cell right="minor"><m>w</m></cell>
+                <cell right="minor">15</cell>
+                <cell right="minor">11</cell>
+                <cell right="minor">6</cell>
+                <cell right="minor">5.5</cell>
+                <cell right="minor">3.3</cell>
+                <cell right="minor">2.9</cell>
+                <cell right="minor">1.6</cell>
+                <cell right="minor">1</cell>
+                <cell>0.8</cell>
+              </row>
+            </tabular>
+            <p>
+              At what value of <m>v</m> would you expect to have <m>w=0.5</m>?
+            </p>
+          </li>
+          <li>
+            <tabular halign="right">
+              <row>
+                <cell bottom="minor" right="minor"><m>x</m></cell>
+                <cell bottom="minor" right="minor">1</cell>
+                <cell bottom="minor" right="minor">3</cell>
+                <cell bottom="minor" right="minor">4</cell>
+                <cell bottom="minor" right="minor">6</cell>
+                <cell bottom="minor" right="minor">7</cell>
+                <cell bottom="minor" right="minor">9</cell>
+                <cell bottom="minor" right="minor">10</cell>
+                <cell bottom="minor" right="minor">13</cell>
+                <cell bottom="minor">15</cell>
+              </row>
+              <row>
+                <cell right="minor"><m>y</m></cell>
+                <cell right="minor">4</cell>
+                <cell right="minor">10</cell>
+                <cell right="minor">11.7</cell>
+                <cell right="minor">14</cell>
+                <cell right="minor">16</cell>
+                <cell right="minor">17.5</cell>
+                <cell right="minor">18</cell>
+                <cell right="minor">19</cell>
+                <cell>19.3</cell>
+              </row>
+            </tabular>
+            <p>
+              Predict the end behavior of <m>y</m> as <m>x \rightarrow \infty</m>.
             </p>
           </li>
         </ol>
