@@ -1,0 +1,364 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="piecewise-graph-2-figure" width="310" height="310" viewBox="0 0 310 310">
+  <defs>
+    <clipPath id="piecewise-graph-2-clipPath-0">
+      <rect x="5.0" y="5.0" width="300.0" height="300.0"/>
+    </clipPath>
+    <clipPath id="piecewise-graph-2-clipPath-1">
+      <rect x="5.0" y="5.0" width="300.0" height="300.0"/>
+    </clipPath>
+  </defs>
+  <g id="piecewise-graph-2-axes" stroke="black" stroke-width="2">
+    <line id="piecewise-graph-2-line-0" x1="5.0" y1="192.5" x2="305.0" y2="192.5" stroke="black" stroke-width="2"/>
+    <g>
+      <line id="piecewise-graph-2-line-1" x1="65.0" y1="195.5" x2="65.0" y2="189.5"/>
+      <line id="piecewise-graph-2-line-2" x1="185.0" y1="195.5" x2="185.0" y2="189.5"/>
+      <line id="piecewise-graph-2-line-3" x1="245.0" y1="195.5" x2="245.0" y2="189.5"/>
+    </g>
+    <line id="piecewise-graph-2-line-4" x1="125.0" y1="305.0" x2="125.0" y2="5.0" stroke="black" stroke-width="2"/>
+    <g>
+      <line id="piecewise-graph-2-line-5" x1="122.0" y1="267.5" x2="128.0" y2="267.5"/>
+      <line id="piecewise-graph-2-line-6" x1="122.0" y1="117.5" x2="128.0" y2="117.5"/>
+      <line id="piecewise-graph-2-line-7" x1="122.0" y1="42.5" x2="128.0" y2="42.5"/>
+    </g>
+  </g>
+  <g id="piecewise-graph-2-label-0" transform="translate(301.0,188.5) translate(-10.4,-8.2)">
+    <g id="piecewise-graph-2-g-5">
+      <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.200px" width="10.352px" height="8.200px" role="img" focusable="false" viewBox="0 -442 572 453" x="0.0" y="0.0">
+        <defs>
+          <path id="piecewise-graph-2-MJX-2-TEX-I-1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"/>
+        </defs>
+        <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+          <g data-mml-node="math">
+            <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-annotation="clearspeak:simple" data-semantic-id="0" data-semantic-speech="x">
+              <use data-c="1D465" xlink:href="#piecewise-graph-2-MJX-2-TEX-I-1D465"/>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </g>
+  </g>
+  <g id="piecewise-graph-2-label-1" transform="translate(129.0,9.0) translate(0.0,-0.0)">
+    <g id="piecewise-graph-2-g-6">
+      <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -3.712px" width="8.872px" height="11.712px" role="img" focusable="false" viewBox="0 -442 490 647" x="0.0" y="0.0">
+        <defs>
+          <path id="piecewise-graph-2-MJX-3-TEX-I-1D466" d="M21 287Q21 301 36 335T84 406T158 442Q199 442 224 419T250 355Q248 336 247 334Q247 331 231 288T198 191T182 105Q182 62 196 45T238 27Q261 27 281 38T312 61T339 94Q339 95 344 114T358 173T377 247Q415 397 419 404Q432 431 462 431Q475 431 483 424T494 412T496 403Q496 390 447 193T391 -23Q363 -106 294 -155T156 -205Q111 -205 77 -183T43 -117Q43 -95 50 -80T69 -58T89 -48T106 -45Q150 -45 150 -87Q150 -107 138 -122T115 -142T102 -147L99 -148Q101 -153 118 -160T152 -167H160Q177 -167 186 -165Q219 -156 247 -127T290 -65T313 -9T321 21L315 17Q309 13 296 6T270 -6Q250 -11 231 -11Q185 -11 150 11T104 82Q103 89 103 113Q103 170 138 262T173 379Q173 380 173 381Q173 390 173 393T169 400T158 404H154Q131 404 112 385T82 344T65 302T57 280Q55 278 41 278H27Q21 284 21 287Z"/>
+        </defs>
+        <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+          <g data-mml-node="math">
+            <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-annotation="clearspeak:simple" data-semantic-id="0" data-semantic-speech="y">
+              <use data-c="1D466" xlink:href="#piecewise-graph-2-MJX-3-TEX-I-1D466"/>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </g>
+  </g>
+  <g id="piecewise-graph-2-label-2" transform="translate(65.0,203.5) translate(-7.5,-0.0)">
+    <g id="piecewise-graph-2-g-7">
+      <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: 0.000px" width="15.080px" height="12.056px" role="img" focusable="false" viewBox="0 -666 833 666" x="0.0" y="0.0">
+        <defs>
+          <path id="piecewise-graph-2-MJX-4-TEX-N-2D" d="M11 179V252H277V179H11Z"/>
+          <path id="piecewise-graph-2-MJX-4-TEX-N-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"/>
+        </defs>
+        <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+          <g data-mml-node="math">
+            <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="unknown" data-semantic-font="normal" data-semantic-annotation="clearspeak:unit" data-semantic-id="0" data-semantic-speech="hyphen 2">
+              <use data-c="2D" xlink:href="#piecewise-graph-2-MJX-4-TEX-N-2D"/>
+              <use data-c="32" xlink:href="#piecewise-graph-2-MJX-4-TEX-N-32" transform="translate(333,0)"/>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </g>
+  </g>
+  <g id="piecewise-graph-2-label-3" transform="translate(185.0,203.5) translate(-4.5,-0.0)">
+    <g id="piecewise-graph-2-g-8">
+      <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: 0.000px" width="9.048px" height="12.056px" role="img" focusable="false" viewBox="0 -666 500 666" x="0.0" y="0.0">
+        <defs>
+          <path id="piecewise-graph-2-MJX-5-TEX-N-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"/>
+        </defs>
+        <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+          <g data-mml-node="math">
+            <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:unit" data-semantic-id="0" data-semantic-speech="2">
+              <use data-c="32" xlink:href="#piecewise-graph-2-MJX-5-TEX-N-32"/>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </g>
+  </g>
+  <g id="piecewise-graph-2-label-4" transform="translate(245.0,203.5) translate(-4.5,-0.0)">
+    <g id="piecewise-graph-2-g-9">
+      <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: 0.000px" width="9.048px" height="12.256px" role="img" focusable="false" viewBox="0 -677 500 677" x="0.0" y="0.0">
+        <defs>
+          <path id="piecewise-graph-2-MJX-6-TEX-N-34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"/>
+        </defs>
+        <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+          <g data-mml-node="math">
+            <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:unit" data-semantic-id="0" data-semantic-speech="4">
+              <use data-c="34" xlink:href="#piecewise-graph-2-MJX-6-TEX-N-34"/>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </g>
+  </g>
+  <g id="piecewise-graph-2-label-5" transform="translate(114.0,267.5) translate(-15.1,-6.0)">
+    <g id="piecewise-graph-2-g-10">
+      <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: 0.000px" width="15.080px" height="12.056px" role="img" focusable="false" viewBox="0 -666 833 666" x="0.0" y="0.0">
+        <defs>
+          <path id="piecewise-graph-2-MJX-7-TEX-N-2D" d="M11 179V252H277V179H11Z"/>
+          <path id="piecewise-graph-2-MJX-7-TEX-N-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"/>
+        </defs>
+        <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+          <g data-mml-node="math">
+            <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="unknown" data-semantic-font="normal" data-semantic-annotation="clearspeak:unit" data-semantic-id="0" data-semantic-speech="hyphen 2">
+              <use data-c="2D" xlink:href="#piecewise-graph-2-MJX-7-TEX-N-2D"/>
+              <use data-c="32" xlink:href="#piecewise-graph-2-MJX-7-TEX-N-32" transform="translate(333,0)"/>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </g>
+  </g>
+  <g id="piecewise-graph-2-label-6" transform="translate(114.0,117.5) translate(-9.0,-6.0)">
+    <g id="piecewise-graph-2-g-11">
+      <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: 0.000px" width="9.048px" height="12.056px" role="img" focusable="false" viewBox="0 -666 500 666" x="0.0" y="0.0">
+        <defs>
+          <path id="piecewise-graph-2-MJX-8-TEX-N-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"/>
+        </defs>
+        <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+          <g data-mml-node="math">
+            <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:unit" data-semantic-id="0" data-semantic-speech="2">
+              <use data-c="32" xlink:href="#piecewise-graph-2-MJX-8-TEX-N-32"/>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </g>
+  </g>
+  <g id="piecewise-graph-2-label-7" transform="translate(114.0,42.5) translate(-9.0,-6.1)">
+    <g id="piecewise-graph-2-g-12">
+      <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: 0.000px" width="9.048px" height="12.256px" role="img" focusable="false" viewBox="0 -677 500 677" x="0.0" y="0.0">
+        <defs>
+          <path id="piecewise-graph-2-MJX-9-TEX-N-34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"/>
+        </defs>
+        <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+          <g data-mml-node="math">
+            <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:unit" data-semantic-id="0" data-semantic-speech="4">
+              <use data-c="34" xlink:href="#piecewise-graph-2-MJX-9-TEX-N-34"/>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </g>
+  </g>
+  <path id="piecewise-graph-2-graph-0" stroke="blue" stroke-width="2" fill="none" d="M 35.0 42.5 L 35.6 44.8 L 36.2 47.0 L 36.8 49.2 L 37.4 51.5 L 38.0 53.8 L 38.6 56.0 L 39.2 58.2 L 39.8 60.5 L 40.4 62.8 L 41.0 65.0 L 41.6 67.3 L 42.2 69.5 L 42.8 71.7 L 43.4 74.0 L 44.0 76.2 L 44.6 78.5 L 45.2 80.7 L 45.8 83.0 L 46.4 85.2 L 47.0 87.5 L 47.6 89.7 L 48.2 92.0 L 48.8 94.2 L 49.4 96.5 L 50.0 98.8 L 50.6 101.0 L 51.2 103.2 L 51.8 105.5 L 52.4 107.8 L 53.0 110.0 L 53.6 112.3 L 54.2 114.5 L 54.8 116.8 L 55.4 119.0 L 56.0 121.3 L 56.6 123.5 L 57.2 125.8 L 57.8 128.0 L 58.4 130.3 L 59.0 132.5 L 59.6 134.8 L 60.2 137.0 L 60.8 139.2 L 61.4 141.5 L 62.0 143.8 L 62.6 146.0 L 63.2 148.2 L 63.8 150.5 L 64.4 152.8 L 65.0 155.0 L 65.6 157.2 L 66.2 159.5 L 66.8 161.8 L 67.4 164.0 L 68.0 166.2 L 68.6 168.5 L 69.2 170.8 L 69.8 173.0 L 70.4 175.2 L 71.0 177.5 L 71.6 179.8 L 72.2 182.0 L 72.8 184.2 L 73.4 186.5 L 74.0 188.8 L 74.6 191.0 L 75.2 193.3 L 75.8 195.5 L 76.4 197.8 L 77.0 200.0 L 77.6 202.2 L 78.2 204.5 L 78.8 206.8 L 79.4 209.0 L 80.0 211.2 L 80.6 213.5 L 81.2 215.8 L 81.8 218.0 L 82.4 220.2 L 83.0 222.5 L 83.6 224.8 L 84.2 227.0 L 84.8 229.2 L 85.4 231.5 L 86.0 233.8 L 86.6 236.0 L 87.2 238.2 L 87.8 240.5 L 88.4 242.8 L 89.0 245.0 L 89.6 247.2 L 90.2 249.5 L 90.8 251.8 L 91.4 254.0 L 92.0 256.2 L 92.6 258.5 L 93.2 260.8 L 93.8 263.0 L 94.4 265.2 L 95.0 267.5" clip-path="url(#piecewise-graph-2-clipPath-1)"/>
+  <path id="piecewise-graph-2-graph-1" stroke="blue" stroke-width="2" fill="none" d="M 95.0 267.5 L 95.9 260.8 L 96.8 254.2 L 97.7 247.7 L 98.6 241.3 L 99.5 235.0 L 100.4 228.8 L 101.3 222.7 L 102.2 216.7 L 103.1 210.9 L 104.0 205.1 L 104.9 199.4 L 105.8 193.8 L 106.7 188.3 L 107.6 182.9 L 108.5 177.6 L 109.4 172.5 L 110.3 167.4 L 111.2 162.4 L 112.1 157.5 L 113.0 152.7 L 113.9 148.1 L 114.8 143.5 L 115.7 139.0 L 116.6 134.7 L 117.5 130.4 L 118.4 126.2 L 119.3 122.2 L 120.2 118.2 L 121.1 114.3 L 122.0 110.6 L 122.9 106.9 L 123.8 103.3 L 124.7 99.9 L 125.6 96.5 L 126.5 93.3 L 127.4 90.1 L 128.3 87.1 L 129.2 84.1 L 130.1 81.3 L 131.0 78.5 L 131.9 75.9 L 132.8 73.3 L 133.7 70.9 L 134.6 68.5 L 135.5 66.3 L 136.4 64.1 L 137.3 62.1 L 138.2 60.1 L 139.1 58.3 L 140.0 56.6 L 140.9 54.9 L 141.8 53.4 L 142.7 52.0 L 143.6 50.6 L 144.5 49.4 L 145.4 48.3 L 146.3 47.2 L 147.2 46.3 L 148.1 45.5 L 149.0 44.8 L 149.9 44.1 L 150.8 43.6 L 151.7 43.2 L 152.6 42.9 L 153.5 42.6 L 154.4 42.5 L 155.3 42.5 L 156.2 42.6 L 157.1 42.8 L 158.0 43.1 L 158.9 43.5 L 159.8 43.9 L 160.7 44.5 L 161.6 45.2 L 162.5 46.0 L 163.4 46.9 L 164.3 47.9 L 165.2 49.0 L 166.1 50.2 L 167.0 51.5 L 167.9 52.9 L 168.8 54.4 L 169.7 56.0 L 170.6 57.7 L 171.5 59.5 L 172.4 61.4 L 173.3 63.4 L 174.2 65.5 L 175.1 67.8 L 176.0 70.1 L 176.9 72.5 L 177.8 75.0 L 178.7 77.6 L 179.6 80.3 L 180.5 83.1 L 181.4 86.1 L 182.3 89.1 L 183.2 92.2 L 184.1 95.4 L 185.0 98.8" clip-path="url(#piecewise-graph-2-clipPath-1)"/>
+  <path id="piecewise-graph-2-graph-2" stroke="blue" stroke-width="2" fill="none" d="M 185.0 98.8 L 185.9 98.2 L 186.8 97.6 L 187.7 97.1 L 188.6 96.5 L 189.5 95.9 L 190.4 95.4 L 191.3 94.8 L 192.2 94.2 L 193.1 93.7 L 194.0 93.1 L 194.9 92.6 L 195.8 92.0 L 196.7 91.4 L 197.6 90.9 L 198.5 90.3 L 199.4 89.7 L 200.3 89.2 L 201.2 88.6 L 202.1 88.1 L 203.0 87.5 L 203.9 86.9 L 204.8 86.4 L 205.7 85.8 L 206.6 85.2 L 207.5 84.7 L 208.4 84.1 L 209.3 83.6 L 210.2 83.0 L 211.1 82.4 L 212.0 81.9 L 212.9 81.3 L 213.8 80.8 L 214.7 80.2 L 215.6 79.6 L 216.5 79.1 L 217.4 78.5 L 218.3 77.9 L 219.2 77.4 L 220.1 76.8 L 221.0 76.2 L 221.9 75.7 L 222.8 75.1 L 223.7 74.6 L 224.6 74.0 L 225.5 73.4 L 226.4 72.9 L 227.3 72.3 L 228.2 71.8 L 229.1 71.2 L 230.0 70.6 L 230.9 70.1 L 231.8 69.5 L 232.7 68.9 L 233.6 68.4 L 234.5 67.8 L 235.4 67.2 L 236.3 66.7 L 237.2 66.1 L 238.1 65.6 L 239.0 65.0 L 239.9 64.4 L 240.8 63.9 L 241.7 63.3 L 242.6 62.8 L 243.5 62.2 L 244.4 61.6 L 245.3 61.1 L 246.2 60.5 L 247.1 59.9 L 248.0 59.4 L 248.9 58.8 L 249.8 58.2 L 250.7 57.7 L 251.6 57.1 L 252.5 56.6 L 253.4 56.0 L 254.3 55.4 L 255.2 54.9 L 256.1 54.3 L 257.0 53.8 L 257.9 53.2 L 258.8 52.6 L 259.7 52.1 L 260.6 51.5 L 261.5 50.9 L 262.4 50.4 L 263.3 49.8 L 264.2 49.2 L 265.1 48.7 L 266.0 48.1 L 266.9 47.6 L 267.8 47.0 L 268.7 46.4 L 269.6 45.9 L 270.5 45.3 L 271.4 44.8 L 272.3 44.2 L 273.2 43.6 L 274.1 43.1 L 275.0 42.5" clip-path="url(#piecewise-graph-2-clipPath-1)"/>
+  <g id="piecewise-graph-2-g-0">
+    <g transform="translate(40.0,37.5) translate(0.0,-18.1)">
+      <g id="piecewise-graph-2-g-13">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -4.528px" width="54.312px" height="18.096px" role="img" focusable="false" viewBox="0 -750 3000.7 1000" x="0.0" y="0.0">
+          <defs>
+            <path id="piecewise-graph-2-MJX-10-TEX-N-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"/>
+            <path id="piecewise-graph-2-MJX-10-TEX-N-2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"/>
+            <path id="piecewise-graph-2-MJX-10-TEX-N-33" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"/>
+            <path id="piecewise-graph-2-MJX-10-TEX-N-2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"/>
+            <path id="piecewise-graph-2-MJX-10-TEX-N-34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"/>
+            <path id="piecewise-graph-2-MJX-10-TEX-N-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math" data-semantic-type="fenced" data-semantic-role="leftright" data-semantic-id="8" data-semantic-children="7" data-semantic-content="0,5" data-semantic-speech="left parenthesis negative 3 comma 4 right parenthesis">
+              <g data-mml-node="mo" data-semantic-type="fence" data-semantic-role="open" data-semantic-id="0" data-semantic-parent="8" data-semantic-operator="fenced" data-semantic-speech="left parenthesis">
+                <use data-c="28" xlink:href="#piecewise-graph-2-MJX-10-TEX-N-28"/>
+              </g>
+              <g data-mml-node="mrow" data-semantic-type="punctuated" data-semantic-role="sequence" data-semantic-id="7" data-semantic-children="6,3,4" data-semantic-content="3" data-semantic-parent="8" data-semantic-speech="negative 3 comma 4" transform="translate(389,0)">
+                <g data-mml-node="mrow" data-semantic-type="prefixop" data-semantic-role="negative" data-semantic-annotation="clearspeak:simple" data-semantic-id="6" data-semantic-children="2" data-semantic-content="1" data-semantic-parent="7" data-semantic-speech="negative 3">
+                  <g data-mml-node="mo" data-semantic-type="operator" data-semantic-role="subtraction" data-semantic-id="1" data-semantic-parent="6" data-semantic-operator="prefixop,−" data-semantic-speech="minus">
+                    <use data-c="2212" xlink:href="#piecewise-graph-2-MJX-10-TEX-N-2212"/>
+                  </g>
+                  <g data-mml-node="mn" data-semantic-type="number" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:simple" data-semantic-id="2" data-semantic-parent="6" data-semantic-speech="3" transform="translate(778,0)">
+                    <use data-c="33" xlink:href="#piecewise-graph-2-MJX-10-TEX-N-33"/>
+                  </g>
+                </g>
+                <g data-mml-node="mo" data-semantic-type="punctuation" data-semantic-role="comma" data-semantic-id="3" data-semantic-parent="7" data-semantic-operator="punctuated" data-semantic-speech="comma" transform="translate(1278,0)">
+                  <use data-c="2C" xlink:href="#piecewise-graph-2-MJX-10-TEX-N-2C"/>
+                </g>
+                <g data-mml-node="mn" data-semantic-type="number" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:simple" data-semantic-id="4" data-semantic-parent="7" data-semantic-speech="4" transform="translate(1722.7,0)">
+                  <use data-c="34" xlink:href="#piecewise-graph-2-MJX-10-TEX-N-34"/>
+                </g>
+              </g>
+              <g data-mml-node="mo" data-semantic-type="fence" data-semantic-role="close" data-semantic-id="5" data-semantic-parent="8" data-semantic-operator="fenced" data-semantic-speech="right parenthesis" transform="translate(2611.7,0)">
+                <use data-c="29" xlink:href="#piecewise-graph-2-MJX-10-TEX-N-29"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <circle cx="35.0" cy="42.5" r="4" stroke="black" stroke-width="2" fill="red"/>
+  </g>
+  <g id="piecewise-graph-2-g-1">
+    <g transform="translate(90.0,262.5) translate(-68.4,-18.1)">
+      <g id="piecewise-graph-2-g-14">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -4.528px" width="68.392px" height="18.096px" role="img" focusable="false" viewBox="0 -750 3778.7 1000" x="0.0" y="0.0">
+          <defs>
+            <path id="piecewise-graph-2-MJX-11-TEX-N-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"/>
+            <path id="piecewise-graph-2-MJX-11-TEX-N-2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"/>
+            <path id="piecewise-graph-2-MJX-11-TEX-N-31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"/>
+            <path id="piecewise-graph-2-MJX-11-TEX-N-2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"/>
+            <path id="piecewise-graph-2-MJX-11-TEX-N-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"/>
+            <path id="piecewise-graph-2-MJX-11-TEX-N-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math" data-semantic-type="fenced" data-semantic-role="leftright" data-semantic-id="10" data-semantic-children="9" data-semantic-content="0,6" data-semantic-speech="left parenthesis negative 1 comma negative 2 right parenthesis">
+              <g data-mml-node="mo" data-semantic-type="fence" data-semantic-role="open" data-semantic-id="0" data-semantic-parent="10" data-semantic-operator="fenced" data-semantic-speech="left parenthesis">
+                <use data-c="28" xlink:href="#piecewise-graph-2-MJX-11-TEX-N-28"/>
+              </g>
+              <g data-mml-node="mrow" data-semantic-type="punctuated" data-semantic-role="sequence" data-semantic-id="9" data-semantic-children="7,3,8" data-semantic-content="3" data-semantic-parent="10" data-semantic-speech="negative 1 comma negative 2" transform="translate(389,0)">
+                <g data-mml-node="mrow" data-semantic-type="prefixop" data-semantic-role="negative" data-semantic-annotation="clearspeak:simple" data-semantic-id="7" data-semantic-children="2" data-semantic-content="1" data-semantic-parent="9" data-semantic-speech="negative 1">
+                  <g data-mml-node="mo" data-semantic-type="operator" data-semantic-role="subtraction" data-semantic-id="1" data-semantic-parent="7" data-semantic-operator="prefixop,−" data-semantic-speech="minus">
+                    <use data-c="2212" xlink:href="#piecewise-graph-2-MJX-11-TEX-N-2212"/>
+                  </g>
+                  <g data-mml-node="mn" data-semantic-type="number" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:simple" data-semantic-id="2" data-semantic-parent="7" data-semantic-speech="1" transform="translate(778,0)">
+                    <use data-c="31" xlink:href="#piecewise-graph-2-MJX-11-TEX-N-31"/>
+                  </g>
+                </g>
+                <g data-mml-node="mo" data-semantic-type="punctuation" data-semantic-role="comma" data-semantic-id="3" data-semantic-parent="9" data-semantic-operator="punctuated" data-semantic-speech="comma" transform="translate(1278,0)">
+                  <use data-c="2C" xlink:href="#piecewise-graph-2-MJX-11-TEX-N-2C"/>
+                </g>
+                <g data-mml-node="mrow" data-semantic-type="prefixop" data-semantic-role="negative" data-semantic-annotation="clearspeak:simple" data-semantic-id="8" data-semantic-children="5" data-semantic-content="4" data-semantic-parent="9" data-semantic-speech="negative 2" transform="translate(1722.7,0)">
+                  <g data-mml-node="mo" data-semantic-type="operator" data-semantic-role="subtraction" data-semantic-id="4" data-semantic-parent="8" data-semantic-operator="prefixop,−" data-semantic-speech="minus">
+                    <use data-c="2212" xlink:href="#piecewise-graph-2-MJX-11-TEX-N-2212"/>
+                  </g>
+                  <g data-mml-node="mn" data-semantic-type="number" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:simple" data-semantic-id="5" data-semantic-parent="8" data-semantic-speech="2" transform="translate(778,0)">
+                    <use data-c="32" xlink:href="#piecewise-graph-2-MJX-11-TEX-N-32"/>
+                  </g>
+                </g>
+              </g>
+              <g data-mml-node="mo" data-semantic-type="fence" data-semantic-role="close" data-semantic-id="6" data-semantic-parent="10" data-semantic-operator="fenced" data-semantic-speech="right parenthesis" transform="translate(3389.7,0)">
+                <use data-c="29" xlink:href="#piecewise-graph-2-MJX-11-TEX-N-29"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <circle cx="95.0" cy="267.5" r="4" stroke="black" stroke-width="2" fill="red"/>
+  </g>
+  <g id="piecewise-graph-2-g-2">
+    <g transform="translate(160.0,37.5) translate(0.0,-18.1)">
+      <g id="piecewise-graph-2-g-15">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -4.528px" width="40.232px" height="18.096px" role="img" focusable="false" viewBox="0 -750 2222.7 1000" x="0.0" y="0.0">
+          <defs>
+            <path id="piecewise-graph-2-MJX-12-TEX-N-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"/>
+            <path id="piecewise-graph-2-MJX-12-TEX-N-31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"/>
+            <path id="piecewise-graph-2-MJX-12-TEX-N-2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"/>
+            <path id="piecewise-graph-2-MJX-12-TEX-N-34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"/>
+            <path id="piecewise-graph-2-MJX-12-TEX-N-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math" data-semantic-type="fenced" data-semantic-role="leftright" data-semantic-id="6" data-semantic-children="5" data-semantic-content="0,4" data-semantic-speech="left parenthesis 1 comma 4 right parenthesis">
+              <g data-mml-node="mo" data-semantic-type="fence" data-semantic-role="open" data-semantic-id="0" data-semantic-parent="6" data-semantic-operator="fenced" data-semantic-speech="left parenthesis">
+                <use data-c="28" xlink:href="#piecewise-graph-2-MJX-12-TEX-N-28"/>
+              </g>
+              <g data-mml-node="mrow" data-semantic-type="punctuated" data-semantic-role="sequence" data-semantic-id="5" data-semantic-children="1,2,3" data-semantic-content="2" data-semantic-parent="6" data-semantic-speech="1 comma 4" transform="translate(389,0)">
+                <g data-mml-node="mn" data-semantic-type="number" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:simple" data-semantic-id="1" data-semantic-parent="5" data-semantic-speech="1">
+                  <use data-c="31" xlink:href="#piecewise-graph-2-MJX-12-TEX-N-31"/>
+                </g>
+                <g data-mml-node="mo" data-semantic-type="punctuation" data-semantic-role="comma" data-semantic-id="2" data-semantic-parent="5" data-semantic-operator="punctuated" data-semantic-speech="comma" transform="translate(500,0)">
+                  <use data-c="2C" xlink:href="#piecewise-graph-2-MJX-12-TEX-N-2C"/>
+                </g>
+                <g data-mml-node="mn" data-semantic-type="number" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:simple" data-semantic-id="3" data-semantic-parent="5" data-semantic-speech="4" transform="translate(944.7,0)">
+                  <use data-c="34" xlink:href="#piecewise-graph-2-MJX-12-TEX-N-34"/>
+                </g>
+              </g>
+              <g data-mml-node="mo" data-semantic-type="fence" data-semantic-role="close" data-semantic-id="4" data-semantic-parent="6" data-semantic-operator="fenced" data-semantic-speech="right parenthesis" transform="translate(1833.7,0)">
+                <use data-c="29" xlink:href="#piecewise-graph-2-MJX-12-TEX-N-29"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <circle cx="155.0" cy="42.5" r="4" stroke="black" stroke-width="2" fill="red"/>
+  </g>
+  <g id="piecewise-graph-2-g-3">
+    <g transform="translate(185.0,106.8) translate(-27.2,-0.0)">
+      <g id="piecewise-graph-2-g-16">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -4.528px" width="54.312px" height="18.096px" role="img" focusable="false" viewBox="0 -750 3000.7 1000" x="0.0" y="0.0">
+          <defs>
+            <path id="piecewise-graph-2-MJX-13-TEX-N-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"/>
+            <path id="piecewise-graph-2-MJX-13-TEX-N-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"/>
+            <path id="piecewise-graph-2-MJX-13-TEX-N-2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"/>
+            <path id="piecewise-graph-2-MJX-13-TEX-N-2E" d="M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z"/>
+            <path id="piecewise-graph-2-MJX-13-TEX-N-35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"/>
+            <path id="piecewise-graph-2-MJX-13-TEX-N-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math" data-semantic-type="fenced" data-semantic-role="leftright" data-semantic-id="6" data-semantic-children="5" data-semantic-content="0,4" data-semantic-speech="left parenthesis 2 comma 2.5 right parenthesis">
+              <g data-mml-node="mo" data-semantic-type="fence" data-semantic-role="open" data-semantic-id="0" data-semantic-parent="6" data-semantic-operator="fenced" data-semantic-speech="left parenthesis">
+                <use data-c="28" xlink:href="#piecewise-graph-2-MJX-13-TEX-N-28"/>
+              </g>
+              <g data-mml-node="mrow" data-semantic-type="punctuated" data-semantic-role="sequence" data-semantic-id="5" data-semantic-children="1,2,3" data-semantic-content="2" data-semantic-parent="6" data-semantic-speech="2 comma 2.5" transform="translate(389,0)">
+                <g data-mml-node="mn" data-semantic-type="number" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:simple" data-semantic-id="1" data-semantic-parent="5" data-semantic-speech="2">
+                  <use data-c="32" xlink:href="#piecewise-graph-2-MJX-13-TEX-N-32"/>
+                </g>
+                <g data-mml-node="mo" data-semantic-type="punctuation" data-semantic-role="comma" data-semantic-id="2" data-semantic-parent="5" data-semantic-operator="punctuated" data-semantic-speech="comma" transform="translate(500,0)">
+                  <use data-c="2C" xlink:href="#piecewise-graph-2-MJX-13-TEX-N-2C"/>
+                </g>
+                <g data-mml-node="mn" data-semantic-type="number" data-semantic-role="float" data-semantic-font="normal" data-semantic-annotation="clearspeak:simple" data-semantic-id="3" data-semantic-parent="5" data-semantic-speech="2.5" transform="translate(944.7,0)">
+                  <use data-c="32" xlink:href="#piecewise-graph-2-MJX-13-TEX-N-32"/>
+                  <use data-c="2E" xlink:href="#piecewise-graph-2-MJX-13-TEX-N-2E" transform="translate(500,0)"/>
+                  <use data-c="35" xlink:href="#piecewise-graph-2-MJX-13-TEX-N-35" transform="translate(778,0)"/>
+                </g>
+              </g>
+              <g data-mml-node="mo" data-semantic-type="fence" data-semantic-role="close" data-semantic-id="4" data-semantic-parent="6" data-semantic-operator="fenced" data-semantic-speech="right parenthesis" transform="translate(2611.7,0)">
+                <use data-c="29" xlink:href="#piecewise-graph-2-MJX-13-TEX-N-29"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <circle cx="185.0" cy="98.8" r="4" stroke="black" stroke-width="2" fill="red"/>
+  </g>
+  <g id="piecewise-graph-2-g-4">
+    <g transform="translate(275.0,34.5) translate(-20.1,-18.1)">
+      <g id="piecewise-graph-2-g-17">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -4.528px" width="40.232px" height="18.096px" role="img" focusable="false" viewBox="0 -750 2222.7 1000" x="0.0" y="0.0">
+          <defs>
+            <path id="piecewise-graph-2-MJX-14-TEX-N-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"/>
+            <path id="piecewise-graph-2-MJX-14-TEX-N-35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"/>
+            <path id="piecewise-graph-2-MJX-14-TEX-N-2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"/>
+            <path id="piecewise-graph-2-MJX-14-TEX-N-34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"/>
+            <path id="piecewise-graph-2-MJX-14-TEX-N-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math" data-semantic-type="fenced" data-semantic-role="leftright" data-semantic-id="6" data-semantic-children="5" data-semantic-content="0,4" data-semantic-speech="left parenthesis 5 comma 4 right parenthesis">
+              <g data-mml-node="mo" data-semantic-type="fence" data-semantic-role="open" data-semantic-id="0" data-semantic-parent="6" data-semantic-operator="fenced" data-semantic-speech="left parenthesis">
+                <use data-c="28" xlink:href="#piecewise-graph-2-MJX-14-TEX-N-28"/>
+              </g>
+              <g data-mml-node="mrow" data-semantic-type="punctuated" data-semantic-role="sequence" data-semantic-id="5" data-semantic-children="1,2,3" data-semantic-content="2" data-semantic-parent="6" data-semantic-speech="5 comma 4" transform="translate(389,0)">
+                <g data-mml-node="mn" data-semantic-type="number" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:simple" data-semantic-id="1" data-semantic-parent="5" data-semantic-speech="5">
+                  <use data-c="35" xlink:href="#piecewise-graph-2-MJX-14-TEX-N-35"/>
+                </g>
+                <g data-mml-node="mo" data-semantic-type="punctuation" data-semantic-role="comma" data-semantic-id="2" data-semantic-parent="5" data-semantic-operator="punctuated" data-semantic-speech="comma" transform="translate(500,0)">
+                  <use data-c="2C" xlink:href="#piecewise-graph-2-MJX-14-TEX-N-2C"/>
+                </g>
+                <g data-mml-node="mn" data-semantic-type="number" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:simple" data-semantic-id="3" data-semantic-parent="5" data-semantic-speech="4" transform="translate(944.7,0)">
+                  <use data-c="34" xlink:href="#piecewise-graph-2-MJX-14-TEX-N-34"/>
+                </g>
+              </g>
+              <g data-mml-node="mo" data-semantic-type="fence" data-semantic-role="close" data-semantic-id="4" data-semantic-parent="6" data-semantic-operator="fenced" data-semantic-speech="right parenthesis" transform="translate(1833.7,0)">
+                <use data-c="29" xlink:href="#piecewise-graph-2-MJX-14-TEX-N-29"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <circle cx="275.0" cy="42.5" r="4" stroke="black" stroke-width="2" fill="red"/>
+  </g>
+</svg>

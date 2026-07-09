@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="related-graph-volume-figure" width="310" height="310" viewBox="0 0 310 310">
+  <defs>
+    <clipPath id="related-graph-volume-clipPath-0">
+      <rect x="5.0" y="5.0" width="300.0" height="300.0"/>
+    </clipPath>
+    <clipPath id="related-graph-volume-clipPath-1">
+      <rect x="5.0" y="5.0" width="300.0" height="300.0"/>
+    </clipPath>
+  </defs>
+  <g id="related-graph-volume-grid-axes">
+    <g id="related-graph-volume-grid" stroke="#ccc" stroke-width="1">
+      <line x1="5.0" y1="305.0" x2="5.0" y2="5.0"/>
+      <line x1="47.9" y1="305.0" x2="47.9" y2="5.0"/>
+      <line x1="90.7" y1="305.0" x2="90.7" y2="5.0"/>
+      <line x1="133.6" y1="305.0" x2="133.6" y2="5.0"/>
+      <line x1="176.4" y1="305.0" x2="176.4" y2="5.0"/>
+      <line x1="219.3" y1="305.0" x2="219.3" y2="5.0"/>
+      <line x1="262.1" y1="305.0" x2="262.1" y2="5.0"/>
+      <line x1="305.0" y1="305.0" x2="305.0" y2="5.0"/>
+      <line x1="5.0" y1="305.0" x2="305.0" y2="305.0"/>
+      <line x1="5.0" y1="262.1" x2="305.0" y2="262.1"/>
+      <line x1="5.0" y1="219.3" x2="305.0" y2="219.3"/>
+      <line x1="5.0" y1="176.4" x2="305.0" y2="176.4"/>
+      <line x1="5.0" y1="133.6" x2="305.0" y2="133.6"/>
+      <line x1="5.0" y1="90.7" x2="305.0" y2="90.7"/>
+      <line x1="5.0" y1="47.9" x2="305.0" y2="47.9"/>
+      <line x1="5.0" y1="5.0" x2="305.0" y2="5.0"/>
+    </g>
+    <g id="related-graph-volume-axes" stroke="black" stroke-width="2">
+      <line id="related-graph-volume-line-16" x1="5.0" y1="262.1" x2="305.0" y2="262.1" stroke="black" stroke-width="2"/>
+      <g>
+        <line id="related-graph-volume-line-17" x1="133.6" y1="265.1" x2="133.6" y2="259.1"/>
+        <line id="related-graph-volume-line-18" x1="219.3" y1="265.1" x2="219.3" y2="259.1"/>
+      </g>
+      <line id="related-graph-volume-line-19" x1="47.9" y1="305.0" x2="47.9" y2="5.0" stroke="black" stroke-width="2"/>
+      <g>
+        <line id="related-graph-volume-line-20" x1="44.9" y1="176.4" x2="50.9" y2="176.4"/>
+        <line id="related-graph-volume-line-21" x1="44.9" y1="90.7" x2="50.9" y2="90.7"/>
+      </g>
+    </g>
+    <g id="related-graph-volume-label-0" transform="translate(301.0,258.1) translate(-6.5,-11.5)">
+      <g id="related-graph-volume-g-0">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.200px" width="6.536px" height="11.528px" role="img" focusable="false" viewBox="0 -626 361 637" x="0.0" y="0.0">
+          <defs>
+            <path id="related-graph-volume-MJX-2-TEX-I-1D461" d="M26 385Q19 392 19 395Q19 399 22 411T27 425Q29 430 36 430T87 431H140L159 511Q162 522 166 540T173 566T179 586T187 603T197 615T211 624T229 626Q247 625 254 615T261 596Q261 589 252 549T232 470L222 433Q222 431 272 431H323Q330 424 330 420Q330 398 317 385H210L174 240Q135 80 135 68Q135 26 162 26Q197 26 230 60T283 144Q285 150 288 151T303 153H307Q322 153 322 145Q322 142 319 133Q314 117 301 95T267 48T216 6T155 -11Q125 -11 98 4T59 56Q57 64 57 83V101L92 241Q127 382 128 383Q128 385 77 385H26Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math">
+              <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-annotation="clearspeak:simple" data-semantic-id="0" data-semantic-speech="t">
+                <use data-c="1D461" xlink:href="#related-graph-volume-MJX-2-TEX-I-1D461"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <g id="related-graph-volume-label-1" transform="translate(51.9,9.0) translate(0.0,-0.0)">
+      <g id="related-graph-volume-g-1">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.400px" width="13.920px" height="12.760px" role="img" focusable="false" viewBox="0 -683 769 705" x="0.0" y="0.0">
+          <defs>
+            <path id="related-graph-volume-MJX-3-TEX-I-1D449" d="M52 648Q52 670 65 683H76Q118 680 181 680Q299 680 320 683H330Q336 677 336 674T334 656Q329 641 325 637H304Q282 635 274 635Q245 630 242 620Q242 618 271 369T301 118L374 235Q447 352 520 471T595 594Q599 601 599 609Q599 633 555 637Q537 637 537 648Q537 649 539 661Q542 675 545 679T558 683Q560 683 570 683T604 682T668 681Q737 681 755 683H762Q769 676 769 672Q769 655 760 640Q757 637 743 637Q730 636 719 635T698 630T682 623T670 615T660 608T652 599T645 592L452 282Q272 -9 266 -16Q263 -18 259 -21L241 -22H234Q216 -22 216 -15Q213 -9 177 305Q139 623 138 626Q133 637 76 637H59Q52 642 52 648Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math">
+              <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-annotation="clearspeak:simple" data-semantic-id="0" data-semantic-speech="upper V">
+                <use data-c="1D449" xlink:href="#related-graph-volume-MJX-3-TEX-I-1D449"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <g id="related-graph-volume-label-2" transform="translate(133.6,273.1) translate(-4.5,-0.0)">
+      <g id="related-graph-volume-g-2">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: 0.000px" width="9.048px" height="12.056px" role="img" focusable="false" viewBox="0 -666 500 666" x="0.0" y="0.0">
+          <defs>
+            <path id="related-graph-volume-MJX-4-TEX-N-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math">
+              <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:unit" data-semantic-id="0" data-semantic-speech="2">
+                <use data-c="32" xlink:href="#related-graph-volume-MJX-4-TEX-N-32"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <g id="related-graph-volume-label-3" transform="translate(219.3,273.1) translate(-4.5,-0.0)">
+      <g id="related-graph-volume-g-3">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: 0.000px" width="9.048px" height="12.256px" role="img" focusable="false" viewBox="0 -677 500 677" x="0.0" y="0.0">
+          <defs>
+            <path id="related-graph-volume-MJX-5-TEX-N-34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math">
+              <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:unit" data-semantic-id="0" data-semantic-speech="4">
+                <use data-c="34" xlink:href="#related-graph-volume-MJX-5-TEX-N-34"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <g id="related-graph-volume-label-4" transform="translate(36.9,176.4) translate(-9.0,-6.0)">
+      <g id="related-graph-volume-g-4">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: 0.000px" width="9.048px" height="12.056px" role="img" focusable="false" viewBox="0 -666 500 666" x="0.0" y="0.0">
+          <defs>
+            <path id="related-graph-volume-MJX-6-TEX-N-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math">
+              <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:unit" data-semantic-id="0" data-semantic-speech="2">
+                <use data-c="32" xlink:href="#related-graph-volume-MJX-6-TEX-N-32"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <g id="related-graph-volume-label-5" transform="translate(36.9,90.7) translate(-9.0,-6.1)">
+      <g id="related-graph-volume-g-5">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: 0.000px" width="9.048px" height="12.256px" role="img" focusable="false" viewBox="0 -677 500 677" x="0.0" y="0.0">
+          <defs>
+            <path id="related-graph-volume-MJX-7-TEX-N-34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math">
+              <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="integer" data-semantic-font="normal" data-semantic-annotation="clearspeak:unit" data-semantic-id="0" data-semantic-speech="4">
+                <use data-c="34" xlink:href="#related-graph-volume-MJX-7-TEX-N-34"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <path id="related-graph-volume-graph-0" stroke="blue" stroke-width="2" fill="none" d="M 47.9 262.1 L 50.4 260.5 L 53.0 258.9 L 55.6 257.3 L 58.1 255.7 L 60.7 254.1 L 63.3 252.5 L 65.9 250.9 L 68.4 249.3 L 71.0 247.7 L 73.6 246.1 L 76.1 244.5 L 78.7 242.9 L 81.3 241.3 L 83.9 239.6 L 86.4 238.0 L 89.0 236.4 L 91.6 234.8 L 94.1 233.2 L 96.7 231.6 L 99.3 230.0 L 101.9 228.4 L 104.4 226.8 L 107.0 225.2 L 109.6 223.6 L 112.1 222.0 L 114.7 220.4 L 117.3 218.8 L 119.9 217.1 L 122.4 215.5 L 125.0 213.9 L 127.6 212.3 L 130.1 210.7 L 132.7 209.1 L 135.3 207.5 L 137.9 205.9 L 140.4 204.3 L 143.0 202.7 L 145.6 201.1 L 148.1 199.5 L 150.7 197.9 L 153.3 196.3 L 155.9 194.6 L 158.4 193.0 L 161.0 191.4 L 163.6 189.8 L 166.1 188.2 L 168.7 186.6 L 171.3 185.0 L 173.9 183.4 L 176.4 181.8 L 179.0 180.2 L 181.6 178.6 L 184.1 177.0 L 186.7 175.4 L 189.3 173.8 L 191.9 172.1 L 194.4 170.5 L 197.0 168.9 L 199.6 167.3 L 202.1 165.7 L 204.7 164.1 L 207.3 162.5 L 209.9 160.9 L 212.4 159.3 L 215.0 157.7 L 217.6 156.1 L 220.1 154.5 L 222.7 152.9 L 225.3 151.3 L 227.9 149.6 L 230.4 148.0 L 233.0 146.4 L 235.6 144.8 L 238.1 143.2 L 240.7 141.6 L 243.3 140.0 L 245.9 138.4 L 248.4 136.8 L 251.0 135.2 L 253.6 133.6 L 256.1 132.0 L 258.7 130.4 L 261.3 128.8 L 263.9 127.1 L 266.4 125.5 L 269.0 123.9 L 271.6 122.3 L 274.1 120.7 L 276.7 119.1 L 279.3 117.5 L 281.9 115.9 L 284.4 114.3 L 287.0 112.7 L 289.6 111.1 L 292.1 109.5 L 294.7 107.9 L 297.3 106.3 L 299.9 104.6 L 302.4 103.0 L 305.0 101.4" clip-path="url(#related-graph-volume-clipPath-1)"/>
+</svg>

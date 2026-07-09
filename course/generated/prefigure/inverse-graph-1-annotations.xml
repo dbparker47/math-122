@@ -1,0 +1,86 @@
+<diagram>
+  <annotations>
+    <annotation id="inverse-graph-1-figure" speech2="The graph of a function and its tangent line at the point a equals 1">
+      <grouped>inverse-graph-1-figure</grouped>
+      <position>1</position>
+      <children>
+        <active>inverse-graph-1-grid-axes</active>
+        <active>inverse-graph-1-graph-group</active>
+      </children>
+      <components>
+        <active>inverse-graph-1-grid-axes</active>
+        <active>inverse-graph-1-graph-group</active>
+      </components>
+    </annotation>
+    <annotation id="inverse-graph-1-grid-axes" speech2="The coordinate grid and axes">
+      <grouped>inverse-graph-1-grid-axes</grouped>
+      <position>1</position>
+      <children>
+        <active>inverse-graph-1-grid</active>
+        <active>inverse-graph-1-axes</active>
+      </children>
+      <components>
+        <active>inverse-graph-1-grid</active>
+        <active>inverse-graph-1-axes</active>
+      </components>
+      <parents>
+        <grouped>inverse-graph-1-figure</grouped>
+      </parents>
+    </annotation>
+    <annotation id="inverse-graph-1-grid" speech2="The coordinate grid">
+      <active>inverse-graph-1-grid</active>
+      <position>1</position>
+      <parents>
+        <grouped>inverse-graph-1-grid-axes</grouped>
+      </parents>
+    </annotation>
+    <annotation id="inverse-graph-1-axes" speech2="The coordinate axes">
+      <active>inverse-graph-1-axes</active>
+      <position>2</position>
+      <parents>
+        <grouped>inverse-graph-1-grid-axes</grouped>
+      </parents>
+    </annotation>
+    <annotation id="inverse-graph-1-graph-group" speech2="The graph and its tangent line">
+      <grouped>inverse-graph-1-graph-group</grouped>
+      <position>2</position>
+      <children>
+        <active>inverse-graph-1-graph</active>
+        <active>inverse-graph-1-point</active>
+        <active>inverse-graph-1-tangent</active>
+      </children>
+      <components>
+        <active>inverse-graph-1-graph</active>
+        <active>inverse-graph-1-point</active>
+        <active>inverse-graph-1-tangent</active>
+      </components>
+      <parents>
+        <grouped>inverse-graph-1-figure</grouped>
+      </parents>
+    </annotation>
+    <annotation id="inverse-graph-1-graph" speech2="The graph of the function f" sonify="yes">
+      <active>inverse-graph-1-graph</active>
+      <position>1</position>
+      <parents>
+        <grouped>inverse-graph-1-graph-group</grouped>
+      </parents>
+      <sonification>
+        <ACTIVE>inverse-graph-1-graph</ACTIVE>
+      </sonification>
+    </annotation>
+    <annotation id="inverse-graph-1-point" speech2="The point a comma f of a">
+      <active>inverse-graph-1-point</active>
+      <position>2</position>
+      <parents>
+        <grouped>inverse-graph-1-graph-group</grouped>
+      </parents>
+    </annotation>
+    <annotation id="inverse-graph-1-tangent" speech2="The tangent line to the graph of f at the point">
+      <active>inverse-graph-1-tangent</active>
+      <position>3</position>
+      <parents>
+        <grouped>inverse-graph-1-graph-group</grouped>
+      </parents>
+    </annotation>
+  </annotations>
+</diagram>
