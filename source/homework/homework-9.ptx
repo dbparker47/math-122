@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 122</title>
+  <title>Homework Assignment #9 - Math 122</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
+      <alert>Due Sunday, 11/22</alert>
     </p>
     <p>
       These are the requirements for all homework assignments.
@@ -36,20 +36,53 @@
   </introduction>
 
   <p>
-    Here are the problems for this assignment.  You can find them at the end of Section  of our textbook.  You may use the PDF version of the book, which can be found on Blackboard under <q>Course Information &amp; Resources</q>, or you may use the online version by clicking on on <url href="">this link</url> and scrolling down to the bottom of the page.
+    Here are the problems for this assignment.  The first problem comes from Section 3.6 of our textbook.  The second problem requires you to model and analyze some real-life data and is described below.  For the first problem, you may use the PDF version of the book for Section 3.6, which can be found on Blackboard under <q>Course Information &amp; Resources</q>, or you may use the online version by clicking on the link <url href="https://activecalculus.org/prelude/sec-exp-temp-pop.html">Section 3.6</url> and scrolling down to the bottom of the page:
   </p>
 
   <exercise>
     <statement>
       <p>
-        Section  (pp.  in the PDF file; at the end of the section in the HTML version)
+        Section 3.6 (pp. 205-206 in the PDF file; at the end of the section in the HTML version)
         <ul>
           <li>
             <p>
-              ( pts.) Do problem #.
+              (34 pts.) Do problem #5 in the textbook.  Note that the form of the logistic function they give is <m>S(t) = \frac{A}{1+Me^{-kt}}</m>.  You are welcome to use this form, but you may also choose the form we studied in class, namely <m>S(t) = \frac{A}{1+Mb^t}</m>.
             </p>
           </li>
         </ul>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        The next problem is based on the data given on a Google sheets given at the following link:  <url href="https://docs.google.com/spreadsheets/d/1suXKXh0ti1Z1AzKX3H-diL6OGf_tcbc9C1L12nK6YI4/edit?usp=drive_link">Advertising Data</url>
+      </p>
+      <p>
+        You are given four columns of data.  Three are types of advertising, and one is the amount of sales of the product.  Plot each type of advertising against the sales of the product on Desmos, and determine the one that can best be modeled using one of our regression models (i.e. linear, quadratic, exponential, logarithmic, vertically translated exponential [i.e. our temperature model], and logistic).
+        <ol>
+          <li>
+            <p>
+              Explain your choice of advertising type.  Why is it better than the others for a regression model?
+            </p>
+          </li>
+          <li>
+            <p>
+              Which model do you think is best for your choice of data?  Using the appearance of the graph, explain why you chose this model.
+            </p>
+          </li>
+          <li>
+            <p>
+              Do regressions of your data with all six models.  Which model fits the data best?  Include any information from Desmos that supports your choice of model over the other models, and include the formula for the model that fits your data best.  Explain why this model appears to be consistent with your plot on Desmos. Note that your choice here may be different than your choice in #2.  Use all available information.
+            </p>
+          </li>
+          <li>
+            <p>
+              Use your model to predict how much of your advertising would be necessary to achieve 30,000 units in sales.
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>

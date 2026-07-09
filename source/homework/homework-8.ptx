@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 122</title>
+  <title>Homework Assignment #8 - Math 122</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
+      <alert>Due Sunday, 11/15</alert>
     </p>
     <p>
       These are the requirements for all homework assignments.
@@ -36,17 +36,22 @@
   </introduction>
 
   <p>
-    Here are the problems for this assignment.  You can find them at the end of Section  of our textbook.  You may use the PDF version of the book, which can be found on Blackboard under <q>Course Information &amp; Resources</q>, or you may use the online version by clicking on on <url href="">this link</url> and scrolling down to the bottom of the page.
+    Here are the problems for this assignment.  You can find them at the end of Section 3.5 of our textbook.  You may use the PDF version of the book, which can be found on Blackboard under <q>Course Information &amp; Resources</q>, or you may use the online version by clicking on on <url href="https://activecalculus.org/prelude/sec-exp-log-properties.html">this link</url> and scrolling down to the bottom of the page.
   </p>
 
   <exercise>
     <statement>
       <p>
-        Section  (pp.  in the PDF file; at the end of the section in the HTML version)
+        Section 3.5 (pp. 198-199 in the PDF file; at the end of the section in the HTML version)
         <ul>
           <li>
             <p>
-              ( pts.) Do problem #.
+              (29 pts.) Do problem #6.  Note that the exponential model suggested in the problem is <m>Ae^{kt}</m> instead of <m>a b^t</m>.  You are welcome to use either model for this problem.  If you use <m>a b^t</m>, when they ask to determine <m>k</m>, you determine <m>b</m> instead.
+            </p>
+          </li>
+          <li>
+            <p>
+              (37 pts.) Do problem #7.  Similarly as above, you may use <m>a \cdot b^t</m> instead of <m>Ae^{-kt}</m>.  Note that for parts (c) and (d), your values for <m>A</m> and <m>k</m> (or <m>b</m>) will be different than in parts (a) and (b).
             </p>
           </li>
         </ul>
