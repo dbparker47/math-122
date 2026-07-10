@@ -22,8 +22,10 @@
 
     <chapter xml:id="exam">
       <title>Exams</title>
-      <xi:include href="./notes/week01.ptx"/>
-      <xi:include href="./notes/week02.ptx"/>
+      <xi:include href="./exams/exam-1.ptx"/>
+      <xi:include href="./exams/exam-2.ptx"/>
+      <xi:include href="./exams/exam-3.ptx"/>
+      <xi:include href="./exams/final-exam.ptx"/>
       <!-- etc. -->
     </chapter>
 

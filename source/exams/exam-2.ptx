@@ -59,8 +59,27 @@
         <p>
             (25 pts.) Consider the functions <m>p</m> and <m>q</m> whose graphs are given by the figure below.
         </p>
-
-
+        <image width="60%">
+        	<prefigure xmlns="https://prefigure.org" label="inverse-graph">
+		        <diagram dimensions="(300,300)" margins="5">
+          			<definition>f(x)=-3*(x+3)+1</definition>
+  		        	<definition>g(x)=-0.4*(x+3)+1</definition>
+          			<definition>h(x)=-2*(x-2)-1</definition>
+  		        	<definition>k(x)=4*(x+2)+4</definition>
+          			<definition>m(x)=-0.5*(x+2)+4</definition>
+  		        	<coordinates bbox="(-4,-4,4,4)">
+            			<grid-axes xlabel="x" ylabel="y" hticks="(-3,1,3)" vticks="(-3,1,3)" hlabels="(-3,1,3)" vlabels="(-3,1,3)" />
+    	        		<graph function="f" domain="(-4,-3)" />
+    			        <graph function="g" domain="(-3,2)" />
+            			<graph function="h" domain="(2,4)" />
+    	        		<graph function="k" domain="(-4,-2)" stroke="green" />
+    			        <graph function="m" domain="(-2,4)" stroke="green" />
+            			<label anchor="(-3.5,3)" alignment="n"><m>p</m> </label>
+    	        		<label anchor="(2,2)" alignment="ne"><m>q</m> </label>
+          			</coordinates>
+        		</diagram>
+        	</prefigure>
+        </image>
         <p>
             <ol>
                 <li>

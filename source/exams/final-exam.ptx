@@ -43,6 +43,18 @@
                 <p>
                     A polynomial <m>g(x)</m> has its graph given below.  Determine a possible formula for <m>g(x)</m>. Explain why your formula is consistent with the graph below.  In your explanation, explain why your function has the correct end behavior (i.e. what happens when <m>x \rightarrow \infty</m> and when <m>x \rightarrow -\infty</m>); explain why your formula has the correct <m>x</m>-intercepts; and explain why the behavior of the graph at the <m>x</m>-intercepts is consistent between your formula and the graph.
                 </p>
+                <image width="60%">
+                	<prefigure xmlns="https://prefigure.org" label="poly-graph">
+                		<diagram dimensions="(300,300)" margins="5">
+                			<definition>g(x)=-0.005*(x+3)^3*(x-1)^2*(x-4)</definition>
+                			<coordinates bbox="(-5,-5,5,5)">
+                    			<grid-axes xlabel="x" ylabel="y"/>
+                    			<graph function="g"/>
+                    			<point p="(2,g(2))" alignment="se"> <m>(2,1.25)</m> </point>
+                  			</coordinates>
+                		</diagram>
+                	</prefigure>
+                </image>
             </li>
         </ol>
       </p>

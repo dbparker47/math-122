@@ -41,6 +41,26 @@
                 <p>
                     (10 pts.) Sketch (by hand) possible graphs of how <m>V</m> and <m>t</m> change in tandem and how <m>h</m> and <m>t</m> change in tandem.  You may use the graphs below to sketch your graph, or you may use the blank paper provided.  In either case, explain why your graphs look the way they do.  Also, label any ordered pairs that you know for certain are on the graph.
                 </p>
+                <sidebyside widths="45% 45%">
+                    <image>
+	                    <prefigure xmlns="https://prefigure.org" label="blank-graph-1">
+		                    <diagram dimensions="(200,200)" margins="5">
+  			                    <coordinates bbox="(-2,-1,12,12)">
+    		                    	<grid-axes xlabel="t" ylabel="V" hticks="(2,2,10)" vticks="(2,2,10)" hlabels="no" vlabels="no" spacings="((-2,1,12),(-2,1,12))" />
+  			                    </coordinates>
+                    		</diagram>
+	                    </prefigure>
+                    </image>
+                    <image>
+	                    <prefigure xmlns="https://prefigure.org" label="blank-graph-2">
+		                    <diagram dimensions="(200,200)" margins="5">
+  		                    	<coordinates bbox="(-2,-1,12,12)">
+    	                    		<grid-axes xlabel="t" ylabel="h" hticks="(2,2,10)" vticks="(2,2,10)" hlabels="no" vlabels="no" spacings="((-2,1,12),(-2,1,12))" />
+  		                    	</coordinates>
+                    		</diagram>
+                    	</prefigure>
+                    </image>
+                </sidebyside>
             </li>
             <li>
                 <p>
@@ -56,6 +76,32 @@
     <statement>
         <p>
             (25 pts.) A person is taking a walk along a straight path. Their velocity <m>v</m> (in feet per second), which is a function of time <m>t</m> (in seconds), is given by the graph below.
+        </p>
+        <image width="60%">
+	        <prefigure xmlns="https://prefigure.org" label="walk-graph">
+		        <diagram dimensions="(200,200)" margins="5">
+  		        	<definition>f(x)=4*x</definition>
+		        	<definition>g(x)=4</definition>
+		        	<definition>h(x)=-4*(x-4)</definition>
+		        	<definition>k(x)=0</definition>
+		        	<definition>m(x)=6*(x-5)</definition>
+		        	<definition>n(x)=6</definition>
+		        	<definition>p(x)=-6*(x-9)</definition>
+  		        	<coordinates bbox="(-1,-1,9.1,9)">
+    	        		<grid-axes xlabel="t (sec)" ylabel="v (ft/sec)" hticks="(2,2,10)" vticks="(2,2,10)" hlabels="no" vlabels="no" spacings="((-2,1,12),(-2,1,12))" />
+    	        		<graph function="f" domain="(0,1)"/>
+    	        		<graph function="g" domain="(1,3)"/>
+    	        		<graph function="h" domain="(3,4)"/>
+    	        		<graph function="k" domain="(4,5)"/>
+    	        		<graph function="m" domain="(5,6)"/>
+    	        		<graph function="n" domain="(6,8)"/>
+    	        		<graph function="p" domain="(8,9)"/>
+    	        		<label anchor="(3.2,4.1)" alignment="north" scale="0.7"><m>v=f(t)</m></label>
+  		        	</coordinates>
+        		</diagram>
+	        </prefigure>
+        </image>
+        <p>
             <ol>
                 <li>
                     <p>
