@@ -34,12 +34,12 @@
         <ol>
             <li>
                 <p>
-                    (4 pts.) How long does it take the tank to fill? What will the values of $V$ and $h$ be at the moment the tank is full? Explain your reasoning and show work.
+                    (4 pts.) How long does it take the tank to fill? What will the values of <m>V</m> and <m>h</m> be at the moment the tank is full? Explain your reasoning and show work.
                 </p>
             </li>
             <li>
                 <p>
-                    (10 pts.) Sketch (by hand) possible graphs of how $V$ and $t$ change in tandem and how $h$ and $t$ change in tandem.  You may use the graphs below to sketch your graph, or you may use the blank paper provided.  In either case, explain why your graphs look the way they do.  Also, label any ordered pairs that you know for certain are on the graph.
+                    (10 pts.) Sketch (by hand) possible graphs of how <m>V</m> and <m>t</m> change in tandem and how <m>h</m> and <m>t</m> change in tandem.  You may use the graphs below to sketch your graph, or you may use the blank paper provided.  In either case, explain why your graphs look the way they do.  Also, label any ordered pairs that you know for certain are on the graph.
                 </p>
             </li>
             <li>
@@ -55,26 +55,26 @@
   <exercise>
     <statement>
         <p>
-            (25 pts.) A person is taking a walk along a straight path. Their velocity $v$ (in feet per second), which is a function of time $t$ (in seconds), is given by the graph below.
+            (25 pts.) A person is taking a walk along a straight path. Their velocity <m>v</m> (in feet per second), which is a function of time <m>t</m> (in seconds), is given by the graph below.
             <ol>
                 <li>
                     <p>
-                        (4 pts.) What is the person’s velocity when $t=2$? when $t=7$?  Explain how you got your answer from the graph.
+                        (4 pts.) What is the person's velocity when <m>t=2</m>? when <m>t=7</m>?  Explain how you got your answer from the graph.
                     </p>
                 </li>
                 <li>
                     <p>
-                        (11 pts.) Are there any times when the person’s velocity is exactly $v=3$ feet per second? If yes, identify all such times; if not, explain why.  Make sure to explain how you get your times from the graph.
+                        (11 pts.) Are there any times when the person's velocity is exactly <m>v=3</m> feet per second? If yes, identify all such times; if not, explain why.  Make sure to explain how you get your times from the graph.
                     </p>
                 </li>
                 <li>
                     <p>
-                        (4 pts.) Describe the person’s behavior on the time interval $4 \le t \le 5$.  Explain how you got your answer from the graph.
+                        (4 pts.) Describe the person's behavior on the time interval <m>4 \le t \le 5</m>.  Explain how you got your answer from the graph.
                     </p>
                 </li>
                 <li>
                     <p>
-                        (6 pts.) On which time interval does the person travel a farther distance: $[1,3]$ or $[6,8]$? Explain your answer, and show any necessary work.
+                        (6 pts.) On which time interval does the person travel a farther distance: <m>[1,3]</m> or <m>[6,8]</m>? Explain your answer, and show any necessary work.
                     </p>
                 </li>
             </ol>
@@ -85,7 +85,7 @@
   <exercise>
     <statement>
         <p>
-            (25 pts.) A cold can of soda is removed from a refrigerator. Its temperature $F$ in degrees Fahrenheit is measured at 5-minute intervals, as recorded in the following table.
+            (25 pts.) A cold can of soda is removed from a refrigerator. Its temperature <m>F</m> in degrees Fahrenheit is measured at 5-minute intervals, as recorded in the following table.
         </p>
         <tabular halign="right">
             <row>
@@ -115,22 +115,22 @@
             <ol>
                 <li>
                     <p>
-                        (6 pts.) Determine the average rate of change between $t=5$ and $t=10$.  Show work and include the appropriate units.
+                        (6 pts.) Determine the average rate of change between <m>t=5</m> and <m>t=10</m>.  Show work and include the appropriate units.
                     </p>
                 </li>
                 <li>
                     <p>
-                        (5 pts.) Write a careful sentence to describe the meaning of the number you got in (a) above.  Your sentence might look something like “On the interval ..., the temperature of the soda is ... on average by ... for each 1-unit increase in ...”.
+                        (5 pts.) Write a careful sentence to describe the meaning of the number you got in (a) above.  Your sentence might look something like <q>On the interval ..., the temperature of the soda is ... on average by ... for each 1-unit increase in ...</q>.
                     </p>
                 </li>
                 <li>
                     <p>
-                        (4 pts.) On which interval is there more total change in the soda’s temperature: $[10,20]$ or $[25,35]$?
+                        (4 pts.) On which interval is there more total change in the soda's temperature: <m>[10,20]</m> or <m>[25,35]</m>?
                     </p>
                 </li>
                 <li>
                     <p>
-                        (10 pts.) Use an appropriate average rate of change to estimate the soda’s temperature when $t=37$ minutes.  Explain why you chose that average rate of change and show all supporting work.
+                        (10 pts.) Use an appropriate average rate of change to estimate the soda's temperature when <m>t=37</m> minutes.  Explain why you chose that average rate of change and show all supporting work.
                     </p>
                 </li>
             </ol>
@@ -141,7 +141,7 @@
   <exercise>
     <statement>
         <p>
-            (25 pts.) An inverted conical tank with depth 4 feet and radius 2 feet is completely full of water. The tank is being drained by a pump in such a way that the amount of water in the tank is decreasing at a constant rate of 1.5 cubic feet per minute. Let $V=f(t)$ denote the volume of water in the tank at time $t$ and $h=g(t)$ the depth of the water in the tank at time $t$, where $t$ is measured in minutes.  Note that the volume of a cone is $\frac{\pi r^2 h}{3}$, where $r$ is the radius of the cone and $h$ is the height of the cone.
+            (25 pts.) An inverted conical tank with depth 4 feet and radius 2 feet is completely full of water. The tank is being drained by a pump in such a way that the amount of water in the tank is decreasing at a constant rate of 1.5 cubic feet per minute. Let <m>V=f(t)</m> denote the volume of water in the tank at time <m>t</m> and <m>h=g(t)</m> the depth of the water in the tank at time <m>t</m>, where <m>t</m> is measured in minutes.  Note that the volume of a cone is <m>\frac{\pi r^2 h}{3}</m>, where <m>r</m> is the radius of the cone and <m>h</m> is the height of the cone.
         </p>
 
 
@@ -154,12 +154,12 @@
                 </li>
                 <li>
                     <p>
-                        (4 pts.) Explain why volume, $V$, when viewed as a function of time, $t$, is a linear function.
+                        (4 pts.) Explain why volume, <m>V</m>, when viewed as a function of time, <m>t</m>, is a linear function.
                     </p>
                 </li>
                 <li>
                     <p>
-                        (5 pts.) Determine a formula for $V=f(t)$.  Explain your reasoning and/or show all necessary work.
+                        (5 pts.) Determine a formula for <m>V=f(t)</m>.  Explain your reasoning and/or show all necessary work.
                     </p>
                 </li>
                 <li>
@@ -169,7 +169,7 @@
                 </li>
                 <li>
                     <p>
-                        (8 pts.) What is a reasonable domain to use for the model ?$f$ What is its corresponding range?  Explain how you determined your domain and range.
+                        (8 pts.) What is a reasonable domain to use for the model <m>f</m>? What is its corresponding range?  Explain how you determined your domain and range.
                     </p>
                 </li>
             </ol>

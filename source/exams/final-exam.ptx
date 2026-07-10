@@ -27,21 +27,21 @@
   <exercise>
     <statement>
       <p>
-        (34 pts.) For the following problem, note that for a polynomial $f(x)$, if $r$ is a root of $f(x)$ (i.e. $f(r)=0$), we say that $r$ has multiplicity $k$ if we can factor out $(x-r)^k$ from $f(x)$.  So for the polynomial $f(x) = 5(x-4)^5(x+6)^3$, the root 4 has multiplicity $5$ and the root $-6$ has multiplicity $3$.
+        (34 pts.) For the following problem, note that for a polynomial <m>f(x)</m>, if <m>r</m> is a root of <m>f(x)</m> (i.e. <m>f(r)=0</m>), we say that <m>r</m> has multiplicity <m>k</m> if we can factor out <m>(x-r)^k</m> from <m>f(x)</m>.  So for the polynomial <m>f(x) = 5(x-4)^5(x+6)^3</m>, the root 4 has multiplicity 5 and the root <m>-6</m> has multiplicity 3.
         <ol>
             <li>
                 <p>
-                    Find a formula for a polynomial that has roots at $x=-3$ and $x=5$, where both roots have multiplicity 2, and where the $y$-intercept is at $(0,28)$.
+                    Find a formula for a polynomial that has roots at <m>x=-3</m> and <m>x=5</m>, where both roots have multiplicity 2, and where the <m>y</m>-intercept is at <m>(0,28)</m>.
                 </p>
             </li>
             <li>
                 <p>
-                    Find the formula for a polynomial that has degree 9, has roots of multiplicity 1 at $x=-3$ and $x=5$, has roots of multiplicity 2 at $x=-2$ and $x=3$, and has a root of multiplicity 3 at $x=1$.  Also, as $x \rightarrow \infty$, we have $f(x) \rightarrow -\infty$.
+                    Find the formula for a polynomial that has degree 9, has roots of multiplicity 1 at <m>x=-3</m> and <m>x=5</m>, has roots of multiplicity 2 at <m>x=-2</m> and <m>x=3</m>, and has a root of multiplicity 3 at <m>x=1</m>.  Also, as <m>x \rightarrow \infty</m>, we have <m>f(x) \rightarrow -\infty</m>.
                 </p>
             </li>
             <li>
                 <p>
-                    A polynomial $g(x)$ has its graph given below.  Determine a possible formula for $g(x)$. Explain why your formula is consistent with the graph below.  In your explanation, explain why your function has the correct end behavior (i.e. what happens when $x \rightarrow \infty$ and when $x \rightarrow -\infty$); explain why your formula has the correct $x$-intercepts; and explain why the behavior of the graph at the $x$-intercepts is consistent between your formula and the graph.
+                    A polynomial <m>g(x)</m> has its graph given below.  Determine a possible formula for <m>g(x)</m>. Explain why your formula is consistent with the graph below.  In your explanation, explain why your function has the correct end behavior (i.e. what happens when <m>x \rightarrow \infty</m> and when <m>x \rightarrow -\infty</m>); explain why your formula has the correct <m>x</m>-intercepts; and explain why the behavior of the graph at the <m>x</m>-intercepts is consistent between your formula and the graph.
                 </p>
             </li>
         </ol>
@@ -52,7 +52,7 @@
   <exercise>
     <statement>
         <p>
-            (27 pts.) A rectangular box is being constructed so that its base is twice as long as it is wide. In addition, the base and top of the box cost \$2 per square foot while the sides cost \$1.50 per square foot. We only want to spend \$10 on materials for the box.  Let $w$ be the width of the base, $\ell$ be the length of the base, and $h$ be the height of the box.
+            (27 pts.) A rectangular box is being constructed so that its base is twice as long as it is wide. In addition, the base and top of the box cost $2 per square foot while the sides cost $1.50 per square foot. We only want to spend $10 on materials for the box.  Let <m>w</m> be the width of the base, <m>\ell</m> be the length of the base, and <m>h</m> be the height of the box.
             <ol>
                 <li>
                     <p>
@@ -61,7 +61,7 @@
                 </li>
                 <li>
                     <p>
-                        (11 pts.) We know the total cost of the box is \$10, but what is the total cost of the box in terms of $w$, $\ell$, and $h$?
+                        (11 pts.) We know the total cost of the box is $10, but what is the total cost of the box in terms of <m>w</m>, <m>\ell</m>, and <m>h</m>?
                     </p>
                 </li>
                 <li>
@@ -73,19 +73,4 @@
         </p>
     </statement>
   </exercise>
-  <exercise>
-    <statement>
-        <p>
-            ( pts.) 
-        </p>
-    </statement>
-  </exercise>
-  <exercise>
-    <statement>
-        <p>
-            ( pts.) 
-        </p>
-    </statement>
-  </exercise>
-
 </worksheet>

@@ -27,11 +27,11 @@
   <exercise>
     <statement>
       <p>
-        (25 pts.) Jojo has credit card debt of \$1000.  The card has an annual interest rate of 18\% compounded every month, with a minimum monthly payment of \$20.  When a payment is made, the interest is computed before the payment is applied to the balance.
+        (25 pts.) Jojo has credit card debt of $1000.  The card has an annual interest rate of 18% compounded every month, with a minimum monthly payment of $20.  When a payment is made, the interest is computed before the payment is applied to the balance.
         <ol>
             <li>
                 <p>
-                    Determine Jojo's balance after 6 months if they pay $\$x$ per month.  Show all work, and do not use any formulas that you cannot justify.
+                    Determine Jojo's balance after 6 months if they pay $<m>x</m> per month.  Show all work, and do not use any formulas that you cannot justify.
                 </p>
             </li>
             <li>
@@ -47,48 +47,48 @@
   <exercise>
     <statement>
         <p>
-            (35 pts.) A new car is purchased for \$28000. Exactly year later, the value of the car is \$23200.
+            (35 pts.) A new car is purchased for $28000. Exactly year later, the value of the car is $23200.
             <ol>
                 <li>
                     <p>
-                        Assume that the car’s value in dollars, $V$, $t$ years after purchase decays exponentially according to a model of form $V(t) = Ae^{-kt}$ or $V(t)=Ab^t$ (your choice).  Determine the exact values of $A$ and either $k$ or $b$ in the model.
+                        Assume that the car's value in dollars, <m>V</m>, <m>t</m> years after purchase decays exponentially according to a model of form <m>V(t) = Ae^{-kt}</m> or <m>V(t)=Ab^t</m> (your choice).  Determine the exact values of <m>A</m> and either <m>k</m> or <m>b</m> in the model.
                     </p>
                 </li>
                 <li>
                     <p>
-                        Using your model from (a), how many years will it take until the car’s value is \$10000?
+                        Using your model from (a), how many years will it take until the car's value is $10000?
                     </p>
                 </li>
                 <li>
                     <p>
-                        Suppose that rather than having the car’s value decay all the way to \$0, the lowest dollar amount its value ever approaches is \$500.  What is your function if the model we use is either $V(t) = Ae^{-kt}+c$ or $V(t)=Ab^t+c$ (your choice)?
+                        Suppose that rather than having the car's value decay all the way to $0, the lowest dollar amount its value ever approaches is $500.  What is your function if the model we use is either <m>V(t) = Ae^{-kt}+c</m> or <m>V(t)=Ab^t+c</m> (your choice)?
                     </p>
                 </li>
             </ol>
         </p>
     </statement>
   </exercise>
+
   <exercise>
     <statement>
         <p>
             (15 pts.) A popular cruise ship sets sail in the Gulf of Mexico with 5000 passengers and crew on board. Unfortunately, five family members who board the ship are carrying a highly contagious virus. After interacting with many other passengers in the first few hours of the cruise, all five of them get very sick.
         </p>
         <p>
-            Let $S(t)$ be the number of people who have acquired the virus $t$ days after the ship has left port. It turns out that a logistic function is a good model for $S$, and thus we assume that
-\[
-S(t) = \frac{A}{1+Me^{-kt}} \hbox{\qquad or \qquad} S(t) = \frac{A}{1+Mb^t}
-\]
-for some positive constants $A$, $M$, and either $k$ or $b$ (your choice). Suppose that after 1 day, 20 people have gotten the virus.
+            Let <m>S(t)</m> be the number of people who have acquired the virus <m>t</m> days after the ship has left port. It turns out that a logistic function is a good model for <m>S</m>, and thus we assume that
+            <md>S(t) = \frac{A}{1+Me^{-kt}} \hbox{\qquad or \qquad} S(t) = \frac{A}{1+Mb^t}</md>
+            for some positive constants <m>A</m>, <m>M</m>, and either <m>k</m> or <m>b</m> (your choice). Suppose that after 1 day, 20 people have gotten the virus.
         </p>
         <p>
-            Recall that we know $S(0) = 5$ and $S(1)=20$. In addition, assume that 5000 is the number of people who will eventually get sick. Use this information determine the exact values of $A$, $M$, and either $k$ or $b$ in the logistic model.
+            Recall that we know <m>S(0) = 5</m> and <m>S(1)=20</m>. In addition, assume that 5000 is the number of people who will eventually get sick. Use this information determine the exact values of <m>A</m>, <m>M</m>, and either <m>k</m> or <m>b</m> in the logistic model.
         </p>
     </statement>
   </exercise>
+
   <exercise>
     <statement>
         <p>
-            (25 pts.) The next problem is based on data given on the Google sheets file whose link is given below (you may also find the link on Blackboard on the file for Exam 3 in ``Exam Information &amp; Resources'' or the file for Homework \#9): <url href="https://docs.google.com/spreadsheets/d/15jiILXFZ1xbTnMpvS1VursIj3zmeEUshVfgxwTszy80/edit?usp=drive_link">Advertising Data</url>
+            (25 pts.) The next problem is based on data given on the Google sheets file from Homework #9. You can find the link to the data on Blackboard on the document for Exam 3 in <q>Exam Information &amp; Resources</q> or on the file for Homework #9.  It is also right here: <url href="https://docs.google.com/spreadsheets/d/15jiILXFZ1xbTnMpvS1VursIj3zmeEUshVfgxwTszy80/edit?usp=drive_link">Advertising Data</url>
             <ol>
                 <li>
                     <p>

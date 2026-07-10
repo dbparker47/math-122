@@ -27,7 +27,7 @@
   <exercise>
     <statement>
       <p>
-        (25 pts.) A water balloon is tossed vertically from a window on the fourth floor of a dormitory from an initial height of 56.3 feet. A person two floors above observes the balloon reach its highest point 1.2 seconds after being launched.  For each of the following problems, note that the height $h(t)$ of the balloon at time $t$ is given by the formula $h(t) = -16t^2+v_0t+h_0$, where $v_0$ is the initial velocity of the balloon and $h_0$ is the initial height of the balloon.
+        (25 pts.) A water balloon is tossed vertically from a window on the fourth floor of a dormitory from an initial height of 56.3 feet. A person two floors above observes the balloon reach its highest point 1.2 seconds after being launched.  For each of the following problems, note that the height <m>h(t)</m> of the balloon at time <m>t</m> is given by the formula <m>h(t) = -16t^2+v_0t+h_0</m>, where <m>v_0</m> is the initial velocity of the balloon and <m>h_0</m> is the initial height of the balloon.
         <ol>
             <li>
                 <p>
@@ -36,12 +36,12 @@
             </li>
             <li>
                 <p>
-                    What is the balloon’s exact height at $t=2.4$? Why?
+                    What is the balloon's exact height at <m>t=2.4</m>? Why?
                 </p>
             </li>
             <li>
                 <p>
-                    What is the exact maximum height the balloon reaches at $t=1.2$?
+                    What is the exact maximum height the balloon reaches at <m>t=1.2</m>?
                 </p>
             </li>
             <li>
@@ -57,7 +57,7 @@
   <exercise>
     <statement>
         <p>
-            (25 pts.) Consider the functions $p$ and $q$ whose graphs are given by the figure below.
+            (25 pts.) Consider the functions <m>p</m> and <m>q</m> whose graphs are given by the figure below.
         </p>
 
 
@@ -65,27 +65,28 @@
             <ol>
                 <li>
                     <p>
-                        Compute each of the following values exactly, or explain why they are not defined: $p^{-1}(2.5)$, $p^{-1}(-2)$, $p^{-1}(0)$, and $q^{-1}(2)$.  You may determine these values by observing the graph.  You do not have to find formulas for the lines on the graph.  Explain how you determined your answers.
+                        Compute each of the following values exactly, or explain why they are not defined: <m>p^{-1}(2.5)</m>, <m>p^{-1}(-2)</m>, <m>p^{-1}(0)</m>, and <m>q^{-1}(2)</m>.  You may determine these values by observing the graph.  You do not have to find formulas for the lines on the graph.  Explain how you determined your answers.
                     </p>
                 </li>
                 <li>
                     <p>
-                        From your work in (a), you know that the point $(2.5,-3.5)$ lies on the graph of $p^{-1}$. In addition to the other two points you know from (a), find three additional points that lie on the graph of $p^{-1}$.  In other words, find the three points on the graph of $p^{-1}$ from your work in part (a), and then find three additional points on the graph of $p^{-1}$.
+                        From your work in (a), you know that the point <m>(2.5,-3.5)</m> lies on the graph of <m>p^{-1}</m>. In addition to the other two points you know from (a), find three additional points that lie on the graph of <m>p^{-1}</m>.  In other words, find the three points on the graph of <m>p^{-1}</m> from your work in part (a), and then find three additional points on the graph of <m>p^{-1}</m>.
                     </p>
                 </li>
                 <li>
                     <p>
-                        Plot the points you have determined in (a) and (b) that lie on the graph of $y=p^{-1}(x)$. Then, sketch the complete graph of $y=p^{-1}(x)$.  Explain how you determined the graph.
+                        Plot the points you have determined in (a) and (b) that lie on the graph of <m>y=p^{-1}(x)</m>. Then, sketch the complete graph of <m>y=p^{-1}(x)</m>.  Explain how you determined the graph.
                     </p>
                 </li>
             </ol>
         </p>
     </statement>
   </exercise>
+
   <exercise>
     <statement>
         <p>
-            (30 pts.) Jojo is competing in an Ironman triathlon, which consists of a 2.4-mile swim, a 112-mile bike, and a 26.2-mile run.  Our goal in this problem is to model Jojo's position $s(t)$ (i.e. the distance from the start line of the race) as a function of time, but \textbf{\emph{only for the swim and the bike}}.  Ultimately, you will express $s(t)$ as both a piecewise function and a graph.  The time $t$ is given in hours, and the position $s(t)$ is given in miles.  Here is a description of the different stages of Jojo's race.
+            (30 pts.) Jojo is competing in an Ironman triathlon, which consists of a 2.4-mile swim, a 112-mile bike, and a 26.2-mile run.  Our goal in this problem is to model Jojo's position <m>s(t)</m> (i.e. the distance from the start line of the race) as a function of time, but <alert>only for the swim and the bike</alert>.  Ultimately, you will express <m>s(t)</m> as both a piecewise function and a graph.  The time <m>t</m> is given in hours, and the position <m>s(t)</m> is given in miles.  Here is a description of the different stages of Jojo's race.
             <ul>
                 <li>
                     <p>
@@ -107,18 +108,19 @@
             <ol>
                 <li>
                     <p>
-                        Express $s(t)$ for the swim, transition, and biking portion of the race as a piecewise function.  Make sure to justify all formulas involved with the function, as well as to make clear which inputs go with which formula.  Explain your reasoning and show all work.
+                        Express <m>s(t)</m> for the swim, transition, and biking portion of the race as a piecewise function.  Make sure to justify all formulas involved with the function, as well as to make clear which inputs go with which formula.  Explain your reasoning and show all work.
                     </p>
                 </li>
                 <li>
                     <p>
-                        Sketch a graph of $s(t)$ for the swim, transition, and biking portion of the race.  Label the points that represent the beginning of the race, the end of the swim portion, the end of the transition between the swim portion and the biking portion, and the end of the biking portion.
+                        Sketch a graph of <m>s(t)</m> for the swim, transition, and biking portion of the race.  Label the points that represent the beginning of the race, the end of the swim portion, the end of the transition between the swim portion and the biking portion, and the end of the biking portion.
                     </p>
                 </li>
             </ol>
         </p>
     </statement>
   </exercise>
+
   <exercise>
     <statement>
         <p>
@@ -126,7 +128,7 @@
             <ol>
                 <li>
                     <p>
-                        Let $G(t)$ denote the area of Grinnell Glacier in acres in year $t$, where $t$ is the number of years since 2007. Find a formula for $G(t)$.  Show all supporting work and/or explain how you got your formula.
+                        Let <m>G(t)</m> denote the area of Grinnell Glacier in acres in year <m>t</m>, where <m>t</m> is the number of years since 2007. Find a formula for <m>G(t)</m>.  Show all supporting work and/or explain how you got your formula.
                     </p>
                 </li>
                 <li>
@@ -141,7 +143,7 @@
                 </li>
                 <li>
                     <p>
-                        What was the average rate of change of $G$ from 2007 to 2012? Write a sentence to explain the meaning of this number and include units on your answer. In addition, how does this compare to the average rate of change of $G$ from 2012 to 2017?
+                        What was the average rate of change of <m>G</m> from 2007 to 2012? Write a sentence to explain the meaning of this number and include units on your answer. In addition, how does this compare to the average rate of change of <m>G</m> from 2012 to 2017?
                     </p>
                 </li>
             </ol>
