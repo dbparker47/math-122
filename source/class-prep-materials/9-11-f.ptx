@@ -53,7 +53,7 @@
             <tabular halign="right">
               <row>
                 <cell bottom="minor" right="minor">Time (seconds)</cell>
-                <cell bottom="minor" right="minor"><m>1</m></cell>
+                <cell bottom="minor" right="minor">1</cell>
                 <cell bottom="minor" right="minor">2.5</cell>
                 <cell bottom="minor" right="minor">3</cell>
                 <cell bottom="minor" right="minor">5</cell>
@@ -61,7 +61,7 @@
               </row>
               <row>
                 <cell right="minor">Distance (feet)</cell>
-                <cell right="minor"><m>-4</m></cell>
+                <cell right="minor">4</cell>
                 <cell right="minor">9</cell>
                 <cell right="minor">16</cell>
                 <cell right="minor">30</cell>

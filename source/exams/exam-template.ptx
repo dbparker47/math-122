@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet>
+  <title>Exam 1 - Math 122</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      You will solve each of the following problems, making sure to justify them with explanation and supporting computations.  Keep the following in mind.
+      <ul>
+        <li>
+            <p>
+                On all problems, you must show all work necessary to justify your solution.
+            </p>
+        </li>
+        <li>
+            <p>
+                On all problems, you must find a way to explain your reasoning.  You must do this in complete sentences.
+            </p>
+        </li>
+      </ul>
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) 
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+        <p>
+            ( pts.) 
+        </p>
+    </statement>
+  </exercise>
+  
+  <exercise>
+    <statement>
+        <p>
+            ( pts.) 
+        </p>
+    </statement>
+  </exercise>
+  
+  <exercise>
+    <statement>
+        <p>
+            ( pts.) 
+        </p>
+    </statement>
+  </exercise>
+
+</worksheet>

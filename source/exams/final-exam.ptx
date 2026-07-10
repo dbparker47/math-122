@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet>
+  <title>Final Exam - Math 122</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      You will solve each of the following problems, making sure to justify them with explanation and supporting computations.  Keep the following in mind.
+      <ul>
+        <li>
+            <p>
+                On all problems, you must show all work necessary to justify your solution.
+            </p>
+        </li>
+        <li>
+            <p>
+                On all problems, you must find a way to explain your reasoning.  You must do this in complete sentences.
+            </p>
+        </li>
+      </ul>
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+  <exercise>
+    <statement>
+      <p>
+        (34 pts.) For the following problem, note that for a polynomial $f(x)$, if $r$ is a root of $f(x)$ (i.e. $f(r)=0$), we say that $r$ has multiplicity $k$ if we can factor out $(x-r)^k$ from $f(x)$.  So for the polynomial $f(x) = 5(x-4)^5(x+6)^3$, the root 4 has multiplicity $5$ and the root $-6$ has multiplicity $3$.
+        <ol>
+            <li>
+                <p>
+                    Find a formula for a polynomial that has roots at $x=-3$ and $x=5$, where both roots have multiplicity 2, and where the $y$-intercept is at $(0,28)$.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Find the formula for a polynomial that has degree 9, has roots of multiplicity 1 at $x=-3$ and $x=5$, has roots of multiplicity 2 at $x=-2$ and $x=3$, and has a root of multiplicity 3 at $x=1$.  Also, as $x \rightarrow \infty$, we have $f(x) \rightarrow -\infty$.
+                </p>
+            </li>
+            <li>
+                <p>
+                    A polynomial $g(x)$ has its graph given below.  Determine a possible formula for $g(x)$. Explain why your formula is consistent with the graph below.  In your explanation, explain why your function has the correct end behavior (i.e. what happens when $x \rightarrow \infty$ and when $x \rightarrow -\infty$); explain why your formula has the correct $x$-intercepts; and explain why the behavior of the graph at the $x$-intercepts is consistent between your formula and the graph.
+                </p>
+            </li>
+        </ol>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+        <p>
+            (27 pts.) A rectangular box is being constructed so that its base is twice as long as it is wide. In addition, the base and top of the box cost \$2 per square foot while the sides cost \$1.50 per square foot. We only want to spend \$10 on materials for the box.  Let $w$ be the width of the base, $\ell$ be the length of the base, and $h$ be the height of the box.
+            <ol>
+                <li>
+                    <p>
+                        (3 pts.) What is the volume of the box?
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        (11 pts.) We know the total cost of the box is \$10, but what is the total cost of the box in terms of $w$, $\ell$, and $h$?
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        (13 pts.) Write the volume of the box in terms of one variable.
+                    </p>
+                </li>
+            </ol>
+        </p>
+    </statement>
+  </exercise>
+  <exercise>
+    <statement>
+        <p>
+            ( pts.) 
+        </p>
+    </statement>
+  </exercise>
+  <exercise>
+    <statement>
+        <p>
+            ( pts.) 
+        </p>
+    </statement>
+  </exercise>
+
+</worksheet>

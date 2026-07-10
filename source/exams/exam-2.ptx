@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet>
+  <title>Exam 2 - Math 122</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      You will solve each of the following problems, making sure to justify them with explanation and supporting computations.  Keep the following in mind.
+      <ul>
+        <li>
+            <p>
+                On all problems, you must show all work necessary to justify your solution.
+            </p>
+        </li>
+        <li>
+            <p>
+                On all problems, you must find a way to explain your reasoning.  You must do this in complete sentences.
+            </p>
+        </li>
+      </ul>
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+  <exercise>
+    <statement>
+      <p>
+        (25 pts.) A water balloon is tossed vertically from a window on the fourth floor of a dormitory from an initial height of 56.3 feet. A person two floors above observes the balloon reach its highest point 1.2 seconds after being launched.  For each of the following problems, note that the height $h(t)$ of the balloon at time $t$ is given by the formula $h(t) = -16t^2+v_0t+h_0$, where $v_0$ is the initial velocity of the balloon and $h_0$ is the initial height of the balloon.
+        <ol>
+            <li>
+                <p>
+                    At what initial velocity was the balloon launched?
+                </p>
+            </li>
+            <li>
+                <p>
+                    What is the balloon’s exact height at $t=2.4$? Why?
+                </p>
+            </li>
+            <li>
+                <p>
+                    What is the exact maximum height the balloon reaches at $t=1.2$?
+                </p>
+            </li>
+            <li>
+                <p>
+                    What exact time did the balloon land on the ground?
+                </p>
+            </li>
+        </ol>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+        <p>
+            (25 pts.) Consider the functions $p$ and $q$ whose graphs are given by the figure below.
+        </p>
+
+
+        <p>
+            <ol>
+                <li>
+                    <p>
+                        Compute each of the following values exactly, or explain why they are not defined: $p^{-1}(2.5)$, $p^{-1}(-2)$, $p^{-1}(0)$, and $q^{-1}(2)$.  You may determine these values by observing the graph.  You do not have to find formulas for the lines on the graph.  Explain how you determined your answers.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        From your work in (a), you know that the point $(2.5,-3.5)$ lies on the graph of $p^{-1}$. In addition to the other two points you know from (a), find three additional points that lie on the graph of $p^{-1}$.  In other words, find the three points on the graph of $p^{-1}$ from your work in part (a), and then find three additional points on the graph of $p^{-1}$.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Plot the points you have determined in (a) and (b) that lie on the graph of $y=p^{-1}(x)$. Then, sketch the complete graph of $y=p^{-1}(x)$.  Explain how you determined the graph.
+                    </p>
+                </li>
+            </ol>
+        </p>
+    </statement>
+  </exercise>
+  <exercise>
+    <statement>
+        <p>
+            (30 pts.) Jojo is competing in an Ironman triathlon, which consists of a 2.4-mile swim, a 112-mile bike, and a 26.2-mile run.  Our goal in this problem is to model Jojo's position $s(t)$ (i.e. the distance from the start line of the race) as a function of time, but \textbf{\emph{only for the swim and the bike}}.  Ultimately, you will express $s(t)$ as both a piecewise function and a graph.  The time $t$ is given in hours, and the position $s(t)$ is given in miles.  Here is a description of the different stages of Jojo's race.
+            <ul>
+                <li>
+                    <p>
+                        Jojo swims at a rate of 2.5 miles per hour for all of the swim.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        After leaving the water, Jojo takes 0.05 hours (3 minutes) to transition between the swim and the bike.  No distance is traveled during this time.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Jojo bikes at a rate of 21 miles per hour for all of the biking portion.
+                    </p>
+                </li>
+            </ul>
+            You will do two things.
+            <ol>
+                <li>
+                    <p>
+                        Express $s(t)$ for the swim, transition, and biking portion of the race as a piecewise function.  Make sure to justify all formulas involved with the function, as well as to make clear which inputs go with which formula.  Explain your reasoning and show all work.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Sketch a graph of $s(t)$ for the swim, transition, and biking portion of the race.  Label the points that represent the beginning of the race, the end of the swim portion, the end of the transition between the swim portion and the biking portion, and the end of the biking portion.
+                    </p>
+                </li>
+            </ol>
+        </p>
+    </statement>
+  </exercise>
+  <exercise>
+    <statement>
+        <p>
+            (20 pts.) Grinnell Glacier in Glacier National Park in Montana covered about 142 acres in 2007 and was found to be shrinking at about 4.4% per year.
+            <ol>
+                <li>
+                    <p>
+                        Let $G(t)$ denote the area of Grinnell Glacier in acres in year $t$, where $t$ is the number of years since 2007. Find a formula for $G(t)$.  Show all supporting work and/or explain how you got your formula.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        How many acres of ice were in the glacier in 1997? In 2012? What does the model predict for 2022?
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        How many total acres of ice were lost from 2007 to 2012?
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        What was the average rate of change of $G$ from 2007 to 2012? Write a sentence to explain the meaning of this number and include units on your answer. In addition, how does this compare to the average rate of change of $G$ from 2012 to 2017?
+                    </p>
+                </li>
+            </ol>
+        </p>
+    </statement>
+  </exercise>
+
+</worksheet>
