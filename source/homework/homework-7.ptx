@@ -31,7 +31,7 @@
           </p>
         </li>
       </ul>
-      You may turn in your assignment as a hard copy in class, or you may submit your assignment electronically on Blackboard.  <alert>If you turn in your assignment electronically, you <em>must</em> convert it to a PDF file.</alert>.
+      You may turn in your assignment as a hard copy in class, or you may submit your assignment electronically on Blackboard.  <alert>If you turn in your assignment electronically, you <em>must</em> convert it to a PDF file</alert>.
     </p>
   </introduction>
 
@@ -56,7 +56,7 @@
           </li>
           <li>
             <p>
-              Compare the amount of money that Jojo paid in #1 and #2, and compare that to the difference in the amount of Jojo's debt that was paid off in #1 and #2.  Briefly discuss anything that seemed disproportionate between the difference in payment versus the difference in debt paid off (i.e. did one of those differences seem proportionately smaller than the other?).
+              Compare the amount of money that Jojo paid in part (a) and part (b), and compare that to the difference in the amount of Jojo's debt that was paid off in part (a) and part (b).  Briefly discuss anything that seemed disproportionate between the difference in payment versus the difference in debt paid off (i.e. did one of those differences seem proportionately smaller than the other?).
             </p>
           </li>
           <li>
@@ -66,12 +66,12 @@
           </li>
           <li>
             <p>
-              Use your answer to #4 to determine how much Jojo's monthly payment must be to pay off their debt in 6 months.  Hint:  What should your answer to \#4 be equal to?
+              Use your answer to part (d) to determine how much Jojo's monthly payment must be to pay off their debt in 6 months.  Hint:  What should your answer to part (d) be equal to?
             </p>
           </li>
           <li>
             <p>
-              Now suppose Jojo has credit card debt of $<m>A</m> with an annual interest rate of <m>r</m>, compounded every month.  Find a formula for how much Jojo's monthly payment needs to be in order to pay their debt off in 6 months.  Show all work.  I suggest using the same reasoning as you did in #5.
+              Now suppose Jojo has credit card debt of $<m>A</m> with an annual interest rate of <m>r</m>, compounded every month.  Find a formula for how much Jojo's monthly payment needs to be in order to pay their debt off in 6 months.  Show all work.  I suggest using the same reasoning as you did in part (e).
             </p>
           </li>
         </ol>

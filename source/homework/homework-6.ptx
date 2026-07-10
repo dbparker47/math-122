@@ -31,7 +31,7 @@
           </p>
         </li>
       </ul>
-      You may turn in your assignment as a hard copy in class, or you may submit your assignment electronically on Blackboard.  <alert>If you turn in your assignment electronically, you <em>must</em> convert it to a PDF file.</alert>.
+      You may turn in your assignment as a hard copy in class, or you may submit your assignment electronically on Blackboard.  <alert>If you turn in your assignment electronically, you <em>must</em> convert it to a PDF file</alert>.
     </p>
   </introduction>
 
@@ -139,7 +139,7 @@
           </li>
           <li>
             <p>
-              Find a formula for Jojo's position $s(t)$ during the transition between the bike and the run.
+              Find a formula for Jojo's position <m>s(t)</m> during the transition between the bike and the run.
             </p>
           </li>
           <li>
