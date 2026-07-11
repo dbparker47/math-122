@@ -189,7 +189,7 @@
         <p>
             (25 pts.) An inverted conical tank with depth 4 feet and radius 2 feet is completely full of water. The tank is being drained by a pump in such a way that the amount of water in the tank is decreasing at a constant rate of 1.5 cubic feet per minute. Let <m>V=f(t)</m> denote the volume of water in the tank at time <m>t</m> and <m>h=g(t)</m> the depth of the water in the tank at time <m>t</m>, where <m>t</m> is measured in minutes.  Note that the volume of a cone is <m>\frac{\pi r^2 h}{3}</m>, where <m>r</m> is the radius of the cone and <m>h</m> is the height of the cone.
         </p>
-        <image source="exams/exam-1-cone.png" width="60%">
+        <image source="images/exam-1-cone.png" width="60%">
             <description>
                 <p>
                     A cone of radius 2 and height 4.  It has water in it that is radius <m>r</m> and height <m>h</m>.
