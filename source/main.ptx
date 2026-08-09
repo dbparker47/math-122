@@ -16,7 +16,8 @@
     <chapter xml:id="course-documents">
       <title>Course Documents</title>
       <!-- Course syllabus -->
-      <xi:include href="./documents/syllabus.ptx" />
+      <xi:include href="./documents/syllabus-17.ptx" />
+      <xi:include href="./documents/syllabus-19.ptx" />
       <xi:include href="./documents/objectives.ptx" />
     </chapter>
 
