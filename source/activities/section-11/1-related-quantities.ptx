@@ -61,7 +61,9 @@
   </exercise>
   <sidebyside widths="45% 45%">
     <image>
-      <description><p>Volume Graph</p></description>
+      <shortdescription>
+        A graph of volume versus time.  The graph is a line moving up and to the right and starting at the origin.
+      </shortdescription>
 	    <prefigure xmlns="https://prefigure.org" label="related-graph-volume">
         <diagram dimensions="(300,300)" margins="5">
           <definition>f(x)=(5/8)*x</definition>
@@ -74,7 +76,14 @@
       </prefigure>
     </image>
     <image>
-      <description><p>Height Graph</p></description>
+      <shortdescription>
+        A graph of height versus time.  The graph starts at the origin and moves up and to the right in a nonlinear fashion.
+      </shortdescription>
+      <description>
+        <p>
+          From the origin, the graph becomes steadily steeper until time equal to about 3 minutes.  Then the graph becomes steadily less steep through the end of the graph, at time equal to 6 minutes.
+        </p>
+      </description>
 	    <prefigure xmlns="https://prefigure.org" label="related-graph-height">
         <diagram dimensions="(300, 300)" margins="5">
           <definition>f(x)=0.25*x^2</definition>
