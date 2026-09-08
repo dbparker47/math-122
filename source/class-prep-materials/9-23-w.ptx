@@ -61,6 +61,9 @@
           <li>
             <p>First graph</p>
             <image width="50%">
+              <shortdescription>
+                A graph with the points (1,4), (3,2), and (7,10).
+              </shortdescription>
 	            <prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-1">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
@@ -79,6 +82,9 @@
           <li>
             <p>Second graph</p>
             <image width="50%">
+              <shortdescription>
+                A graph with the points (-3,-3), (-2,3), and (2,-13).
+              </shortdescription>
             	<prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-2">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
@@ -97,6 +103,9 @@
           <li>
             <p>Third graph</p>
             <image width="50%">
+              <shortdescription>
+                A graph with the points (1,0), (2,2), and (4,3).
+              </shortdescription>
             	<prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-3">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
@@ -115,6 +124,9 @@
           <li>
             <p>Fourth graph</p>
             <image width="50%">
+              <shortdescription>
+                A graph with the points (1,2), (2,3), and (3,4).
+              </shortdescription>
             	<prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-4">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>

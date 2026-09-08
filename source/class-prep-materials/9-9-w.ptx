@@ -178,6 +178,14 @@
               Suppose the graph below is of time <m>t</m> versus distance <m>d(t)</m>.  What is the average velocity between <m>t=4</m> and <m>t=12</m>?
             </p>
             <image width="60%">
+              <shortdescription>
+                A continuous graph of distance as a function of time.
+              </shortdescription>
+              <description>
+                <p>
+                  Graph begins at (0,0) and increases to just above y=3 and before x=4. Graph then decreases through the point (4,3) and stops decreasing at about x=6.  Graph then increases through the point (12,9) and continues increasing to the upper right corner of the graph.
+                </p>
+              </description>
 	            <prefigure xmlns="https://prefigure.org" label="velocity-graph-prep">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
