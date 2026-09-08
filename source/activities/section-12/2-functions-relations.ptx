@@ -116,6 +116,14 @@
 
   <exercise>
     <image width="50%">
+      <shortdescription>
+        Graph of a relation in one continuous piece.
+      </shortdescription>
+      <description>
+        <p>
+          Graph begins in upper left corner of graph.  It traces downhill and to the right, crossing the y-axis.  It then turns downhill and to the left, again crossing the y-axis. It then turns downhill and to the right, crossing the y-axis again and terminating near the lower right corner of the graph.
+        </p>
+      </description>
     	<prefigure xmlns="https://prefigure.org" label="relation-function-2">
         <diagram dimensions="(300, 300)" margins="5">
           <definition>f(x)=sqrt(x+2)</definition>
