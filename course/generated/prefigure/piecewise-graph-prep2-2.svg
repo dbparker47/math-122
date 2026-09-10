@@ -197,7 +197,7 @@
         </svg>
       </g>
     </g>
-    <circle cx="35.0" cy="42.5" r="4" stroke="black" stroke-width="2" fill="red"/>
+    <circle cx="35.0" cy="42.5" r="4" stroke="blue" stroke-width="2" fill="blue"/>
   </g>
   <g id="piecewise-graph-prep2-2-g-1">
     <g transform="translate(90.0,262.5) translate(-68.4,-18.1)">
@@ -245,7 +245,7 @@
         </svg>
       </g>
     </g>
-    <circle cx="95.0" cy="267.5" r="4" stroke="black" stroke-width="2" fill="red"/>
+    <circle cx="95.0" cy="267.5" r="4" stroke="blue" stroke-width="2" fill="blue"/>
   </g>
   <g id="piecewise-graph-prep2-2-g-2">
     <g transform="translate(160.0,37.5) translate(0.0,-18.1)">
@@ -282,7 +282,7 @@
         </svg>
       </g>
     </g>
-    <circle cx="155.0" cy="42.5" r="4" stroke="black" stroke-width="2" fill="red"/>
+    <circle cx="155.0" cy="42.5" r="4" stroke="blue" stroke-width="2" fill="blue"/>
   </g>
   <g id="piecewise-graph-prep2-2-g-3">
     <g transform="translate(185.0,106.8) translate(-27.2,-0.0)">
@@ -322,7 +322,7 @@
         </svg>
       </g>
     </g>
-    <circle cx="185.0" cy="98.8" r="4" stroke="black" stroke-width="2" fill="red"/>
+    <circle cx="185.0" cy="98.8" r="4" stroke="blue" stroke-width="2" fill="blue"/>
   </g>
   <g id="piecewise-graph-prep2-2-g-4">
     <g transform="translate(275.0,34.5) translate(-20.1,-18.1)">
@@ -359,6 +359,6 @@
         </svg>
       </g>
     </g>
-    <circle cx="275.0" cy="42.5" r="4" stroke="black" stroke-width="2" fill="red"/>
+    <circle cx="275.0" cy="42.5" r="4" stroke="blue" stroke-width="2" fill="blue"/>
   </g>
 </svg>
