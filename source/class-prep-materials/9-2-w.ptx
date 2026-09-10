@@ -94,7 +94,7 @@
                 </shortdescription>
                 <description>
                   <p>
-                    From the origin, the graph becomes steadily steeper until time equal to about 3 minutes.  Then the graph becomes steadily less steep through the end of the graph, at time equal to 6 minutes.
+                    From the origin, the graph increases and becomes steadily steeper until time equal to about 3 minutes.  Then the graph becomes steadily less steep through the end of the graph, at time equal to 6 minutes.
                   </p>
                 </description>
 	              <prefigure xmlns="https://prefigure.org" label="related-graph-height-prep">

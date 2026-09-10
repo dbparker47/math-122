@@ -46,6 +46,14 @@
       </p>
       <sidebyside widths="45% 45%">
         <image>
+          <shortdescription>
+        		The graph of a function consisting of two disconnected line segments.
+	        </shortdescription>
+    	    <description>
+    		    <p>
+		    	    The graph consists of two disconnected line segments. The first line segment in the graph begins with a closed circle at (-4,1) and ends with a closed circle at (-2,-3).  The second line segment begins with an open circle at (-2,-1) and ends with a closed circle at (4,1). Open circle means the point is not on the graph. Closed circle means the point is on the graph.
+    		    </p>
+    	    </description>
         	<prefigure xmlns="https://prefigure.org" label="piecewise-graph-prep2-1">
 		        <diagram dimensions="(300,300)" margins="5">
 			        <definition>f(x)= -2*(x+4)+1</definition>
@@ -63,6 +71,14 @@
     	    </prefigure>
         </image>
         <image>
+          <shortdescription>
+        		A continuous graph made up of a line segment, then a parabola, then another line segment.
+	        </shortdescription>
+    	    <description>
+		        <p>
+			        The graph consists of a line segment, followed by a parabola that opens downward, followed by another line segment. The three parts connect in one continuous graph. The first line segment in the graph begins with a closed circle at (-3,4) and ends at a closed circle at (-1,-2).  The parabola begins at (-1,-2), has a vertex at (1,4), and ends at a closed circle at (2,2.5). The last line segment begins at (2,2.5) and ends at a closed circle at (5,4).
+        		</p>
+	        </description>
     	    <prefigure xmlns="https://prefigure.org" label="piecewise-graph-prep2-2">
         		<diagram dimensions="(300,300)" margins="5">
     		    	<definition>f(x)= -3*(x+3)+4</definition>
@@ -73,11 +89,11 @@
         				<graph function="f" domain="(-3,-1)"/>
     		    		<graph function="g" domain="(-1,2)"/>
     				    <graph function="h" domain="(2,5)" />
-        				<point p="(-3,4)"> <m>(-3,4)</m> </point>
-    		    		<point p="(-1,-2)" alignment="nw"> <m>(-1,-2)</m> </point>
-    				    <point p="(1,4)" alignment="ne"> <m>(1,4)</m> </point>
-        				<point p="(2,2.5)" alignment="s"> <m>(2,2.5)</m> </point>
-    		    		<point p="(5,4)" alignment="n"> <m>(5,4)</m> </point>
+        				<point p="(-3,4)" fill="blue" stroke="blue"> <m>(-3,4)</m> </point>
+    				    <point p="(-1,-2)" fill="blue" stroke="blue" alignment="nw"> <m>(-1,-2)</m> </point>
+		    		    <point p="(1,4)" fill="blue" stroke="blue" alignment="ne"> <m>(1,4)</m> </point>
+				        <point p="(2,2.5)" fill="blue" stroke="blue" alignment="s"> <m>(2,2.5)</m> </point>
+    				    <point p="(5,4)" fill="blue" stroke="blue" alignment="n"> <m>(5,4)</m> </point>
     			    </coordinates>
     		    </diagram>
     	    </prefigure>

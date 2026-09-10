@@ -13,6 +13,14 @@
 
   <exercise>
     <image width="50%">
+      <shortdescription>
+		    Graph of an increasing function beginning at about (-4,-3) and ending at about (4,4).
+    	</shortdescription>
+	    <description>
+		    <p>
+			    The graph increases and gets progressively steeper from left to right.  The graph passes through the points (0,-2) and (2,0).
+		    </p>
+    	</description>
   	  <prefigure xmlns="https://prefigure.org" label="inverse-graph-1">
 	      <diagram dimensions="(300,300)" margins="5">
 			    <definition>f(x)= 2*sqrt(2)^x-4</definition>
@@ -27,6 +35,14 @@
 
   <exercise>
     <image width="50%">
+      <shortdescription>
+    		Graph of an increasing function beginning at about (-10,-3) and ending at about (10,9).
+	    </shortdescription>
+    	<description>
+		    <p>
+			    The graph increases and gets progressively steeper from (-10,-3) to (-4,2), crossing the x-axis at <m>x=-5</m>. Graph gets progressively less steep, but still increases, for the rest of the graph, crossing the y-axis at <m>y=6</m>.
+    		</p>
+	    </description>
 	    <prefigure xmlns="https://prefigure.org" label="inverse-graph-2">
 		    <diagram dimensions="(300,300)" margins="5">
       		<definition>f(x)= -2*sqrt(-x-4)+2</definition>

@@ -101,6 +101,14 @@
               Give a possible formula for the function whose graph is the following.
             </p>
             <image width="60%">
+              <shortdescription>
+                A graph of a polynomial that increases, then decreases, and then increases again. It crosses the x-axis 3 times.
+              </shortdescription>
+              <description>
+                <p>
+                  The graph begins below the x-axis at <m>x=-2</m>. The graph increases, crossing the x-axis at <m>x=-1</m> and peaking at about <m>x=1</m>. Then the graph decreases, crossing the x-axis at <m>x=3</m> and bottoming out at <m>x=4</m>. The graph increases for the remaining points, crossing the x-axis at <m>x=5</m>.
+                </p>
+              </description>
             	<prefigure xmlns="https://prefigure.org" label="poly-no-repeat-prep">
                 <diagram dimensions="(300, 300)" margins="5">
                   <definition>f(x)=0.2*(x+1)*(x-3)*(x-5)</definition>

@@ -66,9 +66,6 @@
               </shortdescription>
 	            <prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-1">
                 <diagram dimensions="(300, 300)" margins="5">
-                  <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
-                  <definition>g(x)=(3/16)*(x-6)^2+2.25</definition>
-                  <definition></definition>
                   <coordinates bbox="(-1,-1,9,12)">
                     <axes xlabel="x" ylabel="y" hticks="(0,1,8)" vticks="(0,1,11)" />
                     <point p="(1,4)"> <m>(1,4)</m> </point>
@@ -87,9 +84,6 @@
               </shortdescription>
             	<prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-2">
                 <diagram dimensions="(300, 300)" margins="5">
-                  <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
-                  <definition>g(x)=(3/16)*(x-6)^2+2.25</definition>
-                  <definition></definition>
                   <coordinates bbox="(-5,-15,5,5)">
                     <axes xlabel="x" ylabel="y" hticks="(-5,1,5)" vticks="(-15,1,5)" />
                     <point p="(-3,-3)" alignment="sw"> <m>(-3,-3)</m> </point>
@@ -108,9 +102,6 @@
               </shortdescription>
             	<prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-3">
                 <diagram dimensions="(300, 300)" margins="5">
-                  <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
-                  <definition>g(x)=(3/16)*(x-6)^2+2.25</definition>
-                  <definition></definition>
                   <coordinates bbox="(-1,-1,6,5)">
                     <axes xlabel="x" ylabel="y" hticks="(-5,1,5)" vticks="(-15,1,5)" />
                     <point p="(1,0)"> <m>(1,0)</m> </point>
@@ -129,9 +120,6 @@
               </shortdescription>
             	<prefigure xmlns="https://prefigure.org" label="quadratic-points-prep2-4">
                 <diagram dimensions="(300, 300)" margins="5">
-                  <definition>f(x)=(-3/8)*(x-3)^2+(27/8)</definition>
-                  <definition>g(x)=(3/16)*(x-6)^2+2.25</definition>
-                  <definition></definition>
                   <coordinates bbox="(-1,-1,5,6)">
                     <axes xlabel="x" ylabel="y" hticks="(-1,1,5)" vticks="(-1,1,5)" />
                     <point p="(1,2)" alignment="s"> <m>(1,2)</m> </point>

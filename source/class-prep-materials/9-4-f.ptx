@@ -91,13 +91,13 @@
           </li>
           <li>
             <p>The function with the following graph</p>
-            <image>
+            <image width="60%">
               <shortdescription>
                 Graph of a function.  The graph is in two continuous pieces.
               </shortdescription>
               <description>
                 <p>
-                  The first continuous piece of the graph begins at an open circle at (-2,3) and continues steadily downhill to another open circle at (1,1).  The next piece of the graph begins at a closed circle at (1,4) and continues downhill to a closed circle at (5,-2).  Open circle means the point is not on the graph. Closed circle means the point is on the graph.
+                  The graph is in two continuous pieces. The first continuous piece of the graph begins at an open circle at (-2,3) and continues steadily downhill to another open circle at (1,1).  The next piece of the graph begins at a closed circle at (1,4) and continues downhill to a closed circle at (5,-2).  Open circle means the point is not on the graph. Closed circle means the point is on the graph.
                 </p>
               </description>
             	<prefigure xmlns="https://prefigure.org" label="domain-range-graph-prep">
